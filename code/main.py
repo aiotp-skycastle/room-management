@@ -2,8 +2,12 @@ import serial
 import serial.tools.list_ports
 import RPi.GPIO as GPIO
 import requests
+import socket
 import time
 import logging
+
+
+requests.packages.urllib3.util.connection.allowed_gai_family = lambda: socket.AF_INET
 
 # **로깅 설정**
 logging.basicConfig(
@@ -49,6 +53,7 @@ previous_angle = 90
 
 # 각도 설정 함수
 def set_servo_angle(angle):
+    angle = 180 - angle
     duty = 2 + (angle / 18)
     GPIO.output(SERVO_PIN, True)
     servo.ChangeDutyCycle(duty)
@@ -68,13 +73,18 @@ def send_sensor_data(url, sensor_value):
 # GET 요청 함수
 def get_sensor_data(url):
     try:
-        response = requests.get(url)
+        logging.info(f"timesponse_data")
+        response = requests.get(url, timeout=5)
+        logging.info(response)
         response_data = response.json()
+        logging.info(f"timem: {response_data}")
         if response_data.get("success", False):  # success가 true인지 확인
             return response_data.get("status", 0)  # status 값 반환
         else:
             logging.warning(f"GET {url} 실패: success가 false입니다.")
             return None  # success가 false일 경우 None 반환
+    except requests.exceptions.Timeout:
+        print("요청이 타임아웃되었습니다.")
     except requests.RequestException as e:
         logging.error(f"GET 요청 오류: {e}")
         return None  # 요청 실패 시 None 반환
@@ -123,6 +133,8 @@ try:
                 set_servo_angle(desired_angle)
                 previous_angle = desired_angle  # 각도 업데이트
 
+
+        logging.info(f"time4: {current_time}")
         # 서보 모터 제어 주기
         time.sleep(0.5)
 

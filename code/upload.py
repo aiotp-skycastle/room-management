@@ -4,7 +4,7 @@ import time
 import subprocess
 
 # 서버 URL 설정
-SERVER_URL = "https://skycastle.cho0h5.org/room/camera/"
+SERVER_URL = "https://skycastle.cho0h5.org/stream/"
 
 # HLS 파일 경로
 HLS_DIR = "/home/yuyu/teamproject/camera"
@@ -19,7 +19,7 @@ def generate_hls():
         "-preset", "ultrafast",            # 빠른 인코딩
         "-f", "hls",                       # HLS 포맷
         "-hls_time", "1",                  # 세그먼트 길이 (1초)
-        "-hls_list_size", "3",             # 최신 3개의 세그먼트 유지
+        "-hls_list_size", "1",             # 최신 3개의 세그먼트 유지
         "-hls_flags", "delete_segments+split_by_time",  # 오래된 세그먼트 삭제
         os.path.join(HLS_DIR, "index.m3u8")  # 출력 파일 경로
     ]
