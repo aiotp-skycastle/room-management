@@ -57,7 +57,7 @@ servo.start(0)
 # 초기 (이전) 서보 모터의 각도
 previous_angle = 90
 
-# 각도 설정 함수
+# # 각도 설정 함수
 def set_servo_angle(angle):
     angle = 180 - angle
     duty = 2 + (angle / 18)
@@ -66,6 +66,31 @@ def set_servo_angle(angle):
     time.sleep(0.5)
     GPIO.output(SERVO_PIN, False)
     servo.ChangeDutyCycle(0)
+
+# 각도 설정 함수 (부드럽게 이동)
+# def set_servo_angle(current_angle, target_angle, step=1, delay=0.02):
+#     target_angle = 180 - target_angle
+#     try:
+#         while current_angle != target_angle:
+#             if current_angle < target_angle:
+#                 current_angle += step
+#                 if current_angle > target_angle:
+#                     current_angle = target_angle
+#             elif current_angle > target_angle:
+#                 current_angle -= step
+#                 if current_angle < target_angle:
+#                     current_angle = target_angle
+
+#             # 서보 모터 동작
+#             duty = 2 + (current_angle / 18)
+#             GPIO.output(SERVO_PIN, True)
+#             servo.ChangeDutyCycle(duty)
+#             time.sleep(delay)  # 부드러운 이동을 위한 딜레이
+#             GPIO.output(SERVO_PIN, False)
+#             servo.ChangeDutyCycle(0)
+#     except Exception as e:
+#         print(f"Error while moving servo: {e}")
+
 
 # # ffmpeg 명령어 실행 함수
 # def generate_hls():
@@ -195,6 +220,7 @@ try:
         if desired_angle is not None:
             logging.info(f"Received from Server - servo: {desired_angle}")
             if desired_angle != previous_angle:
+                # set_servo_angle(previous_angle, desired_angle)
                 set_servo_angle(desired_angle)
                 previous_angle = desired_angle  # 각도 업데이트
 

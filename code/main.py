@@ -7,6 +7,8 @@ import requests
 import socket
 import time
 import logging
+import shutil
+import hashlib
 
 
 requests.packages.urllib3.util.connection.allowed_gai_family = lambda: socket.AF_INET
@@ -50,15 +52,9 @@ except Exception as e:
     logging.error(f"Serial initialization error: {e}")
     ser = None
 
-# 서보 모터 PWM 설정
-servo = GPIO.PWM(SERVO_PIN, 50)
-servo.start(0)
-
-# 초기 (이전) 서보 모터의 각도
-previous_angle = 90
 
 # 각도 설정 함수
-def set_servo_angle(angle):
+def set_servo_angle(angle, servo):
     angle = 180 - angle
     duty = 2 + (angle / 18)
     GPIO.output(SERVO_PIN, True)
@@ -67,19 +63,34 @@ def set_servo_angle(angle):
     GPIO.output(SERVO_PIN, False)
     servo.ChangeDutyCycle(0)
 
+
+# 디렉토리 초기화 함수
+def initialize_directory():
+    if os.path.exists(HLS_DIR):
+        # print(HLS_DIR)
+        shutil.rmtree(HLS_DIR)
+    os.makedirs(HLS_DIR)
+
+# 파일 해시 계산 함수
+def get_file_hash(file_path):
+    with open(file_path, 'rb') as f:
+        return hashlib.md5(f.read()).hexdigest()
+
+
 # ffmpeg 명령어 실행 함수
 def generate_hls():
     ffmpeg_command = [
         "ffmpeg",
-        "-f", "v4l2",                      # Video4Linux2 포맷 사용
-        "-i", "/dev/video0",               # 카메라 장치
-        "-codec:v", "libx264",             # H.264 인코딩
-        "-preset", "ultrafast",            # 빠른 인코딩
-        "-f", "hls",                       # HLS 포맷
-        "-hls_time", "1",                  # 세그먼트 길이 (1초)
-        "-hls_list_size", "3",             # 최신 3개의 세그먼트 유지
-        "-hls_flags", "delete_segments+split_by_time",  # 오래된 세그먼트 삭제
-        os.path.join(HLS_DIR, "index.m3u8")  # 출력 파일 경로
+        "-f", "v4l2",
+        "-i", "/dev/video0",
+        "-codec:v", "libx264",
+        "-preset", "ultrafast",
+        "-f", "hls",
+        "-hls_time", "3",
+        "-hls_list_size", "3",
+        "-hls_flags", "delete_segments+split_by_time",
+        "-hls_start_number_source", "epoch",  # 타임스탬프 기반 시작 번호
+        os.path.join(HLS_DIR, "index.m3u8")
     ]
     try:
         subprocess.Popen(ffmpeg_command, stdout=subprocess.PIPE, stderr=subprocess.PIPE)
@@ -87,24 +98,29 @@ def generate_hls():
     except Exception as e:
         print(f"Error starting ffmpeg: {e}")
 
+
 # HLS 파일 전송 함수
-def upload_file(file_path):
+def upload_file(file_path, file_hashes):
     try:
-        with open(file_path, 'rb') as f:
-            files = {'file': (os.path.basename(file_path), f)}
-            response = requests.post(CAMERA_URL, files=files)
-            
-            # 서버 응답 확인
-            if response.ok:
-                json_response = response.json()
-                # if json_response.get("status") == "success":
-                print(f"Server Response: {json_response['message']}")
-                # else:
-                    # print(f"Server Error: {json_response.get('message', 'Unknown error')}")
-            else:
-                print(f"Failed to upload: {file_path}, Status code: {response.status_code}, Response: {response.text}")
+        filename = os.path.basename(file_path)
+        current_hash = get_file_hash(file_path)
+        
+        # .m3u8 파일이거나 파일 내용이 변경된 경우에만 업로드
+        if filename.endswith('.m3u8') or file_path not in file_hashes or file_hashes[file_path] != current_hash:
+            with open(file_path, 'rb') as f:
+                files = {'file': (filename, f)}
+                response = requests.post(CAMERA_URL, files=files)
+                
+                if response.status_code in [200, 201]:
+                    print(f"Successfully uploaded: {file_path}")
+                    file_hashes[file_path] = current_hash
+                else:
+                    print(f"Failed to upload: {file_path}, Status code: {response.status_code}, Response: {response.text}")
+        else:
+            print(f"File not changed, skipping upload: {file_path}")
     except Exception as e:
         print(f"Error uploading {file_path}: {e}")
+        
 
 # POST 요청 함수
 def send_sensor_data(url, sensor_value):
@@ -135,29 +151,34 @@ def get_sensor_data(url):
         return None  # 요청 실패 시 None 반환
 
 try:
+    # 서보 모터 PWM 설정
+    servo = GPIO.PWM(SERVO_PIN, 50)
+    servo.start(0)
+
+    # 초기 (이전) 서보 모터의 각도
+    previous_angle = 90
+    initialize_directory()
     last_sensor_time = time.time()  # 온도와 조도 센서의 마지막 전송 시간
     last_camera_time = last_sensor_time
+    last_servo_time = last_sensor_time
     # ffmpeg 실행
     generate_hls()
     # 이미 전송된 파일 추적
-    uploaded_files = set()
+    file_hashes = {}
     while True:
-        files = os.listdir(HLS_DIR)
-        
-         # 파일 이름에서 숫자 추출 및 정렬
-        files = sorted(
-            files,
-            key=lambda x: int(x.split('.')[0].replace('index', '')) if x.startswith('index') and x.endswith('.ts') else float('inf')
-        )
         current_time = time.time()
         # 2. 카메라 파일 1초마나 서버로 전송
         if current_time - last_camera_time >= 1:
-            last_camera_time = current_time
+            files = sorted(os.listdir(HLS_DIR))
             for file in files:
                 file_path = os.path.join(HLS_DIR, file)
-                if (file_path not in uploaded_files and os.path.isfile(file_path)) or file_path == os.path.join(HLS_DIR, "index.m3u8"):
-                    upload_file(file_path)
-                    uploaded_files.add(file_path)
+                if os.path.isfile(file_path):
+                    upload_file(file_path, file_hashes)
+            
+            # 오래된 파일 해시 제거
+            current_files = set(os.path.join(HLS_DIR, f) for f in os.listdir(HLS_DIR))
+            file_hashes = {k: v for k, v in file_hashes.items() if k in current_files}
+            last_camera_time = current_time
         # 1. 온도와 조도 데이터는 3초마다 서버로 전송
         if current_time - last_sensor_time >= 5 and ser:
             if ser.in_waiting > 0:
@@ -191,17 +212,17 @@ try:
             last_sensor_time = current_time  # 마지막 전송 시간 업데이트
 
         # 2. 서보 모터는 0.5초마다 서버로부터 각도 값을 가져와 제어
-        desired_angle = get_sensor_data(SERVO_URL)
-        if desired_angle is not None:
-            logging.info(f"Received from Server - servo: {desired_angle}")
-            if desired_angle != previous_angle:
-                set_servo_angle(desired_angle)
-                previous_angle = desired_angle  # 각도 업데이트
-
-
-        logging.info(f"time4: {current_time}")
-        # 서보 모터 제어 주기
-        time.sleep(0.5)
+        if current_time - last_servo_time >= 0.5:
+            desired_angle = get_sensor_data(SERVO_URL)
+            if desired_angle is not None:
+                logging.info(f"Received from Server - servo: {desired_angle}")
+                if desired_angle != previous_angle:
+                    set_servo_angle(desired_angle, servo)
+                    previous_angle = desired_angle  # 각도 업데이트
+            last_servo_time = current_time
+            
+        # 루프 제어 주기
+        time.sleep(0.01)
 
 except KeyboardInterrupt:
     logging.info("프로그램 종료")
