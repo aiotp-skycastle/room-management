@@ -97,10 +97,10 @@ def upload_file(file_path):
             # 서버 응답 확인
             if response.ok:
                 json_response = response.json()
-                if json_response.get("status") == "success":
-                    print(f"Server Response: {json_response['message']}")
-                else:
-                    print(f"Server Error: {json_response.get('message', 'Unknown error')}")
+                # if json_response.get("status") == "success":
+                print(f"Server Response: {json_response['message']}")
+                # else:
+                    # print(f"Server Error: {json_response.get('message', 'Unknown error')}")
             else:
                 print(f"Failed to upload: {file_path}, Status code: {response.status_code}, Response: {response.text}")
     except Exception as e:
@@ -118,11 +118,11 @@ def send_sensor_data(url, sensor_value):
 # GET 요청 함수
 def get_sensor_data(url):
     try:
-        logging.info(f"timesponse_data")
+        # logging.info(f"timesponse_data")
         response = requests.get(url, timeout=5)
-        logging.info(response)
+        # logging.info(response)
         response_data = response.json()
-        logging.info(f"timem: {response_data}")
+        # logging.info(f"timem: {response_data}")
         if response_data.get("success", False):  # success가 true인지 확인
             return response_data.get("status", 0)  # status 값 반환
         else:
@@ -143,16 +143,21 @@ try:
     uploaded_files = set()
     while True:
         files = os.listdir(HLS_DIR)
-
+        
+         # 파일 이름에서 숫자 추출 및 정렬
+        files = sorted(
+            files,
+            key=lambda x: int(x.split('.')[0].replace('index', '')) if x.startswith('index') and x.endswith('.ts') else float('inf')
+        )
         current_time = time.time()
         # 2. 카메라 파일 1초마나 서버로 전송
         if current_time - last_camera_time >= 1:
+            last_camera_time = current_time
             for file in files:
                 file_path = os.path.join(HLS_DIR, file)
-                if file_path not in uploaded_files and os.path.isfile(file_path):
+                if (file_path not in uploaded_files and os.path.isfile(file_path)) or file_path == os.path.join(HLS_DIR, "index.m3u8"):
                     upload_file(file_path)
                     uploaded_files.add(file_path)
-            last_camera_time = current_time
         # 1. 온도와 조도 데이터는 3초마다 서버로 전송
         if current_time - last_sensor_time >= 3 and ser:
             if ser.in_waiting > 0:
