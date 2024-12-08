@@ -12,7 +12,7 @@ requests.packages.urllib3.util.connection.allowed_gai_family = lambda: socket.AF
 
 # **로깅 설정**
 logging.basicConfig(
-    filename='../log/room_log.txt',  # 로그 파일 이름
+    filename='./log/room_log.txt',  # 로그 파일 이름
     level=logging.INFO,  # 로깅 수준
     format='%(asctime)s - %(levelname)s - %(message)s',  # 시간, 로그 수준, 메시지 형식
     datefmt='%Y-%m-%d %H:%M:%S'  # 시간 형식

@@ -1,0 +1,2 @@
+@reboot sleep 10 && cd /home/yuyu/teamproject/ && /home/yuyu/teamproject/roomenv/bin/python /home/yuyu/teamproject/code/sensor.py 
+@reboot sleep 10 && cd /home/yuyu/teamproject/ && /home/yuyu/teamproject/roomenv/bin/python /home/yuyu/teamproject/code/camera.py
