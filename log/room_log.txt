@@ -1,0 +1,2355 @@
+2024-12-08 14:11:35 - INFO - Received from Arduino: Temperature:25.71,Lux:867.33
+2024-12-08 14:11:36 - INFO - POST https://skycastle.cho0h5.org/room/temperature 성공: {'success': True}
+2024-12-08 14:11:36 - INFO - POST https://skycastle.cho0h5.org/room/illuminance 성공: {'success': True}
+2024-12-08 14:11:37 - INFO - Received from Server - light: 867.33
+2024-12-08 14:11:37 - INFO - Received from Server - temperature: 25.71
+2024-12-08 14:11:38 - INFO - Received from Server - servo: 10
+2024-12-08 14:11:39 - INFO - Received from Server - servo: 10
+2024-12-08 14:11:40 - INFO - Received from Server - servo: 10
+2024-12-08 14:11:41 - INFO - Received from Server - servo: 10
+2024-12-08 14:11:41 - INFO - Received from Arduino: Temperature:21.21,Lux:860.43
+2024-12-08 14:11:42 - INFO - POST https://skycastle.cho0h5.org/room/temperature 성공: {'success': True}
+2024-12-08 14:11:42 - INFO - POST https://skycastle.cho0h5.org/room/illuminance 성공: {'success': True}
+2024-12-08 14:11:42 - INFO - Received from Server - light: 860.43
+2024-12-08 14:11:43 - INFO - Received from Server - temperature: 21.21
+2024-12-08 14:11:44 - INFO - Received from Server - servo: 10
+2024-12-08 14:11:44 - INFO - Received from Server - servo: 10
+2024-12-08 14:11:46 - INFO - Received from Server - servo: 10
+2024-12-08 14:11:46 - INFO - Received from Server - servo: 10
+2024-12-08 14:11:47 - INFO - Received from Arduino: Temperature:28.89,Lux:864.63
+2024-12-08 14:11:48 - INFO - POST https://skycastle.cho0h5.org/room/temperature 성공: {'success': True}
+2024-12-08 14:11:48 - INFO - POST https://skycastle.cho0h5.org/room/illuminance 성공: {'success': True}
+2024-12-08 14:11:49 - INFO - Received from Server - light: 864.63
+2024-12-08 14:11:49 - INFO - Received from Server - temperature: 28.89
+2024-12-08 14:11:49 - INFO - Received from Server - servo: 10
+2024-12-08 14:11:50 - INFO - Received from Server - servo: 10
+2024-12-08 14:11:51 - INFO - Received from Server - servo: 10
+2024-12-08 14:11:52 - INFO - Received from Server - servo: 10
+2024-12-08 14:11:53 - INFO - Received from Arduino: Temperature:26.39,Lux:863.37
+2024-12-08 14:11:53 - INFO - POST https://skycastle.cho0h5.org/room/temperature 성공: {'success': True}
+2024-12-08 14:11:53 - INFO - POST https://skycastle.cho0h5.org/room/illuminance 성공: {'success': True}
+2024-12-08 14:11:54 - INFO - Received from Server - light: 863.37
+2024-12-08 14:11:54 - INFO - Received from Server - temperature: 26.39
+2024-12-08 14:11:55 - INFO - Received from Server - servo: 10
+2024-12-08 14:11:55 - INFO - Received from Server - servo: 10
+2024-12-08 14:11:57 - INFO - Received from Server - servo: 10
+2024-12-08 14:11:57 - INFO - Received from Server - servo: 10
+2024-12-08 14:11:58 - INFO - Received from Arduino: Temperature:27.86,Lux:861.73
+2024-12-08 14:11:58 - INFO - POST https://skycastle.cho0h5.org/room/temperature 성공: {'success': True}
+2024-12-08 14:12:00 - INFO - POST https://skycastle.cho0h5.org/room/illuminance 성공: {'success': True}
+2024-12-08 14:12:00 - INFO - Received from Server - light: 861.73
+2024-12-08 14:12:00 - INFO - Received from Server - temperature: 27.86
+2024-12-08 14:12:01 - INFO - Received from Server - servo: 10
+2024-12-08 14:12:02 - INFO - Received from Server - servo: 10
+2024-12-08 14:12:03 - INFO - Received from Server - servo: 10
+2024-12-08 14:12:03 - INFO - Received from Arduino: Temperature:24.29,Lux:866.73
+2024-12-08 14:12:04 - INFO - POST https://skycastle.cho0h5.org/room/temperature 성공: {'success': True}
+2024-12-08 14:12:04 - INFO - POST https://skycastle.cho0h5.org/room/illuminance 성공: {'success': True}
+2024-12-08 14:12:05 - INFO - Received from Server - light: 866.73
+2024-12-08 14:12:05 - INFO - Received from Server - temperature: 24.29
+2024-12-08 14:12:06 - INFO - Received from Server - servo: 10
+2024-12-08 14:12:07 - INFO - Received from Server - servo: 10
+2024-12-08 14:12:08 - INFO - Received from Server - servo: 10
+2024-12-08 14:12:09 - INFO - Received from Server - servo: 10
+2024-12-08 14:12:10 - INFO - Received from Arduino: Temperature:24.68,Lux:858.47
+2024-12-08 14:12:10 - INFO - POST https://skycastle.cho0h5.org/room/temperature 성공: {'success': True}
+2024-12-08 14:12:10 - INFO - POST https://skycastle.cho0h5.org/room/illuminance 성공: {'success': True}
+2024-12-08 14:12:11 - INFO - Received from Server - light: 858.47
+2024-12-08 14:12:11 - INFO - Received from Server - temperature: 24.68
+2024-12-08 14:12:12 - INFO - Received from Server - servo: 10
+2024-12-08 14:12:13 - INFO - Received from Server - servo: 10
+2024-12-08 14:12:14 - INFO - Received from Server - servo: 10
+2024-12-08 14:12:15 - INFO - Received from Server - servo: 10
+2024-12-08 14:12:16 - INFO - Received from Arduino: Temperature:24.19,Lux:868.27
+2024-12-08 14:12:16 - INFO - POST https://skycastle.cho0h5.org/room/temperature 성공: {'success': True}
+2024-12-08 14:12:16 - INFO - POST https://skycastle.cho0h5.org/room/illuminance 성공: {'success': True}
+2024-12-08 14:12:17 - INFO - Received from Server - light: 868.27
+2024-12-08 14:12:17 - INFO - Received from Server - temperature: 24.19
+2024-12-08 14:12:18 - INFO - Received from Server - servo: 10
+2024-12-08 14:12:19 - INFO - Received from Server - servo: 10
+2024-12-08 14:12:20 - INFO - Received from Server - servo: 10
+2024-12-08 14:12:21 - INFO - Received from Server - servo: 10
+2024-12-08 14:12:21 - INFO - Received from Arduino: Temperature:21.55,Lux:863.97
+2024-12-08 14:12:22 - INFO - POST https://skycastle.cho0h5.org/room/temperature 성공: {'success': True}
+2024-12-08 14:12:22 - INFO - POST https://skycastle.cho0h5.org/room/illuminance 성공: {'success': True}
+2024-12-08 14:12:23 - INFO - Received from Server - light: 863.97
+2024-12-08 14:12:23 - INFO - Received from Server - temperature: 21.55
+2024-12-08 14:12:23 - INFO - Received from Server - servo: 10
+2024-12-08 14:12:24 - INFO - Received from Server - servo: 10
+2024-12-08 14:12:25 - INFO - Received from Server - servo: 10
+2024-12-08 14:12:26 - INFO - Received from Server - servo: 10
+2024-12-08 14:12:27 - INFO - Received from Arduino: Temperature:20.14,Lux:862.80
+2024-12-08 14:12:27 - INFO - POST https://skycastle.cho0h5.org/room/temperature 성공: {'success': True}
+2024-12-08 14:12:28 - INFO - POST https://skycastle.cho0h5.org/room/illuminance 성공: {'success': True}
+2024-12-08 14:12:28 - INFO - Received from Server - light: 862.8
+2024-12-08 14:12:29 - INFO - Received from Server - temperature: 20.14
+2024-12-08 14:12:29 - INFO - Received from Server - servo: 10
+2024-12-08 14:12:30 - INFO - Received from Server - servo: 10
+2024-12-08 14:12:31 - INFO - Received from Server - servo: 10
+2024-12-08 14:12:32 - INFO - Received from Server - servo: 10
+2024-12-08 14:12:33 - INFO - Received from Arduino: Temperature:23.31,Lux:868.67
+2024-12-08 14:12:33 - INFO - POST https://skycastle.cho0h5.org/room/temperature 성공: {'success': True}
+2024-12-08 14:12:33 - INFO - POST https://skycastle.cho0h5.org/room/illuminance 성공: {'success': True}
+2024-12-08 14:12:34 - INFO - Received from Server - light: 868.67
+2024-12-08 14:12:35 - INFO - Received from Server - temperature: 23.31
+2024-12-08 14:12:35 - INFO - Received from Server - servo: 10
+2024-12-08 14:12:36 - INFO - Received from Server - servo: 10
+2024-12-08 14:12:37 - INFO - Received from Server - servo: 10
+2024-12-08 14:12:38 - INFO - Received from Server - servo: 10
+2024-12-08 14:12:39 - INFO - Received from Arduino: Temperature:28.98,Lux:860.37
+2024-12-08 14:12:39 - INFO - POST https://skycastle.cho0h5.org/room/temperature 성공: {'success': True}
+2024-12-08 14:12:40 - INFO - POST https://skycastle.cho0h5.org/room/illuminance 성공: {'success': True}
+2024-12-08 14:12:40 - INFO - Received from Server - light: 860.37
+2024-12-08 14:12:40 - INFO - Received from Server - temperature: 28.98
+2024-12-08 14:12:41 - INFO - Received from Server - servo: 10
+2024-12-08 14:12:42 - INFO - Received from Server - servo: 10
+2024-12-08 14:12:43 - INFO - Received from Server - servo: 10
+2024-12-08 14:12:44 - INFO - Received from Server - servo: 10
+2024-12-08 14:12:44 - INFO - Received from Arduino: Temperature:23.41,Lux:869.03
+2024-12-08 14:12:45 - INFO - POST https://skycastle.cho0h5.org/room/temperature 성공: {'success': True}
+2024-12-08 14:12:46 - INFO - POST https://skycastle.cho0h5.org/room/illuminance 성공: {'success': True}
+2024-12-08 14:12:46 - INFO - Received from Server - light: 869.03
+2024-12-08 14:12:46 - INFO - Received from Server - temperature: 23.41
+2024-12-08 14:12:47 - INFO - Received from Server - servo: 10
+2024-12-08 14:12:48 - INFO - Received from Server - servo: 10
+2024-12-08 14:12:48 - INFO - Received from Server - servo: 10
+2024-12-08 14:12:49 - INFO - Received from Server - servo: 10
+2024-12-08 14:12:50 - INFO - Received from Arduino: Temperature:23.85,Lux:863.83
+2024-12-08 14:12:50 - INFO - POST https://skycastle.cho0h5.org/room/temperature 성공: {'success': True}
+2024-12-08 14:12:50 - INFO - POST https://skycastle.cho0h5.org/room/illuminance 성공: {'success': True}
+2024-12-08 14:12:51 - INFO - Received from Server - light: 863.83
+2024-12-08 14:12:52 - INFO - Received from Server - temperature: 23.85
+2024-12-08 14:12:52 - INFO - Received from Server - servo: 10
+2024-12-08 14:12:53 - INFO - Received from Server - servo: 10
+2024-12-08 14:12:54 - INFO - Received from Server - servo: 10
+2024-12-08 14:12:55 - INFO - Received from Server - servo: 10
+2024-12-08 14:12:56 - INFO - Received from Arduino: Temperature:27.37,Lux:858.87
+2024-12-08 14:12:56 - INFO - POST https://skycastle.cho0h5.org/room/temperature 성공: {'success': True}
+2024-12-08 14:12:56 - INFO - POST https://skycastle.cho0h5.org/room/illuminance 성공: {'success': True}
+2024-12-08 14:12:57 - INFO - Received from Server - light: 858.87
+2024-12-08 14:12:58 - INFO - Received from Server - temperature: 27.37
+2024-12-08 14:12:58 - INFO - Received from Server - servo: 10
+2024-12-08 14:13:00 - INFO - Received from Server - servo: 10
+2024-12-08 14:13:00 - INFO - Received from Server - servo: 10
+2024-12-08 14:13:01 - INFO - Received from Arduino: Temperature:24.98,Lux:862.17
+2024-12-08 14:13:02 - INFO - POST https://skycastle.cho0h5.org/room/temperature 성공: {'success': True}
+2024-12-08 14:13:02 - INFO - POST https://skycastle.cho0h5.org/room/illuminance 성공: {'success': True}
+2024-12-08 14:13:03 - INFO - Received from Server - light: 862.17
+2024-12-08 14:13:03 - INFO - Received from Server - temperature: 24.98
+2024-12-08 14:13:03 - INFO - Received from Server - servo: 10
+2024-12-08 14:13:05 - INFO - Received from Server - servo: 10
+2024-12-08 14:13:05 - INFO - Received from Server - servo: 10
+2024-12-08 14:13:07 - INFO - Received from Server - servo: 10
+2024-12-08 14:13:07 - INFO - Received from Arduino: Temperature:22.43,Lux:861.80
+2024-12-08 14:13:08 - INFO - POST https://skycastle.cho0h5.org/room/temperature 성공: {'success': True}
+2024-12-08 14:13:08 - INFO - POST https://skycastle.cho0h5.org/room/illuminance 성공: {'success': True}
+2024-12-08 14:13:09 - INFO - Received from Server - light: 861.8
+2024-12-08 14:13:09 - INFO - Received from Server - temperature: 22.43
+2024-12-08 14:13:09 - INFO - Received from Server - servo: 10
+2024-12-08 14:13:11 - INFO - Received from Server - servo: 10
+2024-12-08 14:13:11 - INFO - Received from Server - servo: 10
+2024-12-08 14:13:13 - INFO - Received from Server - servo: 10
+2024-12-08 14:13:13 - INFO - Received from Arduino: Temperature:26.98,Lux:860.00
+2024-12-08 14:13:15 - INFO - POST https://skycastle.cho0h5.org/room/temperature 성공: {'success': True}
+2024-12-08 14:13:15 - INFO - POST https://skycastle.cho0h5.org/room/illuminance 성공: {'success': True}
+2024-12-08 14:13:15 - INFO - Received from Server - light: 860.0
+2024-12-08 14:13:16 - INFO - Received from Server - temperature: 26.98
+2024-12-08 14:13:17 - INFO - Received from Server - servo: 10
+2024-12-08 14:13:17 - INFO - Received from Server - servo: 10
+2024-12-08 14:13:19 - INFO - Received from Server - servo: 10
+2024-12-08 14:13:19 - INFO - Received from Arduino: Temperature:28.20,Lux:859.80
+2024-12-08 14:13:19 - INFO - POST https://skycastle.cho0h5.org/room/temperature 성공: {'success': True}
+2024-12-08 14:13:20 - INFO - POST https://skycastle.cho0h5.org/room/illuminance 성공: {'success': True}
+2024-12-08 14:13:20 - INFO - Received from Server - light: 859.8
+2024-12-08 14:13:21 - INFO - Received from Server - temperature: 28.2
+2024-12-08 14:13:21 - INFO - Received from Server - servo: 10
+2024-12-08 14:13:23 - INFO - Received from Server - servo: 10
+2024-12-08 14:13:24 - INFO - Received from Server - servo: 10
+2024-12-08 14:13:25 - INFO - Received from Server - servo: 10
+2024-12-08 14:13:25 - INFO - Received from Arduino: Temperature:23.75,Lux:860.43
+2024-12-08 14:13:26 - INFO - POST https://skycastle.cho0h5.org/room/temperature 성공: {'success': True}
+2024-12-08 14:13:26 - INFO - POST https://skycastle.cho0h5.org/room/illuminance 성공: {'success': True}
+2024-12-08 14:13:26 - INFO - Received from Server - light: 860.43
+2024-12-08 14:13:27 - INFO - Received from Server - temperature: 23.75
+2024-12-08 14:13:27 - INFO - Received from Server - servo: 10
+2024-12-08 14:13:28 - INFO - Received from Server - servo: 10
+2024-12-08 14:13:29 - INFO - Received from Server - servo: 10
+2024-12-08 14:13:30 - INFO - Received from Server - servo: 10
+2024-12-08 14:13:30 - INFO - Received from Arduino: Temperature:25.02,Lux:863.37
+2024-12-08 14:13:31 - INFO - POST https://skycastle.cho0h5.org/room/temperature 성공: {'success': True}
+2024-12-08 14:13:31 - INFO - POST https://skycastle.cho0h5.org/room/illuminance 성공: {'success': True}
+2024-12-08 14:13:32 - INFO - Received from Server - light: 863.37
+2024-12-08 14:13:32 - INFO - Received from Server - temperature: 25.02
+2024-12-08 14:13:32 - INFO - Received from Server - servo: 10
+2024-12-08 14:13:33 - INFO - Received from Server - servo: 10
+2024-12-08 14:13:34 - INFO - Received from Server - servo: 10
+2024-12-08 14:13:35 - INFO - Received from Server - servo: 10
+2024-12-08 14:13:36 - INFO - Received from Arduino: Temperature:22.04,Lux:863.27
+2024-12-08 14:13:36 - INFO - POST https://skycastle.cho0h5.org/room/temperature 성공: {'success': True}
+2024-12-08 14:13:36 - INFO - POST https://skycastle.cho0h5.org/room/illuminance 성공: {'success': True}
+2024-12-08 14:13:37 - INFO - Received from Server - light: 863.27
+2024-12-08 14:13:37 - INFO - Received from Server - temperature: 22.04
+2024-12-08 14:13:38 - INFO - Received from Server - servo: 10
+2024-12-08 14:13:39 - INFO - Received from Server - servo: 10
+2024-12-08 14:13:40 - INFO - Received from Server - servo: 10
+2024-12-08 14:13:41 - INFO - Received from Server - servo: 10
+2024-12-08 14:13:41 - INFO - Received from Arduino: Temperature:23.07,Lux:861.43
+2024-12-08 14:13:41 - INFO - POST https://skycastle.cho0h5.org/room/temperature 성공: {'success': True}
+2024-12-08 14:13:42 - INFO - POST https://skycastle.cho0h5.org/room/illuminance 성공: {'success': True}
+2024-12-08 14:13:42 - INFO - Received from Server - light: 861.43
+2024-12-08 14:13:43 - INFO - Received from Server - temperature: 23.07
+2024-12-08 14:13:43 - INFO - Received from Server - servo: 10
+2024-12-08 14:13:44 - INFO - Received from Server - servo: 10
+2024-12-08 14:13:45 - INFO - Received from Server - servo: 10
+2024-12-08 14:13:46 - INFO - Received from Server - servo: 10
+2024-12-08 14:13:47 - INFO - Received from Arduino: Temperature:25.90,Lux:861.13
+2024-12-08 14:13:47 - INFO - POST https://skycastle.cho0h5.org/room/temperature 성공: {'success': True}
+2024-12-08 14:13:48 - INFO - POST https://skycastle.cho0h5.org/room/illuminance 성공: {'success': True}
+2024-12-08 14:13:48 - INFO - Received from Server - light: 861.13
+2024-12-08 14:13:48 - INFO - Received from Server - temperature: 25.9
+2024-12-08 14:13:49 - INFO - Received from Server - servo: 10
+2024-12-08 14:13:50 - INFO - Received from Server - servo: 10
+2024-12-08 14:13:51 - INFO - Received from Server - servo: 10
+2024-12-08 14:13:51 - INFO - Received from Server - servo: 10
+2024-12-08 14:13:52 - INFO - Received from Arduino: Temperature:24.58,Lux:861.13
+2024-12-08 14:13:52 - INFO - POST https://skycastle.cho0h5.org/room/temperature 성공: {'success': True}
+2024-12-08 14:13:53 - INFO - POST https://skycastle.cho0h5.org/room/illuminance 성공: {'success': True}
+2024-12-08 14:13:53 - INFO - Received from Server - light: 861.13
+2024-12-08 14:13:54 - INFO - Received from Server - temperature: 24.58
+2024-12-08 14:13:54 - INFO - Received from Server - servo: 10
+2024-12-08 14:13:55 - INFO - Received from Server - servo: 10
+2024-12-08 14:13:56 - INFO - Received from Server - servo: 10
+2024-12-08 14:13:57 - INFO - Received from Server - servo: 10
+2024-12-08 14:13:58 - INFO - Received from Arduino: Temperature:22.48,Lux:864.37
+2024-12-08 14:13:58 - INFO - POST https://skycastle.cho0h5.org/room/temperature 성공: {'success': True}
+2024-12-08 14:13:58 - INFO - POST https://skycastle.cho0h5.org/room/illuminance 성공: {'success': True}
+2024-12-08 14:13:58 - INFO - 프로그램 종료
+2024-12-08 14:19:46 - INFO - Connected to serial port: /dev/ttyACM0
+2024-12-08 14:19:47 - INFO - Received from Server - servo: 10
+2024-12-08 14:19:48 - INFO - Received from Server - servo: 10
+2024-12-08 14:19:49 - INFO - Received from Server - servo: 10
+2024-12-08 14:19:50 - INFO - Received from Server - servo: 10
+2024-12-08 14:19:51 - INFO - Received from Server - servo: 10
+2024-12-08 14:19:52 - INFO - Received from Server - light: 864.37
+2024-12-08 14:19:53 - INFO - Received from Server - temperature: 22.48
+2024-12-08 14:19:53 - INFO - Received from Server - servo: 10
+2024-12-08 14:19:55 - INFO - Received from Server - servo: 10
+2024-12-08 14:19:55 - INFO - Received from Server - servo: 10
+2024-12-08 14:19:56 - INFO - Received from Server - servo: 10
+2024-12-08 14:19:57 - INFO - Received from Arduino: Temperature:25.27,Lux:859.63
+2024-12-08 14:19:57 - INFO - POST https://skycastle.cho0h5.org/room/temperature 성공: {'success': True}
+2024-12-08 14:19:58 - INFO - POST https://skycastle.cho0h5.org/room/illuminance 성공: {'success': True}
+2024-12-08 14:19:58 - INFO - Received from Server - light: 859.63
+2024-12-08 14:19:59 - INFO - Received from Server - temperature: 25.27
+2024-12-08 14:19:59 - INFO - Received from Server - servo: 10
+2024-12-08 14:20:01 - INFO - Received from Server - servo: 10
+2024-12-08 14:20:01 - INFO - Received from Server - servo: 10
+2024-12-08 14:20:02 - INFO - Received from Server - servo: 10
+2024-12-08 14:20:03 - INFO - Received from Arduino: Temperature:28.84,Lux:866.63
+2024-12-08 14:20:03 - INFO - POST https://skycastle.cho0h5.org/room/temperature 성공: {'success': True}
+2024-12-08 14:20:04 - INFO - POST https://skycastle.cho0h5.org/room/illuminance 성공: {'success': True}
+2024-12-08 14:20:05 - INFO - Received from Server - light: 866.63
+2024-12-08 14:20:05 - INFO - Received from Server - temperature: 28.84
+2024-12-08 14:20:05 - INFO - Received from Server - servo: 10
+2024-12-08 14:20:06 - INFO - Received from Server - servo: 10
+2024-12-08 14:20:07 - INFO - Received from Server - servo: 10
+2024-12-08 14:20:08 - INFO - Received from Arduino: Temperature:26.88,Lux:858.20
+2024-12-08 14:20:09 - INFO - POST https://skycastle.cho0h5.org/room/temperature 성공: {'success': True}
+2024-12-08 14:20:09 - INFO - POST https://skycastle.cho0h5.org/room/illuminance 성공: {'success': True}
+2024-12-08 14:20:11 - INFO - Received from Server - light: 858.2
+2024-12-08 14:20:11 - INFO - Received from Server - temperature: 26.88
+2024-12-08 14:20:11 - INFO - Received from Server - servo: 10
+2024-12-08 14:20:13 - INFO - Received from Server - servo: 10
+2024-12-08 14:20:13 - INFO - Received from Arduino: Temperature:22.43,Lux:858.60
+2024-12-08 14:20:14 - INFO - POST https://skycastle.cho0h5.org/room/temperature 성공: {'success': True}
+2024-12-08 14:20:14 - INFO - POST https://skycastle.cho0h5.org/room/illuminance 성공: {'success': True}
+2024-12-08 14:20:14 - INFO - Received from Server - light: 858.6
+2024-12-08 14:20:15 - INFO - Received from Server - temperature: 22.43
+2024-12-08 14:20:15 - INFO - Received from Server - servo: 10
+2024-12-08 14:20:16 - INFO - Received from Server - servo: 10
+2024-12-08 14:20:17 - INFO - Received from Server - servo: 10
+2024-12-08 14:20:18 - INFO - Received from Server - servo: 10
+2024-12-08 14:20:19 - INFO - Received from Arduino: Temperature:23.07,Lux:866.63
+2024-12-08 14:20:19 - INFO - POST https://skycastle.cho0h5.org/room/temperature 성공: {'success': True}
+2024-12-08 14:20:20 - INFO - POST https://skycastle.cho0h5.org/room/illuminance 성공: {'success': True}
+2024-12-08 14:20:20 - INFO - Received from Server - light: 866.63
+2024-12-08 14:20:20 - INFO - Received from Server - temperature: 23.07
+2024-12-08 14:20:21 - INFO - Received from Server - servo: 10
+2024-12-08 14:20:22 - INFO - Received from Server - servo: 10
+2024-12-08 14:20:23 - INFO - Received from Server - servo: 10
+2024-12-08 14:20:24 - INFO - Received from Server - servo: 10
+2024-12-08 14:20:24 - INFO - Received from Arduino: Temperature:26.83,Lux:867.07
+2024-12-08 14:20:25 - INFO - POST https://skycastle.cho0h5.org/room/temperature 성공: {'success': True}
+2024-12-08 14:20:25 - INFO - POST https://skycastle.cho0h5.org/room/illuminance 성공: {'success': True}
+2024-12-08 14:20:26 - INFO - Received from Server - light: 867.07
+2024-12-08 14:20:26 - INFO - Received from Server - temperature: 26.83
+2024-12-08 14:20:26 - INFO - Received from Server - servo: 10
+2024-12-08 14:20:28 - INFO - Received from Server - servo: 10
+2024-12-08 14:20:29 - INFO - Received from Server - servo: 10
+2024-12-08 14:20:30 - INFO - Received from Server - servo: 10
+2024-12-08 14:20:30 - INFO - Received from Arduino: Temperature:23.61,Lux:863.83
+2024-12-08 14:20:31 - INFO - POST https://skycastle.cho0h5.org/room/temperature 성공: {'success': True}
+2024-12-08 14:20:31 - INFO - POST https://skycastle.cho0h5.org/room/illuminance 성공: {'success': True}
+2024-12-08 14:20:32 - INFO - Received from Server - light: 863.83
+2024-12-08 14:20:32 - INFO - Received from Server - temperature: 23.61
+2024-12-08 14:20:32 - INFO - Received from Server - servo: 10
+2024-12-08 14:20:33 - INFO - Received from Server - servo: 10
+2024-12-08 14:20:34 - INFO - Received from Server - servo: 10
+2024-12-08 14:20:35 - INFO - Received from Server - servo: 10
+2024-12-08 14:20:36 - INFO - Received from Arduino: Temperature:26.15,Lux:860.53
+2024-12-08 14:20:36 - INFO - POST https://skycastle.cho0h5.org/room/temperature 성공: {'success': True}
+2024-12-08 14:20:37 - INFO - POST https://skycastle.cho0h5.org/room/illuminance 성공: {'success': True}
+2024-12-08 14:20:37 - INFO - Received from Server - light: 860.53
+2024-12-08 14:20:38 - INFO - Received from Server - temperature: 26.15
+2024-12-08 14:20:38 - INFO - Received from Server - servo: 10
+2024-12-08 14:20:39 - INFO - Received from Server - servo: 10
+2024-12-08 14:20:40 - INFO - Received from Server - servo: 10
+2024-12-08 14:20:41 - INFO - Received from Server - servo: 10
+2024-12-08 14:20:41 - INFO - Received from Arduino: Temperature:24.49,Lux:863.87
+2024-12-08 14:20:42 - INFO - POST https://skycastle.cho0h5.org/room/temperature 성공: {'success': True}
+2024-12-08 14:20:42 - INFO - POST https://skycastle.cho0h5.org/room/illuminance 성공: {'success': True}
+2024-12-08 14:20:42 - INFO - Received from Server - light: 863.87
+2024-12-08 14:20:43 - INFO - Received from Server - temperature: 24.49
+2024-12-08 14:20:43 - INFO - Received from Server - servo: 10
+2024-12-08 14:20:45 - INFO - Received from Server - servo: 10
+2024-12-08 14:20:46 - INFO - Received from Server - servo: 10
+2024-12-08 14:20:46 - INFO - Received from Server - servo: 10
+2024-12-08 14:20:47 - INFO - Received from Arduino: Temperature:23.70,Lux:867.50
+2024-12-08 14:20:47 - INFO - POST https://skycastle.cho0h5.org/room/temperature 성공: {'success': True}
+2024-12-08 14:20:48 - INFO - POST https://skycastle.cho0h5.org/room/illuminance 성공: {'success': True}
+2024-12-08 14:20:48 - INFO - Received from Server - light: 867.5
+2024-12-08 14:20:49 - INFO - Received from Server - temperature: 23.7
+2024-12-08 14:20:49 - INFO - Received from Server - servo: 10
+2024-12-08 14:20:50 - INFO - Received from Server - servo: 10
+2024-12-08 14:20:51 - INFO - Received from Server - servo: 10
+2024-12-08 14:20:52 - INFO - Received from Server - servo: 10
+2024-12-08 14:20:53 - INFO - Received from Arduino: Temperature:22.83,Lux:859.27
+2024-12-08 14:20:53 - INFO - POST https://skycastle.cho0h5.org/room/temperature 성공: {'success': True}
+2024-12-08 14:20:54 - INFO - POST https://skycastle.cho0h5.org/room/illuminance 성공: {'success': True}
+2024-12-08 14:20:56 - INFO - Received from Server - light: 859.27
+2024-12-08 14:20:56 - INFO - Received from Server - temperature: 22.83
+2024-12-08 14:20:56 - INFO - Received from Server - servo: 10
+2024-12-08 14:20:58 - INFO - Received from Server - servo: 10
+2024-12-08 14:20:58 - INFO - Received from Arduino: Temperature:21.60,Lux:855.03
+2024-12-08 14:20:59 - INFO - 프로그램 종료
+2024-12-08 14:23:33 - INFO - Connected to serial port: /dev/ttyACM0
+2024-12-08 14:23:34 - INFO - Received from Server - servo: 10
+2024-12-08 14:23:35 - INFO - Received from Server - servo: 10
+2024-12-08 14:23:36 - INFO - Received from Server - servo: 10
+2024-12-08 14:23:37 - INFO - Received from Server - servo: 10
+2024-12-08 14:23:38 - INFO - Received from Server - servo: 10
+2024-12-08 14:23:39 - INFO - Received from Server - servo: 10
+2024-12-08 14:23:40 - INFO - Received from Server - light: 859.27
+2024-12-08 14:23:40 - INFO - Received from Server - temperature: 22.83
+2024-12-08 14:23:41 - INFO - Received from Server - servo: 10
+2024-12-08 14:23:41 - INFO - Received from Server - servo: 10
+2024-12-08 14:23:43 - INFO - Received from Server - servo: 10
+2024-12-08 14:23:43 - INFO - Received from Server - servo: 10
+2024-12-08 14:23:45 - INFO - Received from Server - servo: 10
+2024-12-08 14:23:45 - INFO - Received from Arduino: Temperature:23.66,Lux:864.57
+2024-12-08 14:23:45 - INFO - POST https://skycastle.cho0h5.org/room/temperature 성공: {'success': True}
+2024-12-08 14:23:46 - INFO - POST https://skycastle.cho0h5.org/room/illuminance 성공: {'success': True}
+2024-12-08 14:23:46 - INFO - Received from Server - light: 864.57
+2024-12-08 14:23:47 - INFO - Received from Server - temperature: 23.66
+2024-12-08 14:23:48 - INFO - Received from Server - servo: 10
+2024-12-08 14:23:49 - INFO - Received from Server - servo: 10
+2024-12-08 14:23:50 - INFO - Received from Server - servo: 10
+2024-12-08 14:23:50 - INFO - Received from Arduino: Temperature:26.15,Lux:861.87
+2024-12-08 14:23:51 - INFO - POST https://skycastle.cho0h5.org/room/temperature 성공: {'success': True}
+2024-12-08 14:23:52 - INFO - POST https://skycastle.cho0h5.org/room/illuminance 성공: {'success': True}
+2024-12-08 14:23:52 - INFO - Received from Server - light: 861.87
+2024-12-08 14:23:52 - INFO - Received from Server - temperature: 26.15
+2024-12-08 14:23:53 - INFO - Received from Server - servo: 10
+2024-12-08 14:23:54 - INFO - Received from Server - servo: 10
+2024-12-08 14:23:55 - INFO - Received from Server - servo: 10
+2024-12-08 14:23:55 - INFO - Received from Arduino: Temperature:26.83,Lux:865.03
+2024-12-08 14:23:56 - INFO - POST https://skycastle.cho0h5.org/room/temperature 성공: {'success': True}
+2024-12-08 14:23:56 - INFO - POST https://skycastle.cho0h5.org/room/illuminance 성공: {'success': True}
+2024-12-08 14:23:56 - INFO - Received from Server - light: 865.03
+2024-12-08 14:23:57 - INFO - Received from Server - temperature: 26.83
+2024-12-08 14:23:58 - INFO - Received from Server - servo: 10
+2024-12-08 14:23:59 - INFO - Received from Server - servo: 10
+2024-12-08 14:24:00 - INFO - Received from Server - servo: 10
+2024-12-08 14:24:00 - INFO - Received from Server - servo: 10
+2024-12-08 14:24:01 - INFO - Received from Arduino: Temperature:25.86,Lux:867.20
+2024-12-08 14:24:02 - INFO - POST https://skycastle.cho0h5.org/room/temperature 성공: {'success': True}
+2024-12-08 14:24:02 - INFO - POST https://skycastle.cho0h5.org/room/illuminance 성공: {'success': True}
+2024-12-08 14:24:03 - INFO - Received from Server - light: 867.2
+2024-12-08 14:24:03 - INFO - Received from Server - temperature: 25.86
+2024-12-08 14:24:03 - INFO - Received from Server - servo: 10
+2024-12-08 14:24:04 - INFO - Received from Server - servo: 10
+2024-12-08 14:24:05 - INFO - Received from Server - servo: 10
+2024-12-08 14:24:06 - INFO - Received from Server - servo: 10
+2024-12-08 14:24:07 - INFO - Received from Arduino: Temperature:24.10,Lux:857.67
+2024-12-08 14:24:07 - INFO - POST https://skycastle.cho0h5.org/room/temperature 성공: {'success': True}
+2024-12-08 14:24:07 - INFO - POST https://skycastle.cho0h5.org/room/illuminance 성공: {'success': True}
+2024-12-08 14:24:08 - INFO - Received from Server - light: 857.67
+2024-12-08 14:24:08 - INFO - Received from Server - temperature: 24.1
+2024-12-08 14:24:09 - INFO - Received from Server - servo: 10
+2024-12-08 14:24:10 - INFO - Received from Server - servo: 10
+2024-12-08 14:24:11 - INFO - Received from Server - servo: 10
+2024-12-08 14:24:12 - INFO - Received from Server - servo: 10
+2024-12-08 14:24:12 - INFO - Received from Arduino: Temperature:26.15,Lux:864.33
+2024-12-08 14:24:13 - INFO - POST https://skycastle.cho0h5.org/room/temperature 성공: {'success': True}
+2024-12-08 14:24:13 - INFO - POST https://skycastle.cho0h5.org/room/illuminance 성공: {'success': True}
+2024-12-08 14:24:13 - INFO - Received from Server - light: 864.33
+2024-12-08 14:24:14 - INFO - Received from Server - temperature: 26.15
+2024-12-08 14:24:14 - INFO - Received from Server - servo: 10
+2024-12-08 14:24:15 - INFO - Received from Server - servo: 10
+2024-12-08 14:24:16 - INFO - Received from Server - servo: 10
+2024-12-08 14:24:18 - INFO - Received from Server - servo: 10
+2024-12-08 14:24:18 - INFO - Received from Arduino: Temperature:26.54,Lux:865.77
+2024-12-08 14:24:18 - INFO - 프로그램 종료
+2024-12-08 14:25:30 - INFO - Connected to serial port: /dev/ttyACM0
+2024-12-08 14:25:31 - INFO - Received from Server - servo: 10
+2024-12-08 14:25:33 - INFO - Received from Server - servo: 10
+2024-12-08 14:25:33 - INFO - Received from Server - servo: 10
+2024-12-08 14:25:35 - INFO - Received from Server - servo: 10
+2024-12-08 14:25:35 - INFO - Received from Server - servo: 10
+2024-12-08 14:25:37 - INFO - Received from Server - light: 864.33
+2024-12-08 14:25:37 - INFO - Received from Server - temperature: 26.15
+2024-12-08 14:25:38 - INFO - Received from Server - servo: 10
+2024-12-08 14:25:39 - INFO - Received from Server - servo: 10
+2024-12-08 14:25:40 - INFO - Received from Server - servo: 10
+2024-12-08 14:25:41 - INFO - Received from Server - servo: 10
+2024-12-08 14:25:41 - INFO - Received from Arduino: Temperature:22.24,Lux:856.03
+2024-12-08 14:25:42 - INFO - POST https://skycastle.cho0h5.org/room/temperature 성공: {'success': True}
+2024-12-08 14:25:42 - INFO - POST https://skycastle.cho0h5.org/room/illuminance 성공: {'success': True}
+2024-12-08 14:25:43 - INFO - Received from Server - light: 856.03
+2024-12-08 14:25:43 - INFO - Received from Server - temperature: 22.24
+2024-12-08 14:25:44 - INFO - Received from Server - servo: 10
+2024-12-08 14:25:45 - INFO - Received from Server - servo: 10
+2024-12-08 14:25:46 - INFO - Received from Server - servo: 10
+2024-12-08 14:25:47 - INFO - Received from Server - servo: 10
+2024-12-08 14:25:47 - INFO - Received from Arduino: Temperature:24.49,Lux:855.00
+2024-12-08 14:25:48 - INFO - POST https://skycastle.cho0h5.org/room/temperature 성공: {'success': True}
+2024-12-08 14:25:48 - INFO - POST https://skycastle.cho0h5.org/room/illuminance 성공: {'success': True}
+2024-12-08 14:25:49 - INFO - Received from Server - light: 855.0
+2024-12-08 14:25:49 - INFO - Received from Server - temperature: 24.49
+2024-12-08 14:25:49 - INFO - Received from Server - servo: 10
+2024-12-08 14:25:50 - INFO - 프로그램 종료
+2024-12-08 14:25:53 - INFO - Connected to serial port: /dev/ttyACM0
+2024-12-08 14:25:53 - INFO - Received from Server - servo: 10
+2024-12-08 14:25:55 - INFO - Received from Server - servo: 10
+2024-12-08 14:25:55 - INFO - Received from Server - servo: 10
+2024-12-08 14:25:56 - INFO - Received from Server - servo: 10
+2024-12-08 14:25:57 - INFO - Received from Server - servo: 10
+2024-12-08 14:25:58 - INFO - Received from Server - servo: 10
+2024-12-08 14:25:59 - INFO - Received from Server - light: 855.0
+2024-12-08 14:25:59 - INFO - Received from Server - temperature: 24.49
+2024-12-08 14:25:59 - INFO - Received from Server - servo: 10
+2024-12-08 14:26:00 - INFO - Received from Server - servo: 10
+2024-12-08 14:26:01 - INFO - Received from Server - servo: 10
+2024-12-08 14:26:02 - INFO - Received from Server - servo: 10
+2024-12-08 14:26:03 - INFO - Received from Server - servo: 10
+2024-12-08 14:26:04 - INFO - Received from Arduino: Temperature:23.17,Lux:861.77
+2024-12-08 14:26:04 - INFO - POST https://skycastle.cho0h5.org/room/temperature 성공: {'success': True}
+2024-12-08 14:26:04 - INFO - POST https://skycastle.cho0h5.org/room/illuminance 성공: {'success': True}
+2024-12-08 14:26:05 - INFO - Received from Server - light: 861.77
+2024-12-08 14:26:05 - INFO - Received from Server - temperature: 23.17
+2024-12-08 14:26:06 - INFO - Received from Server - servo: 10
+2024-12-08 14:26:07 - INFO - Received from Server - servo: 10
+2024-12-08 14:26:08 - INFO - Received from Server - servo: 10
+2024-12-08 14:26:09 - INFO - Received from Server - servo: 10
+2024-12-08 14:26:10 - INFO - Received from Arduino: Temperature:25.95,Lux:865.87
+2024-12-08 14:26:10 - INFO - POST https://skycastle.cho0h5.org/room/temperature 성공: {'success': True}
+2024-12-08 14:26:10 - INFO - POST https://skycastle.cho0h5.org/room/illuminance 성공: {'success': True}
+2024-12-08 14:26:11 - INFO - Received from Server - light: 865.87
+2024-12-08 14:26:11 - INFO - Received from Server - temperature: 25.95
+2024-12-08 14:26:12 - INFO - Received from Server - servo: 10
+2024-12-08 14:26:13 - INFO - 프로그램 종료
+2024-12-08 14:27:36 - INFO - Connected to serial port: /dev/ttyACM0
+2024-12-08 14:27:37 - INFO - Received from Server - servo: 10
+2024-12-08 14:27:38 - INFO - Received from Server - servo: 10
+2024-12-08 14:27:39 - INFO - Received from Server - servo: 10
+2024-12-08 14:27:40 - INFO - Received from Server - servo: 10
+2024-12-08 14:27:41 - INFO - Received from Server - servo: 10
+2024-12-08 14:27:46 - INFO - Received from Server - light: 865.87
+2024-12-08 14:27:48 - INFO - Received from Server - temperature: 25.95
+2024-12-08 14:27:49 - INFO - Received from Server - servo: 10
+2024-12-08 14:27:50 - INFO - Received from Arduino: Temperature:26.34,Lux:857.73
+2024-12-08 14:27:50 - INFO - POST https://skycastle.cho0h5.org/room/temperature 성공: {'success': True}
+2024-12-08 14:27:51 - INFO - POST https://skycastle.cho0h5.org/room/illuminance 성공: {'success': True}
+2024-12-08 14:27:52 - INFO - Received from Server - light: 857.73
+2024-12-08 14:27:52 - INFO - Received from Server - temperature: 26.34
+2024-12-08 14:27:53 - INFO - Received from Server - servo: 10
+2024-12-08 14:27:54 - INFO - Received from Server - servo: 10
+2024-12-08 14:27:55 - INFO - Received from Arduino: Temperature:25.95,Lux:857.47
+2024-12-08 14:27:55 - INFO - POST https://skycastle.cho0h5.org/room/temperature 성공: {'success': True}
+2024-12-08 14:27:56 - INFO - POST https://skycastle.cho0h5.org/room/illuminance 성공: {'success': True}
+2024-12-08 14:27:56 - INFO - Received from Server - light: 857.47
+2024-12-08 14:27:56 - INFO - Received from Server - temperature: 25.95
+2024-12-08 14:27:57 - INFO - Received from Server - servo: 10
+2024-12-08 14:27:58 - INFO - Received from Server - servo: 10
+2024-12-08 14:27:59 - INFO - Received from Server - servo: 10
+2024-12-08 14:28:00 - INFO - Received from Arduino: Temperature:24.58,Lux:863.37
+2024-12-08 14:28:01 - INFO - POST https://skycastle.cho0h5.org/room/temperature 성공: {'success': True}
+2024-12-08 14:28:02 - INFO - POST https://skycastle.cho0h5.org/room/illuminance 성공: {'success': True}
+2024-12-08 14:28:02 - INFO - Received from Server - light: 863.37
+2024-12-08 14:28:03 - INFO - Received from Server - temperature: 24.58
+2024-12-08 14:28:04 - INFO - Received from Server - servo: 10
+2024-12-08 14:28:05 - INFO - Received from Server - servo: 10
+2024-12-08 14:28:05 - INFO - Received from Arduino: Temperature:23.51,Lux:864.97
+2024-12-08 14:28:06 - INFO - POST https://skycastle.cho0h5.org/room/temperature 성공: {'success': True}
+2024-12-08 14:28:06 - INFO - POST https://skycastle.cho0h5.org/room/illuminance 성공: {'success': True}
+2024-12-08 14:28:07 - INFO - Received from Server - light: 864.97
+2024-12-08 14:28:07 - INFO - Received from Server - temperature: 23.51
+2024-12-08 14:28:08 - INFO - Received from Server - servo: 10
+2024-12-08 14:28:08 - INFO - 프로그램 종료
+2024-12-08 14:28:44 - INFO - Connected to serial port: /dev/ttyACM0
+2024-12-08 14:28:44 - INFO - Received from Server - servo: 10
+2024-12-08 14:28:46 - INFO - Received from Server - servo: 10
+2024-12-08 14:28:47 - INFO - Received from Server - servo: 10
+2024-12-08 14:28:48 - INFO - Received from Server - servo: 10
+2024-12-08 14:28:48 - INFO - Received from Server - servo: 10
+2024-12-08 14:28:49 - INFO - Received from Server - light: 456.0
+2024-12-08 14:28:50 - INFO - Received from Server - temperature: 23.51
+2024-12-08 14:28:50 - INFO - Received from Server - servo: 10
+2024-12-08 14:28:51 - INFO - Received from Server - servo: 10
+2024-12-08 14:28:52 - INFO - Received from Server - servo: 10
+2024-12-08 14:28:53 - INFO - Received from Server - servo: 10
+2024-12-08 14:28:54 - INFO - Received from Server - servo: 10
+2024-12-08 14:28:55 - INFO - Received from Arduino: Temperature:26.88,Lux:855.17
+2024-12-08 14:28:55 - INFO - POST https://skycastle.cho0h5.org/room/temperature 성공: {'success': True}
+2024-12-08 14:28:56 - INFO - POST https://skycastle.cho0h5.org/room/illuminance 성공: {'success': True}
+2024-12-08 14:28:56 - INFO - Received from Server - light: 855.17
+2024-12-08 14:28:57 - INFO - Received from Server - temperature: 26.88
+2024-12-08 14:28:57 - INFO - Received from Server - servo: 10
+2024-12-08 14:28:58 - INFO - Received from Server - servo: 10
+2024-12-08 14:28:59 - INFO - Received from Server - servo: 10
+2024-12-08 14:29:00 - INFO - Received from Server - servo: 10
+2024-12-08 14:29:00 - INFO - Received from Arduino: Temperature:25.37,Lux:856.80
+2024-12-08 14:29:01 - INFO - POST https://skycastle.cho0h5.org/room/temperature 성공: {'success': True}
+2024-12-08 14:29:01 - INFO - POST https://skycastle.cho0h5.org/room/illuminance 성공: {'success': True}
+2024-12-08 14:29:01 - INFO - Received from Server - light: 856.8
+2024-12-08 14:29:02 - INFO - Received from Server - temperature: 25.37
+2024-12-08 14:29:02 - INFO - Received from Server - servo: 10
+2024-12-08 14:29:03 - INFO - 프로그램 종료
+2024-12-08 14:29:47 - INFO - Connected to serial port: /dev/ttyACM0
+2024-12-08 14:30:00 - INFO - 프로그램 종료
+2024-12-08 14:30:47 - INFO - Connected to serial port: /dev/ttyACM0
+2024-12-08 14:30:47 - INFO - Received from Server - servo: 10
+2024-12-08 14:30:48 - INFO - Received from Server - servo: 10
+2024-12-08 14:30:49 - INFO - Received from Server - servo: 10
+2024-12-08 14:30:50 - INFO - Received from Server - servo: 10
+2024-12-08 14:30:51 - INFO - Received from Server - servo: 10
+2024-12-08 14:30:52 - INFO - Received from Server - light: 856.8
+2024-12-08 14:30:53 - INFO - Received from Server - temperature: 25.37
+2024-12-08 14:30:53 - INFO - Received from Server - servo: 10
+2024-12-08 14:30:54 - INFO - Received from Server - servo: 10
+2024-12-08 14:30:55 - INFO - Received from Server - servo: 10
+2024-12-08 14:30:55 - INFO - Received from Server - servo: 10
+2024-12-08 14:30:56 - INFO - Received from Server - servo: 10
+2024-12-08 14:30:57 - INFO - Received from Server - servo: 10
+2024-12-08 14:30:58 - INFO - Received from Arduino: Temperature:24.68,Lux:865.80
+2024-12-08 14:30:58 - INFO - POST http://skycastle.cho0h5.org:8001/room/temperature 성공: {'success': True}
+2024-12-08 14:30:58 - INFO - POST http://skycastle.cho0h5.org:8001/room/illuminance 성공: {'success': True}
+2024-12-08 14:30:59 - INFO - Received from Server - light: 865.8
+2024-12-08 14:30:59 - INFO - Received from Server - temperature: 24.68
+2024-12-08 14:30:59 - INFO - Received from Server - servo: 10
+2024-12-08 14:31:00 - INFO - Received from Server - servo: 10
+2024-12-08 14:31:01 - INFO - Received from Server - servo: 10
+2024-12-08 14:31:02 - INFO - Received from Server - servo: 10
+2024-12-08 14:31:03 - INFO - Received from Server - servo: 10
+2024-12-08 14:31:03 - INFO - Received from Arduino: Temperature:26.49,Lux:861.13
+2024-12-08 14:31:04 - INFO - POST http://skycastle.cho0h5.org:8001/room/temperature 성공: {'success': True}
+2024-12-08 14:31:04 - INFO - POST http://skycastle.cho0h5.org:8001/room/illuminance 성공: {'success': True}
+2024-12-08 14:31:04 - INFO - Received from Server - light: 861.13
+2024-12-08 14:31:05 - INFO - Received from Server - temperature: 26.49
+2024-12-08 14:31:05 - INFO - Received from Server - servo: 10
+2024-12-08 14:31:07 - INFO - Received from Server - servo: 10
+2024-12-08 14:31:08 - INFO - Received from Server - servo: 10
+2024-12-08 14:31:08 - INFO - 프로그램 종료
+2024-12-08 14:31:10 - INFO - Connected to serial port: /dev/ttyACM0
+2024-12-08 14:31:10 - INFO - Received from Server - servo: 10
+2024-12-08 14:31:12 - INFO - Received from Server - servo: 10
+2024-12-08 14:31:12 - INFO - Received from Server - servo: 10
+2024-12-08 14:31:13 - INFO - Received from Server - servo: 10
+2024-12-08 14:31:14 - INFO - Received from Server - servo: 10
+2024-12-08 14:31:15 - INFO - Received from Server - servo: 10
+2024-12-08 14:31:16 - INFO - Received from Server - light: 861.13
+2024-12-08 14:31:16 - INFO - Received from Server - temperature: 26.49
+2024-12-08 14:31:17 - INFO - Received from Server - servo: 10
+2024-12-08 14:31:18 - INFO - Received from Server - servo: 10
+2024-12-08 14:31:19 - INFO - Received from Server - servo: 10
+2024-12-08 14:31:19 - INFO - Received from Server - servo: 10
+2024-12-08 14:31:20 - INFO - Received from Server - servo: 10
+2024-12-08 14:31:21 - INFO - Received from Server - servo: 10
+2024-12-08 14:31:21 - INFO - Received from Arduino: Temperature:21.80,Lux:856.40
+2024-12-08 14:31:23 - INFO - POST http://skycastle.cho0h5.org:8001/room/temperature 성공: {'success': True}
+2024-12-08 14:31:23 - INFO - POST http://skycastle.cho0h5.org:8001/room/illuminance 성공: {'success': True}
+2024-12-08 14:31:23 - INFO - Received from Server - light: 856.4
+2024-12-08 14:31:23 - INFO - Received from Server - temperature: 21.8
+2024-12-08 14:31:24 - INFO - Received from Server - servo: 10
+2024-12-08 14:31:25 - INFO - Received from Server - servo: 10
+2024-12-08 14:31:25 - INFO - Received from Server - servo: 10
+2024-12-08 14:31:26 - INFO - Received from Server - servo: 10
+2024-12-08 14:31:27 - INFO - Received from Arduino: Temperature:23.70,Lux:862.23
+2024-12-08 14:31:27 - INFO - POST http://skycastle.cho0h5.org:8001/room/temperature 성공: {'success': True}
+2024-12-08 14:31:28 - INFO - POST http://skycastle.cho0h5.org:8001/room/illuminance 성공: {'success': True}
+2024-12-08 14:31:28 - INFO - Received from Server - light: 862.23
+2024-12-08 14:31:28 - INFO - Received from Server - temperature: 23.7
+2024-12-08 14:31:29 - INFO - Received from Server - servo: 10
+2024-12-08 14:31:29 - INFO - Received from Server - servo: 10
+2024-12-08 14:31:30 - INFO - Received from Server - servo: 10
+2024-12-08 14:31:36 - INFO - Received from Server - servo: 10
+2024-12-08 14:31:36 - INFO - Received from Arduino: Temperature:23.61,Lux:864.83
+2024-12-08 14:31:37 - INFO - POST http://skycastle.cho0h5.org:8001/room/temperature 성공: {'success': True}
+2024-12-08 14:31:38 - INFO - POST http://skycastle.cho0h5.org:8001/room/illuminance 성공: {'success': True}
+2024-12-08 14:31:38 - INFO - Received from Server - light: 864.83
+2024-12-08 14:31:38 - INFO - Received from Server - temperature: 23.61
+2024-12-08 14:31:39 - INFO - Received from Server - servo: 10
+2024-12-08 14:31:40 - INFO - Received from Server - servo: 10
+2024-12-08 14:31:41 - INFO - Received from Server - servo: 10
+2024-12-08 14:31:41 - INFO - Received from Server - servo: 10
+2024-12-08 14:31:42 - INFO - Received from Arduino: Temperature:22.24,Lux:867.93
+2024-12-08 14:31:43 - INFO - POST http://skycastle.cho0h5.org:8001/room/temperature 성공: {'success': True}
+2024-12-08 14:31:43 - INFO - POST http://skycastle.cho0h5.org:8001/room/illuminance 성공: {'success': True}
+2024-12-08 14:31:43 - INFO - Received from Server - light: 867.93
+2024-12-08 14:31:43 - INFO - Received from Server - temperature: 22.24
+2024-12-08 14:31:44 - INFO - Received from Server - servo: 10
+2024-12-08 14:31:45 - INFO - Received from Server - servo: 10
+2024-12-08 14:31:46 - INFO - Received from Server - servo: 10
+2024-12-08 14:31:47 - INFO - Received from Server - servo: 10
+2024-12-08 14:31:47 - INFO - Received from Arduino: Temperature:26.25,Lux:863.60
+2024-12-08 14:31:48 - INFO - POST http://skycastle.cho0h5.org:8001/room/temperature 성공: {'success': True}
+2024-12-08 14:31:48 - INFO - POST http://skycastle.cho0h5.org:8001/room/illuminance 성공: {'success': True}
+2024-12-08 14:31:48 - INFO - Received from Server - light: 863.6
+2024-12-08 14:31:48 - INFO - Received from Server - temperature: 26.25
+2024-12-08 14:31:49 - INFO - Received from Server - servo: 10
+2024-12-08 14:31:50 - INFO - Received from Server - servo: 10
+2024-12-08 14:31:50 - INFO - Received from Server - servo: 10
+2024-12-08 14:31:51 - INFO - Received from Server - servo: 10
+2024-12-08 14:31:52 - INFO - Received from Server - servo: 10
+2024-12-08 14:31:53 - INFO - Received from Arduino: Temperature:25.76,Lux:855.90
+2024-12-08 14:31:53 - INFO - POST http://skycastle.cho0h5.org:8001/room/temperature 성공: {'success': True}
+2024-12-08 14:31:53 - INFO - POST http://skycastle.cho0h5.org:8001/room/illuminance 성공: {'success': True}
+2024-12-08 14:31:53 - INFO - Received from Server - light: 855.9
+2024-12-08 14:31:54 - INFO - Received from Server - temperature: 25.76
+2024-12-08 14:31:54 - INFO - Received from Server - servo: 10
+2024-12-08 14:31:55 - INFO - Received from Server - servo: 10
+2024-12-08 14:31:56 - INFO - Received from Server - servo: 10
+2024-12-08 14:31:57 - INFO - Received from Server - servo: 10
+2024-12-08 14:31:58 - INFO - Received from Server - servo: 10
+2024-12-08 14:31:58 - INFO - Received from Arduino: Temperature:21.99,Lux:861.90
+2024-12-08 14:31:59 - INFO - POST http://skycastle.cho0h5.org:8001/room/temperature 성공: {'success': True}
+2024-12-08 14:32:00 - INFO - POST http://skycastle.cho0h5.org:8001/room/illuminance 성공: {'success': True}
+2024-12-08 14:32:00 - INFO - Received from Server - light: 861.9
+2024-12-08 14:32:00 - INFO - Received from Server - temperature: 21.99
+2024-12-08 14:32:01 - INFO - Received from Server - servo: 10
+2024-12-08 14:32:02 - INFO - Received from Server - servo: 10
+2024-12-08 14:32:03 - INFO - Received from Server - servo: 10
+2024-12-08 14:32:03 - INFO - Received from Arduino: Temperature:27.86,Lux:867.20
+2024-12-08 14:32:04 - INFO - POST http://skycastle.cho0h5.org:8001/room/temperature 성공: {'success': True}
+2024-12-08 14:32:04 - INFO - POST http://skycastle.cho0h5.org:8001/room/illuminance 성공: {'success': True}
+2024-12-08 14:32:05 - INFO - Received from Server - light: 867.2
+2024-12-08 14:32:05 - INFO - Received from Server - temperature: 27.86
+2024-12-08 14:32:05 - INFO - Received from Server - servo: 10
+2024-12-08 14:32:06 - INFO - Received from Server - servo: 10
+2024-12-08 14:32:07 - INFO - Received from Server - servo: 10
+2024-12-08 14:32:08 - INFO - Received from Server - servo: 10
+2024-12-08 14:32:09 - INFO - Received from Arduino: Temperature:19.35,Lux:864.73
+2024-12-08 14:32:09 - INFO - POST http://skycastle.cho0h5.org:8001/room/temperature 성공: {'success': True}
+2024-12-08 14:32:10 - INFO - POST http://skycastle.cho0h5.org:8001/room/illuminance 성공: {'success': True}
+2024-12-08 14:32:10 - INFO - Received from Server - light: 864.73
+2024-12-08 14:32:10 - INFO - Received from Server - temperature: 19.35
+2024-12-08 14:32:10 - INFO - Received from Server - servo: 10
+2024-12-08 14:32:11 - INFO - Received from Server - servo: 10
+2024-12-08 14:32:12 - INFO - Received from Server - servo: 10
+2024-12-08 14:32:13 - INFO - Received from Server - servo: 10
+2024-12-08 14:32:14 - INFO - Received from Server - servo: 10
+2024-12-08 14:32:14 - INFO - Received from Arduino: Temperature:25.32,Lux:866.53
+2024-12-08 14:32:14 - INFO - POST http://skycastle.cho0h5.org:8001/room/temperature 성공: {'success': True}
+2024-12-08 14:32:15 - INFO - POST http://skycastle.cho0h5.org:8001/room/illuminance 성공: {'success': True}
+2024-12-08 14:32:15 - INFO - Received from Server - light: 866.53
+2024-12-08 14:32:15 - INFO - Received from Server - temperature: 25.32
+2024-12-08 14:32:16 - INFO - Received from Server - servo: 10
+2024-12-08 14:32:17 - INFO - Received from Server - servo: 10
+2024-12-08 14:32:17 - INFO - 프로그램 종료
+2024-12-08 14:32:53 - INFO - Connected to serial port: /dev/ttyACM0
+2024-12-08 14:32:54 - INFO - Received from Server - servo: 10
+2024-12-08 14:32:55 - INFO - Received from Server - servo: 10
+2024-12-08 14:32:56 - INFO - Received from Server - servo: 10
+2024-12-08 14:32:57 - INFO - Received from Server - servo: 10
+2024-12-08 14:32:58 - INFO - Received from Server - servo: 10
+2024-12-08 14:32:59 - INFO - Received from Server - servo: 10
+2024-12-08 14:32:59 - INFO - Received from Server - light: 866.53
+2024-12-08 14:33:00 - INFO - Received from Server - temperature: 25.32
+2024-12-08 14:33:00 - INFO - Received from Server - servo: 10
+2024-12-08 14:33:01 - INFO - Received from Server - servo: 10
+2024-12-08 14:33:02 - INFO - Received from Server - servo: 10
+2024-12-08 14:33:03 - INFO - Received from Server - servo: 10
+2024-12-08 14:33:04 - INFO - Received from Server - servo: 10
+2024-12-08 14:33:04 - INFO - Received from Arduino: Temperature:24.88,Lux:856.90
+2024-12-08 14:33:05 - INFO - POST http://skycastle.cho0h5.org:8001/room/temperature 성공: {'success': True}
+2024-12-08 14:33:05 - INFO - POST http://skycastle.cho0h5.org:8001/room/illuminance 성공: {'success': True}
+2024-12-08 14:33:05 - INFO - Received from Server - light: 856.9
+2024-12-08 14:33:05 - INFO - Received from Server - temperature: 24.88
+2024-12-08 14:33:06 - INFO - Received from Server - servo: 10
+2024-12-08 14:33:07 - INFO - Received from Server - servo: 10
+2024-12-08 14:33:08 - INFO - Received from Server - servo: 10
+2024-12-08 14:33:09 - INFO - Received from Server - servo: 10
+2024-12-08 14:33:09 - INFO - Received from Server - servo: 10
+2024-12-08 14:33:10 - INFO - Received from Arduino: Temperature:23.56,Lux:860.13
+2024-12-08 14:33:10 - INFO - POST http://skycastle.cho0h5.org:8001/room/temperature 성공: {'success': True}
+2024-12-08 14:33:11 - INFO - POST http://skycastle.cho0h5.org:8001/room/illuminance 성공: {'success': True}
+2024-12-08 14:33:11 - INFO - Received from Server - light: 860.13
+2024-12-08 14:33:12 - INFO - Received from Server - temperature: 23.56
+2024-12-08 14:33:12 - INFO - Received from Server - servo: 10
+2024-12-08 14:33:13 - INFO - Received from Server - servo: 10
+2024-12-08 14:33:14 - INFO - Received from Server - servo: 10
+2024-12-08 14:33:14 - INFO - Received from Server - servo: 10
+2024-12-08 14:33:15 - INFO - Received from Arduino: Temperature:26.30,Lux:859.53
+2024-12-08 14:33:16 - INFO - POST http://skycastle.cho0h5.org:8001/room/temperature 성공: {'success': True}
+2024-12-08 14:33:16 - INFO - POST http://skycastle.cho0h5.org:8001/room/illuminance 성공: {'success': True}
+2024-12-08 14:33:16 - INFO - Received from Server - light: 859.53
+2024-12-08 14:33:17 - INFO - Received from Server - temperature: 26.3
+2024-12-08 14:33:17 - INFO - Received from Server - servo: 10
+2024-12-08 14:33:18 - INFO - Received from Server - servo: 10
+2024-12-08 14:33:19 - INFO - Received from Server - servo: 120
+2024-12-08 14:33:20 - INFO - Received from Server - servo: 120
+2024-12-08 14:33:21 - INFO - Received from Arduino: Temperature:24.83,Lux:858.10
+2024-12-08 14:33:26 - INFO - POST http://skycastle.cho0h5.org:8001/room/temperature 성공: {'success': True}
+2024-12-08 14:33:26 - INFO - POST http://skycastle.cho0h5.org:8001/room/illuminance 성공: {'success': True}
+2024-12-08 14:33:26 - INFO - Received from Server - light: 858.1
+2024-12-08 14:33:27 - INFO - Received from Server - temperature: 24.83
+2024-12-08 14:33:27 - INFO - Received from Server - servo: 120
+2024-12-08 14:33:28 - INFO - Received from Arduino: Temperature:25.32,Lux:858.90
+2024-12-08 14:33:28 - INFO - POST http://skycastle.cho0h5.org:8001/room/temperature 성공: {'success': True}
+2024-12-08 14:33:28 - INFO - POST http://skycastle.cho0h5.org:8001/room/illuminance 성공: {'success': True}
+2024-12-08 14:33:29 - INFO - Received from Server - light: 858.9
+2024-12-08 14:33:29 - INFO - Received from Server - temperature: 25.32
+2024-12-08 14:33:30 - INFO - Received from Server - servo: 120
+2024-12-08 14:33:30 - INFO - Received from Server - servo: 120
+2024-12-08 14:33:31 - INFO - Received from Server - servo: 120
+2024-12-08 14:33:32 - INFO - Received from Server - servo: 120
+2024-12-08 14:33:33 - INFO - Received from Arduino: Temperature:26.00,Lux:858.13
+2024-12-08 14:33:33 - INFO - POST http://skycastle.cho0h5.org:8001/room/temperature 성공: {'success': True}
+2024-12-08 14:33:33 - INFO - POST http://skycastle.cho0h5.org:8001/room/illuminance 성공: {'success': True}
+2024-12-08 14:33:34 - INFO - Received from Server - light: 858.13
+2024-12-08 14:33:34 - INFO - Received from Server - temperature: 26.0
+2024-12-08 14:33:35 - INFO - Received from Server - servo: 120
+2024-12-08 14:33:35 - INFO - Received from Server - servo: 120
+2024-12-08 14:33:36 - INFO - Received from Server - servo: 120
+2024-12-08 14:33:37 - INFO - Received from Server - servo: 120
+2024-12-08 14:33:38 - INFO - Received from Server - servo: 120
+2024-12-08 14:33:38 - INFO - Received from Arduino: Temperature:24.58,Lux:856.03
+2024-12-08 14:33:40 - INFO - POST http://skycastle.cho0h5.org:8001/room/temperature 성공: {'success': True}
+2024-12-08 14:33:40 - INFO - POST http://skycastle.cho0h5.org:8001/room/illuminance 성공: {'success': True}
+2024-12-08 14:33:40 - INFO - Received from Server - light: 856.03
+2024-12-08 14:33:41 - INFO - Received from Server - temperature: 24.58
+2024-12-08 14:33:41 - INFO - Received from Server - servo: 120
+2024-12-08 14:33:42 - INFO - Received from Server - servo: 120
+2024-12-08 14:33:43 - INFO - Received from Server - servo: 120
+2024-12-08 14:33:44 - INFO - Received from Server - servo: 120
+2024-12-08 14:33:44 - INFO - Received from Arduino: Temperature:23.46,Lux:840.53
+2024-12-08 14:33:44 - INFO - 프로그램 종료
+2024-12-08 14:34:01 - INFO - Connected to serial port: /dev/ttyACM0
+2024-12-08 14:34:01 - INFO - Received from Server - servo: 120
+2024-12-08 14:34:03 - INFO - Received from Server - servo: 120
+2024-12-08 14:34:04 - INFO - Received from Server - servo: 120
+2024-12-08 14:34:05 - INFO - Received from Server - servo: 120
+2024-12-08 14:34:05 - INFO - Received from Server - servo: 120
+2024-12-08 14:34:06 - INFO - Received from Server - servo: 120
+2024-12-08 14:34:07 - INFO - Received from Server - light: 856.03
+2024-12-08 14:34:07 - INFO - Received from Server - temperature: 23.46
+2024-12-08 14:34:08 - INFO - Received from Server - servo: 120
+2024-12-08 14:34:09 - INFO - Received from Server - servo: 120
+2024-12-08 14:34:09 - INFO - Received from Server - servo: 120
+2024-12-08 14:34:10 - INFO - Received from Server - servo: 120
+2024-12-08 14:34:11 - INFO - Received from Server - servo: 120
+2024-12-08 14:34:12 - INFO - Received from Server - servo: 120
+2024-12-08 14:34:12 - INFO - Received from Arduino: Temperature:23.02,Lux:868.53
+2024-12-08 14:34:13 - INFO - POST http://skycastle.cho0h5.org:8001/room/temperature 성공: {'success': True}
+2024-12-08 14:34:14 - INFO - POST http://skycastle.cho0h5.org:8001/room/illuminance 성공: {'success': True}
+2024-12-08 14:34:14 - INFO - Received from Server - light: 868.53
+2024-12-08 14:34:15 - INFO - Received from Server - temperature: 23.02
+2024-12-08 14:34:15 - INFO - Received from Server - servo: 120
+2024-12-08 14:34:16 - INFO - Received from Server - servo: 120
+2024-12-08 14:34:16 - INFO - Received from Server - servo: 120
+2024-12-08 14:34:17 - INFO - Received from Server - servo: 120
+2024-12-08 14:34:18 - INFO - Received from Arduino: Temperature:28.10,Lux:869.10
+2024-12-08 14:34:18 - INFO - POST http://skycastle.cho0h5.org:8001/room/temperature 성공: {'success': True}
+2024-12-08 14:34:19 - INFO - POST http://skycastle.cho0h5.org:8001/room/illuminance 성공: {'success': True}
+2024-12-08 14:34:19 - INFO - Received from Server - light: 869.1
+2024-12-08 14:34:19 - INFO - Received from Server - temperature: 28.1
+2024-12-08 14:34:20 - INFO - Received from Server - servo: 120
+2024-12-08 14:34:21 - INFO - Received from Server - servo: 120
+2024-12-08 14:34:23 - INFO - Received from Server - servo: 120
+2024-12-08 14:34:23 - INFO - Received from Arduino: Temperature:19.45,Lux:863.43
+2024-12-08 14:34:24 - INFO - POST http://skycastle.cho0h5.org:8001/room/temperature 성공: {'success': True}
+2024-12-08 14:34:24 - INFO - POST http://skycastle.cho0h5.org:8001/room/illuminance 성공: {'success': True}
+2024-12-08 14:34:25 - INFO - Received from Server - light: 863.43
+2024-12-08 14:34:25 - INFO - Received from Server - temperature: 19.45
+2024-12-08 14:34:25 - INFO - Received from Server - servo: 120
+2024-12-08 14:34:26 - INFO - Received from Server - servo: 120
+2024-12-08 14:34:27 - INFO - Received from Server - servo: 120
+2024-12-08 14:34:28 - INFO - Received from Server - servo: 120
+2024-12-08 14:34:29 - INFO - Received from Arduino: Temperature:26.64,Lux:856.43
+2024-12-08 14:34:29 - INFO - POST http://skycastle.cho0h5.org:8001/room/temperature 성공: {'success': True}
+2024-12-08 14:34:29 - INFO - POST http://skycastle.cho0h5.org:8001/room/illuminance 성공: {'success': True}
+2024-12-08 14:34:29 - INFO - 프로그램 종료
+2024-12-08 14:35:14 - INFO - Connected to serial port: /dev/ttyACM0
+2024-12-08 14:35:14 - INFO - Received from Server - servo: 120
+2024-12-08 14:35:15 - INFO - Received from Server - servo: 120
+2024-12-08 14:35:16 - INFO - Received from Server - servo: 120
+2024-12-08 14:35:17 - INFO - Received from Server - servo: 120
+2024-12-08 14:35:18 - INFO - Received from Server - servo: 120
+2024-12-08 14:35:19 - INFO - Received from Server - servo: 120
+2024-12-08 14:35:20 - INFO - Received from Server - light: 856.43
+2024-12-08 14:35:20 - INFO - Received from Server - temperature: 26.64
+2024-12-08 14:35:21 - INFO - Received from Server - servo: 120
+2024-12-08 14:35:21 - INFO - Received from Server - servo: 120
+2024-12-08 14:35:22 - INFO - Received from Server - servo: 120
+2024-12-08 14:35:23 - INFO - Received from Server - servo: 120
+2024-12-08 14:35:24 - INFO - Received from Server - servo: 120
+2024-12-08 14:35:25 - INFO - Received from Arduino: Temperature:26.44,Lux:863.87
+2024-12-08 14:35:25 - INFO - POST http://skycastle.cho0h5.org:8001/room/temperature 성공: {'success': True}
+2024-12-08 14:35:26 - INFO - POST http://skycastle.cho0h5.org:8001/room/illuminance 성공: {'success': True}
+2024-12-08 14:35:26 - INFO - Received from Server - light: 863.87
+2024-12-08 14:35:26 - INFO - Received from Server - temperature: 26.44
+2024-12-08 14:35:26 - INFO - Received from Server - servo: 120
+2024-12-08 14:35:27 - INFO - Received from Server - servo: 120
+2024-12-08 14:35:28 - INFO - Received from Server - servo: 120
+2024-12-08 14:35:29 - INFO - Received from Server - servo: 120
+2024-12-08 14:35:30 - INFO - Received from Server - servo: 120
+2024-12-08 14:35:30 - INFO - Received from Arduino: Temperature:22.63,Lux:856.40
+2024-12-08 14:35:31 - INFO - POST http://skycastle.cho0h5.org:8001/room/temperature 성공: {'success': True}
+2024-12-08 14:35:31 - INFO - POST http://skycastle.cho0h5.org:8001/room/illuminance 성공: {'success': True}
+2024-12-08 14:35:32 - INFO - Received from Server - light: 856.4
+2024-12-08 14:35:32 - INFO - Received from Server - temperature: 22.63
+2024-12-08 14:35:32 - INFO - Received from Server - servo: 120
+2024-12-08 14:35:33 - INFO - Received from Server - servo: 120
+2024-12-08 14:35:35 - INFO - Received from Server - servo: 120
+2024-12-08 14:35:35 - INFO - Received from Arduino: Temperature:28.98,Lux:864.37
+2024-12-08 14:35:36 - INFO - POST http://skycastle.cho0h5.org:8001/room/temperature 성공: {'success': True}
+2024-12-08 14:35:36 - INFO - POST http://skycastle.cho0h5.org:8001/room/illuminance 성공: {'success': True}
+2024-12-08 14:35:37 - INFO - Received from Server - light: 864.37
+2024-12-08 14:35:37 - INFO - Received from Server - temperature: 28.98
+2024-12-08 14:35:37 - INFO - Received from Server - servo: 120
+2024-12-08 14:35:38 - INFO - Received from Server - servo: 120
+2024-12-08 14:35:39 - INFO - Received from Server - servo: 120
+2024-12-08 14:35:40 - INFO - Received from Server - servo: 120
+2024-12-08 14:35:41 - INFO - Received from Arduino: Temperature:24.44,Lux:857.17
+2024-12-08 14:35:41 - INFO - POST http://skycastle.cho0h5.org:8001/room/temperature 성공: {'success': True}
+2024-12-08 14:35:43 - INFO - POST http://skycastle.cho0h5.org:8001/room/illuminance 성공: {'success': True}
+2024-12-08 14:35:43 - INFO - Received from Server - light: 857.17
+2024-12-08 14:35:44 - INFO - Received from Server - temperature: 24.44
+2024-12-08 14:35:44 - INFO - Received from Server - servo: 120
+2024-12-08 14:35:45 - INFO - Received from Server - servo: 120
+2024-12-08 14:35:46 - INFO - Received from Server - servo: 120
+2024-12-08 14:35:46 - INFO - Received from Arduino: Temperature:25.66,Lux:864.20
+2024-12-08 14:35:47 - INFO - POST http://skycastle.cho0h5.org:8001/room/temperature 성공: {'success': True}
+2024-12-08 14:35:47 - INFO - POST http://skycastle.cho0h5.org:8001/room/illuminance 성공: {'success': True}
+2024-12-08 14:35:48 - INFO - Received from Server - light: 864.2
+2024-12-08 14:35:48 - INFO - Received from Server - temperature: 25.66
+2024-12-08 14:35:48 - INFO - Received from Server - servo: 120
+2024-12-08 14:35:49 - INFO - Received from Server - servo: 120
+2024-12-08 14:35:50 - INFO - Received from Server - servo: 120
+2024-12-08 14:35:51 - INFO - Received from Server - servo: 120
+2024-12-08 14:35:51 - INFO - Received from Server - servo: 120
+2024-12-08 14:35:52 - INFO - Received from Arduino: Temperature:24.98,Lux:859.20
+2024-12-08 14:35:52 - INFO - POST http://skycastle.cho0h5.org:8001/room/temperature 성공: {'success': True}
+2024-12-08 14:35:53 - INFO - POST http://skycastle.cho0h5.org:8001/room/illuminance 성공: {'success': True}
+2024-12-08 14:35:53 - INFO - Received from Server - light: 859.2
+2024-12-08 14:35:54 - INFO - Received from Server - temperature: 24.98
+2024-12-08 14:35:54 - INFO - Received from Server - servo: 120
+2024-12-08 14:35:55 - INFO - Received from Server - servo: 120
+2024-12-08 14:35:55 - INFO - Received from Server - servo: 120
+2024-12-08 14:35:56 - INFO - Received from Server - servo: 120
+2024-12-08 14:35:57 - INFO - Received from Server - servo: 120
+2024-12-08 14:35:57 - INFO - 프로그램 종료
+2024-12-08 14:35:58 - INFO - Connected to serial port: /dev/ttyACM0
+2024-12-08 14:35:59 - INFO - Received from Server - servo: 120
+2024-12-08 14:36:00 - INFO - Received from Server - servo: 120
+2024-12-08 14:36:01 - INFO - Received from Server - servo: 120
+2024-12-08 14:36:02 - INFO - Received from Server - servo: 120
+2024-12-08 14:36:02 - INFO - Received from Server - servo: 120
+2024-12-08 14:36:03 - INFO - Received from Server - servo: 120
+2024-12-08 14:36:04 - INFO - Received from Server - light: 859.2
+2024-12-08 14:36:04 - INFO - Received from Server - temperature: 24.98
+2024-12-08 14:36:05 - INFO - Received from Server - servo: 120
+2024-12-08 14:36:06 - INFO - Received from Server - servo: 120
+2024-12-08 14:36:07 - INFO - Received from Server - servo: 120
+2024-12-08 14:36:07 - INFO - Received from Server - servo: 120
+2024-12-08 14:36:08 - INFO - Received from Server - servo: 120
+2024-12-08 14:36:09 - INFO - Received from Arduino: Temperature:24.88,Lux:852.50
+2024-12-08 14:36:09 - INFO - POST http://skycastle.cho0h5.org:8001/room/temperature 성공: {'success': True}
+2024-12-08 14:36:09 - INFO - POST http://skycastle.cho0h5.org:8001/room/illuminance 성공: {'success': True}
+2024-12-08 14:36:10 - INFO - Received from Server - light: 852.5
+2024-12-08 14:36:10 - INFO - Received from Server - temperature: 24.88
+2024-12-08 14:36:11 - INFO - Received from Server - servo: 120
+2024-12-08 14:36:11 - INFO - Received from Server - servo: 120
+2024-12-08 14:36:13 - INFO - Received from Server - servo: 120
+2024-12-08 14:36:13 - INFO - Received from Server - servo: 120
+2024-12-08 14:36:14 - INFO - Received from Arduino: Temperature:27.42,Lux:857.67
+2024-12-08 14:36:14 - INFO - POST http://skycastle.cho0h5.org:8001/room/temperature 성공: {'success': True}
+2024-12-08 14:36:15 - INFO - POST http://skycastle.cho0h5.org:8001/room/illuminance 성공: {'success': True}
+2024-12-08 14:36:15 - INFO - Received from Server - light: 857.67
+2024-12-08 14:36:16 - INFO - Received from Server - temperature: 27.42
+2024-12-08 14:36:16 - INFO - Received from Server - servo: 120
+2024-12-08 14:36:17 - INFO - Received from Server - servo: 120
+2024-12-08 14:36:18 - INFO - Received from Server - servo: 120
+2024-12-08 14:36:19 - INFO - Received from Server - servo: 120
+2024-12-08 14:36:20 - INFO - Received from Arduino: Temperature:23.36,Lux:860.63
+2024-12-08 14:36:20 - INFO - POST http://skycastle.cho0h5.org:8001/room/temperature 성공: {'success': True}
+2024-12-08 14:36:20 - INFO - POST http://skycastle.cho0h5.org:8001/room/illuminance 성공: {'success': True}
+2024-12-08 14:36:21 - INFO - Received from Server - light: 860.63
+2024-12-08 14:36:21 - INFO - Received from Server - temperature: 23.36
+2024-12-08 14:36:22 - INFO - Received from Server - servo: 120
+2024-12-08 14:36:23 - INFO - Received from Server - servo: 120
+2024-12-08 14:36:23 - INFO - Received from Server - servo: 120
+2024-12-08 14:36:24 - INFO - Received from Server - servo: 120
+2024-12-08 14:36:25 - INFO - Received from Arduino: Temperature:25.61,Lux:863.90
+2024-12-08 14:36:25 - INFO - POST http://skycastle.cho0h5.org:8001/room/temperature 성공: {'success': True}
+2024-12-08 14:36:25 - INFO - POST http://skycastle.cho0h5.org:8001/room/illuminance 성공: {'success': True}
+2024-12-08 14:36:26 - INFO - Received from Server - light: 863.9
+2024-12-08 14:36:26 - INFO - Received from Server - temperature: 25.61
+2024-12-08 14:36:27 - INFO - Received from Server - servo: 120
+2024-12-08 14:36:27 - INFO - Received from Server - servo: 120
+2024-12-08 14:36:28 - INFO - Received from Server - servo: 120
+2024-12-08 14:36:29 - INFO - Received from Server - servo: 120
+2024-12-08 14:36:30 - INFO - Received from Server - servo: 120
+2024-12-08 14:36:31 - INFO - Received from Arduino: Temperature:24.34,Lux:860.77
+2024-12-08 14:36:31 - INFO - POST http://skycastle.cho0h5.org:8001/room/temperature 성공: {'success': True}
+2024-12-08 14:36:32 - INFO - POST http://skycastle.cho0h5.org:8001/room/illuminance 성공: {'success': True}
+2024-12-08 14:36:32 - INFO - Received from Server - light: 860.77
+2024-12-08 14:36:33 - INFO - Received from Server - temperature: 24.34
+2024-12-08 14:36:34 - INFO - Received from Server - servo: 120
+2024-12-08 14:36:35 - INFO - Received from Server - servo: 120
+2024-12-08 14:36:35 - INFO - Received from Server - servo: 120
+2024-12-08 14:36:36 - INFO - Received from Arduino: Temperature:24.63,Lux:855.77
+2024-12-08 14:36:37 - INFO - POST http://skycastle.cho0h5.org:8001/room/temperature 성공: {'success': True}
+2024-12-08 14:36:37 - INFO - POST http://skycastle.cho0h5.org:8001/room/illuminance 성공: {'success': True}
+2024-12-08 14:36:37 - INFO - Received from Server - light: 855.77
+2024-12-08 14:36:37 - INFO - 프로그램 종료
+2024-12-08 14:36:39 - INFO - Connected to serial port: /dev/ttyACM0
+2024-12-08 14:36:39 - INFO - Received from Server - servo: 120
+2024-12-08 14:36:41 - INFO - Received from Server - servo: 120
+2024-12-08 14:36:42 - INFO - Received from Server - servo: 120
+2024-12-08 14:36:43 - INFO - Received from Server - servo: 120
+2024-12-08 14:36:44 - INFO - Received from Server - servo: 120
+2024-12-08 14:36:44 - INFO - Received from Server - light: 855.77
+2024-12-08 14:36:45 - INFO - Received from Server - temperature: 24.63
+2024-12-08 14:36:45 - INFO - Received from Server - servo: 120
+2024-12-08 14:36:46 - INFO - Received from Server - servo: 120
+2024-12-08 14:36:47 - INFO - Received from Server - servo: 120
+2024-12-08 14:36:48 - INFO - Received from Server - servo: 120
+2024-12-08 14:36:49 - INFO - Received from Server - servo: 120
+2024-12-08 14:36:49 - INFO - Received from Arduino: Temperature:25.12,Lux:861.73
+2024-12-08 14:36:50 - INFO - POST http://skycastle.cho0h5.org:8001/room/temperature 성공: {'success': True}
+2024-12-08 14:36:50 - INFO - POST http://skycastle.cho0h5.org:8001/room/illuminance 성공: {'success': True}
+2024-12-08 14:36:51 - INFO - Received from Server - light: 861.73
+2024-12-08 14:36:51 - INFO - Received from Server - temperature: 25.12
+2024-12-08 14:36:51 - INFO - Received from Server - servo: 120
+2024-12-08 14:36:52 - INFO - Received from Server - servo: 120
+2024-12-08 14:36:53 - INFO - Received from Server - servo: 120
+2024-12-08 14:36:54 - INFO - Received from Server - servo: 120
+2024-12-08 14:36:55 - INFO - Received from Server - servo: 120
+2024-12-08 14:36:55 - INFO - Received from Arduino: Temperature:22.92,Lux:862.17
+2024-12-08 14:36:56 - INFO - POST http://skycastle.cho0h5.org:8001/room/temperature 성공: {'success': True}
+2024-12-08 14:36:57 - INFO - POST http://skycastle.cho0h5.org:8001/room/illuminance 성공: {'success': True}
+2024-12-08 14:36:57 - INFO - Received from Server - light: 862.17
+2024-12-08 14:36:58 - INFO - Received from Server - temperature: 22.92
+2024-12-08 14:36:58 - INFO - Received from Server - servo: 120
+2024-12-08 14:37:09 - INFO - Received from Server - servo: 120
+2024-12-08 14:37:09 - INFO - Received from Arduino: Temperature:24.39,Lux:864.90
+2024-12-08 14:37:10 - INFO - POST http://skycastle.cho0h5.org:8001/room/temperature 성공: {'success': True}
+2024-12-08 14:37:10 - INFO - POST http://skycastle.cho0h5.org:8001/room/illuminance 성공: {'success': True}
+2024-12-08 14:37:11 - INFO - Received from Server - light: 864.9
+2024-12-08 14:37:11 - INFO - Received from Server - temperature: 24.39
+2024-12-08 14:37:12 - INFO - Received from Server - servo: 120
+2024-12-08 14:37:12 - INFO - Received from Server - servo: 120
+2024-12-08 14:37:13 - INFO - Received from Server - servo: 120
+2024-12-08 14:37:15 - INFO - Received from Server - servo: 120
+2024-12-08 14:37:16 - INFO - Received from Arduino: Temperature:26.44,Lux:860.80
+2024-12-08 14:37:17 - INFO - POST http://skycastle.cho0h5.org:8001/room/temperature 성공: {'success': True}
+2024-12-08 14:37:17 - INFO - POST http://skycastle.cho0h5.org:8001/room/illuminance 성공: {'success': True}
+2024-12-08 14:37:18 - INFO - Received from Server - light: 860.8
+2024-12-08 14:37:19 - INFO - Received from Server - temperature: 26.44
+2024-12-08 14:37:19 - INFO - Received from Server - servo: 120
+2024-12-08 14:37:19 - INFO - Received from Server - servo: 120
+2024-12-08 14:37:20 - INFO - Received from Server - servo: 120
+2024-12-08 14:37:21 - INFO - Received from Arduino: Temperature:22.48,Lux:866.60
+2024-12-08 14:37:21 - INFO - POST http://skycastle.cho0h5.org:8001/room/temperature 성공: {'success': True}
+2024-12-08 14:37:22 - INFO - POST http://skycastle.cho0h5.org:8001/room/illuminance 성공: {'success': True}
+2024-12-08 14:37:22 - INFO - Received from Server - light: 866.6
+2024-12-08 14:37:22 - INFO - Received from Server - temperature: 22.48
+2024-12-08 14:37:23 - INFO - Received from Server - servo: 120
+2024-12-08 14:37:24 - INFO - Received from Server - servo: 120
+2024-12-08 14:37:25 - INFO - Received from Server - servo: 120
+2024-12-08 14:37:25 - INFO - Received from Server - servo: 120
+2024-12-08 14:37:26 - INFO - Received from Arduino: Temperature:24.44,Lux:856.93
+2024-12-08 14:37:26 - INFO - POST http://skycastle.cho0h5.org:8001/room/temperature 성공: {'success': True}
+2024-12-08 14:37:27 - INFO - POST http://skycastle.cho0h5.org:8001/room/illuminance 성공: {'success': True}
+2024-12-08 14:37:27 - INFO - Received from Server - light: 856.93
+2024-12-08 14:37:27 - INFO - Received from Server - temperature: 24.44
+2024-12-08 14:37:27 - INFO - Received from Server - servo: 120
+2024-12-08 14:37:29 - INFO - Received from Server - servo: 120
+2024-12-08 14:37:30 - INFO - Received from Server - servo: 120
+2024-12-08 14:37:31 - INFO - Received from Server - servo: 120
+2024-12-08 14:37:32 - INFO - Received from Arduino: Temperature:23.36,Lux:865.23
+2024-12-08 14:37:32 - INFO - POST http://skycastle.cho0h5.org:8001/room/temperature 성공: {'success': True}
+2024-12-08 14:37:32 - INFO - POST http://skycastle.cho0h5.org:8001/room/illuminance 성공: {'success': True}
+2024-12-08 14:37:33 - INFO - Received from Server - light: 865.23
+2024-12-08 14:37:33 - INFO - Received from Server - temperature: 23.36
+2024-12-08 14:37:33 - INFO - Received from Server - servo: 120
+2024-12-08 14:37:34 - INFO - Received from Server - servo: 120
+2024-12-08 14:37:35 - INFO - Received from Server - servo: 120
+2024-12-08 14:37:36 - INFO - Received from Server - servo: 120
+2024-12-08 14:37:37 - INFO - Received from Server - servo: 120
+2024-12-08 14:37:37 - INFO - Received from Arduino: Temperature:22.73,Lux:868.13
+2024-12-08 14:37:38 - INFO - POST http://skycastle.cho0h5.org:8001/room/temperature 성공: {'success': True}
+2024-12-08 14:37:38 - INFO - POST http://skycastle.cho0h5.org:8001/room/illuminance 성공: {'success': True}
+2024-12-08 14:37:39 - INFO - Received from Server - light: 868.13
+2024-12-08 14:37:39 - INFO - Received from Server - temperature: 22.73
+2024-12-08 14:37:39 - INFO - Received from Server - servo: 120
+2024-12-08 14:37:40 - INFO - Received from Server - servo: 120
+2024-12-08 14:37:41 - INFO - Received from Server - servo: 120
+2024-12-08 14:37:42 - INFO - Received from Server - servo: 120
+2024-12-08 14:37:42 - INFO - Received from Server - servo: 120
+2024-12-08 14:37:43 - INFO - Received from Arduino: Temperature:22.29,Lux:861.80
+2024-12-08 14:37:43 - INFO - POST http://skycastle.cho0h5.org:8001/room/temperature 성공: {'success': True}
+2024-12-08 14:37:44 - INFO - POST http://skycastle.cho0h5.org:8001/room/illuminance 성공: {'success': True}
+2024-12-08 14:37:44 - INFO - Received from Server - light: 861.8
+2024-12-08 14:37:44 - INFO - Received from Server - temperature: 22.29
+2024-12-08 14:37:44 - INFO - Received from Server - servo: 120
+2024-12-08 14:37:45 - INFO - Received from Server - servo: 120
+2024-12-08 14:37:46 - INFO - Received from Server - servo: 120
+2024-12-08 14:37:47 - INFO - Received from Server - servo: 120
+2024-12-08 14:37:48 - INFO - Received from Server - servo: 120
+2024-12-08 14:37:49 - INFO - Received from Arduino: Temperature:21.75,Lux:855.43
+2024-12-08 14:37:49 - INFO - POST http://skycastle.cho0h5.org:8001/room/temperature 성공: {'success': True}
+2024-12-08 14:37:49 - INFO - POST http://skycastle.cho0h5.org:8001/room/illuminance 성공: {'success': True}
+2024-12-08 14:37:49 - INFO - Received from Server - light: 855.43
+2024-12-08 14:37:50 - INFO - Received from Server - temperature: 21.75
+2024-12-08 14:37:50 - INFO - Received from Server - servo: 120
+2024-12-08 14:37:50 - INFO - 프로그램 종료
+2024-12-08 14:40:35 - INFO - Connected to serial port: /dev/ttyACM0
+2024-12-08 14:40:35 - INFO - Received from Server - servo: 120
+2024-12-08 14:40:36 - INFO - Received from Server - servo: 120
+2024-12-08 14:40:37 - INFO - Received from Server - servo: 120
+2024-12-08 14:40:38 - INFO - Received from Server - servo: 120
+2024-12-08 14:40:39 - INFO - Received from Server - servo: 120
+2024-12-08 14:40:40 - INFO - Received from Server - servo: 120
+2024-12-08 14:40:41 - INFO - Received from Server - light: 855.43
+2024-12-08 14:40:41 - INFO - Received from Server - temperature: 21.75
+2024-12-08 14:40:41 - INFO - Received from Server - servo: 120
+2024-12-08 14:40:42 - INFO - Received from Server - servo: 120
+2024-12-08 14:40:43 - INFO - Received from Server - servo: 120
+2024-12-08 14:40:44 - INFO - Received from Server - servo: 120
+2024-12-08 14:40:45 - INFO - Received from Server - servo: 120
+2024-12-08 14:40:45 - INFO - Received from Server - servo: 120
+2024-12-08 14:40:46 - INFO - Received from Arduino: Temperature:25.90,Lux:852.60
+2024-12-08 14:40:46 - INFO - POST http://skycastle.cho0h5.org:8001/room/temperature 성공: {'success': True}
+2024-12-08 14:40:47 - INFO - POST http://skycastle.cho0h5.org:8001/room/illuminance 성공: {'success': True}
+2024-12-08 14:40:47 - INFO - Received from Server - light: 852.6
+2024-12-08 14:40:47 - INFO - Received from Server - temperature: 25.9
+2024-12-08 14:40:47 - INFO - Received from Server - servo: 120
+2024-12-08 14:40:48 - INFO - Received from Server - servo: 120
+2024-12-08 14:40:49 - INFO - Received from Server - servo: 120
+2024-12-08 14:40:50 - INFO - Received from Server - servo: 120
+2024-12-08 14:40:51 - INFO - Received from Server - servo: 120
+2024-12-08 14:40:52 - INFO - Received from Arduino: Temperature:24.68,Lux:851.60
+2024-12-08 14:40:52 - INFO - POST http://skycastle.cho0h5.org:8001/room/temperature 성공: {'success': True}
+2024-12-08 14:40:58 - INFO - POST http://skycastle.cho0h5.org:8001/room/illuminance 성공: {'success': True}
+2024-12-08 14:40:58 - INFO - Received from Server - light: 851.6
+2024-12-08 14:40:58 - INFO - Received from Server - temperature: 24.68
+2024-12-08 14:40:58 - INFO - Received from Server - servo: 120
+2024-12-08 14:40:59 - INFO - Received from Arduino: Temperature:23.90,Lux:851.43
+2024-12-08 14:40:59 - INFO - POST http://skycastle.cho0h5.org:8001/room/temperature 성공: {'success': True}
+2024-12-08 14:41:00 - INFO - POST http://skycastle.cho0h5.org:8001/room/illuminance 성공: {'success': True}
+2024-12-08 14:41:00 - INFO - Received from Server - light: 851.43
+2024-12-08 14:41:01 - INFO - Received from Server - temperature: 23.9
+2024-12-08 14:41:01 - INFO - Received from Server - servo: 120
+2024-12-08 14:41:02 - INFO - Received from Server - servo: 120
+2024-12-08 14:41:03 - INFO - Received from Server - servo: 120
+2024-12-08 14:41:03 - INFO - Received from Server - servo: 120
+2024-12-08 14:41:04 - INFO - Received from Server - servo: 120
+2024-12-08 14:41:05 - INFO - Received from Arduino: Temperature:25.22,Lux:851.03
+2024-12-08 14:41:06 - INFO - POST http://skycastle.cho0h5.org:8001/room/temperature 성공: {'success': True}
+2024-12-08 14:41:07 - INFO - POST http://skycastle.cho0h5.org:8001/room/illuminance 성공: {'success': True}
+2024-12-08 14:41:07 - INFO - Received from Server - light: 851.03
+2024-12-08 14:41:07 - INFO - Received from Server - temperature: 25.22
+2024-12-08 14:41:07 - INFO - Received from Server - servo: 120
+2024-12-08 14:41:08 - INFO - Received from Server - servo: 120
+2024-12-08 14:41:09 - INFO - Received from Server - servo: 120
+2024-12-08 14:41:10 - INFO - Received from Server - servo: 120
+2024-12-08 14:41:10 - INFO - Received from Arduino: Temperature:23.31,Lux:851.87
+2024-12-08 14:41:11 - INFO - POST http://skycastle.cho0h5.org:8001/room/temperature 성공: {'success': True}
+2024-12-08 14:41:11 - INFO - POST http://skycastle.cho0h5.org:8001/room/illuminance 성공: {'success': True}
+2024-12-08 14:41:11 - INFO - Received from Server - light: 851.87
+2024-12-08 14:41:12 - INFO - Received from Server - temperature: 23.31
+2024-12-08 14:41:12 - INFO - Received from Server - servo: 120
+2024-12-08 14:41:13 - INFO - Received from Server - servo: 120
+2024-12-08 14:41:14 - INFO - Received from Server - servo: 120
+2024-12-08 14:41:15 - INFO - Received from Server - servo: 120
+2024-12-08 14:41:15 - INFO - Received from Server - servo: 120
+2024-12-08 14:41:16 - INFO - Received from Arduino: Temperature:24.73,Lux:852.67
+2024-12-08 14:41:16 - INFO - POST http://skycastle.cho0h5.org:8001/room/temperature 성공: {'success': True}
+2024-12-08 14:41:17 - INFO - POST http://skycastle.cho0h5.org:8001/room/illuminance 성공: {'success': True}
+2024-12-08 14:41:17 - INFO - Received from Server - light: 852.67
+2024-12-08 14:41:17 - INFO - Received from Server - temperature: 24.73
+2024-12-08 14:41:17 - INFO - Received from Server - servo: 120
+2024-12-08 14:41:18 - INFO - Received from Server - servo: 120
+2024-12-08 14:41:19 - INFO - Received from Server - servo: 120
+2024-12-08 14:41:20 - INFO - Received from Server - servo: 120
+2024-12-08 14:41:26 - INFO - Received from Server - servo: 120
+2024-12-08 14:41:26 - INFO - Received from Arduino: Temperature:25.61,Lux:861.57
+2024-12-08 14:41:27 - INFO - POST http://skycastle.cho0h5.org:8001/room/temperature 성공: {'success': True}
+2024-12-08 14:41:27 - INFO - POST http://skycastle.cho0h5.org:8001/room/illuminance 성공: {'success': True}
+2024-12-08 14:41:27 - INFO - Received from Server - light: 861.57
+2024-12-08 14:41:28 - INFO - Received from Server - temperature: 25.61
+2024-12-08 14:41:28 - INFO - Received from Server - servo: 120
+2024-12-08 14:41:29 - INFO - Received from Server - servo: 120
+2024-12-08 14:41:30 - INFO - Received from Server - servo: 120
+2024-12-08 14:41:31 - INFO - Received from Server - servo: 120
+2024-12-08 14:41:32 - INFO - Received from Arduino: Temperature:26.54,Lux:866.23
+2024-12-08 14:41:32 - INFO - POST http://skycastle.cho0h5.org:8001/room/temperature 성공: {'success': True}
+2024-12-08 14:41:32 - INFO - POST http://skycastle.cho0h5.org:8001/room/illuminance 성공: {'success': True}
+2024-12-08 14:41:33 - INFO - Received from Server - light: 866.23
+2024-12-08 14:41:33 - INFO - Received from Server - temperature: 26.54
+2024-12-08 14:41:33 - INFO - Received from Server - servo: 120
+2024-12-08 14:41:34 - INFO - 프로그램 종료
+2024-12-08 14:45:09 - INFO - Connected to serial port: /dev/ttyACM0
+2024-12-08 14:45:09 - INFO - Received from Server - servo: 120
+2024-12-08 14:45:10 - INFO - Received from Server - servo: 120
+2024-12-08 14:45:11 - INFO - Received from Server - servo: 120
+2024-12-08 14:45:12 - INFO - Received from Server - servo: 120
+2024-12-08 14:45:13 - INFO - Received from Server - servo: 120
+2024-12-08 14:45:14 - INFO - Received from Server - light: 866.23
+2024-12-08 14:45:14 - INFO - Received from Server - temperature: 26.54
+2024-12-08 14:45:14 - INFO - Received from Server - servo: 120
+2024-12-08 14:45:15 - INFO - Received from Server - servo: 120
+2024-12-08 14:45:16 - INFO - Received from Server - servo: 120
+2024-12-08 14:45:17 - INFO - Received from Server - servo: 120
+2024-12-08 14:45:18 - INFO - Received from Server - servo: 120
+2024-12-08 14:45:19 - INFO - Received from Server - servo: 120
+2024-12-08 14:45:19 - INFO - Received from Arduino: Temperature:25.51,Lux:860.83
+2024-12-08 14:45:20 - INFO - POST http://skycastle.cho0h5.org:8001/room/temperature 성공: {'success': True}
+2024-12-08 14:45:20 - INFO - POST http://skycastle.cho0h5.org:8001/room/illuminance 성공: {'success': True}
+2024-12-08 14:45:21 - INFO - Received from Server - light: 860.83
+2024-12-08 14:45:21 - INFO - Received from Server - temperature: 25.51
+2024-12-08 14:45:22 - INFO - Received from Server - servo: 120
+2024-12-08 14:45:22 - INFO - Received from Server - servo: 120
+2024-12-08 14:45:23 - INFO - Received from Server - servo: 120
+2024-12-08 14:45:24 - INFO - Received from Server - servo: 120
+2024-12-08 14:45:25 - INFO - Received from Arduino: Temperature:23.46,Lux:862.87
+2024-12-08 14:45:25 - INFO - POST http://skycastle.cho0h5.org:8001/room/temperature 성공: {'success': True}
+2024-12-08 14:45:25 - INFO - POST http://skycastle.cho0h5.org:8001/room/illuminance 성공: {'success': True}
+2024-12-08 14:45:26 - INFO - Received from Server - light: 862.87
+2024-12-08 14:45:26 - INFO - Received from Server - temperature: 23.46
+2024-12-08 14:45:26 - INFO - Received from Server - servo: 120
+2024-12-08 14:45:28 - INFO - Received from Server - servo: 120
+2024-12-08 14:45:29 - INFO - Received from Server - servo: 120
+2024-12-08 14:45:30 - INFO - Received from Server - servo: 120
+2024-12-08 14:45:30 - INFO - Received from Arduino: Temperature:28.74,Lux:858.70
+2024-12-08 14:45:31 - INFO - POST http://skycastle.cho0h5.org:8001/room/temperature 성공: {'success': True}
+2024-12-08 14:45:31 - INFO - POST http://skycastle.cho0h5.org:8001/room/illuminance 성공: {'success': True}
+2024-12-08 14:45:31 - INFO - Received from Server - light: 858.7
+2024-12-08 14:45:32 - INFO - Received from Server - temperature: 28.74
+2024-12-08 14:45:32 - INFO - Received from Server - servo: 120
+2024-12-08 14:45:33 - INFO - Received from Server - servo: 120
+2024-12-08 14:45:34 - INFO - Received from Server - servo: 120
+2024-12-08 14:45:35 - INFO - Received from Server - servo: 120
+2024-12-08 14:45:35 - INFO - Received from Arduino: Temperature:21.11,Lux:831.33
+2024-12-08 14:45:36 - INFO - POST http://skycastle.cho0h5.org:8001/room/temperature 성공: {'success': True}
+2024-12-08 14:45:36 - INFO - POST http://skycastle.cho0h5.org:8001/room/illuminance 성공: {'success': True}
+2024-12-08 14:45:36 - INFO - Received from Server - light: 831.33
+2024-12-08 14:45:37 - INFO - Received from Server - temperature: 21.11
+2024-12-08 14:45:37 - INFO - Received from Server - servo: 120
+2024-12-08 14:45:38 - INFO - Received from Server - servo: 120
+2024-12-08 14:45:39 - INFO - Received from Server - servo: 120
+2024-12-08 14:45:40 - INFO - Received from Server - servo: 120
+2024-12-08 14:45:41 - INFO - Received from Arduino: Temperature:19.99,Lux:473.27
+2024-12-08 14:45:41 - INFO - POST http://skycastle.cho0h5.org:8001/room/temperature 성공: {'success': True}
+2024-12-08 14:45:42 - INFO - POST http://skycastle.cho0h5.org:8001/room/illuminance 성공: {'success': True}
+2024-12-08 14:45:42 - INFO - Received from Server - light: 473.27
+2024-12-08 14:45:42 - INFO - Received from Server - temperature: 19.99
+2024-12-08 14:45:43 - INFO - Received from Server - servo: 120
+2024-12-08 14:45:44 - INFO - Received from Server - servo: 120
+2024-12-08 14:45:45 - INFO - Received from Server - servo: 120
+2024-12-08 14:45:46 - INFO - Received from Server - servo: 120
+2024-12-08 14:45:46 - INFO - Received from Arduino: Temperature:18.52,Lux:393.53
+2024-12-08 14:45:47 - INFO - POST http://skycastle.cho0h5.org:8001/room/temperature 성공: {'success': True}
+2024-12-08 14:45:47 - INFO - POST http://skycastle.cho0h5.org:8001/room/illuminance 성공: {'success': True}
+2024-12-08 14:45:48 - INFO - Received from Server - light: 393.53
+2024-12-08 14:45:48 - INFO - Received from Server - temperature: 18.52
+2024-12-08 14:45:48 - INFO - Received from Server - servo: 120
+2024-12-08 14:45:49 - INFO - Received from Server - servo: 120
+2024-12-08 14:45:50 - INFO - Received from Server - servo: 120
+2024-12-08 14:45:51 - INFO - Received from Server - servo: 120
+2024-12-08 14:45:52 - INFO - Received from Arduino: Temperature:19.75,Lux:336.37
+2024-12-08 14:45:52 - INFO - POST http://skycastle.cho0h5.org:8001/room/temperature 성공: {'success': True}
+2024-12-08 14:45:52 - INFO - POST http://skycastle.cho0h5.org:8001/room/illuminance 성공: {'success': True}
+2024-12-08 14:45:53 - INFO - Received from Server - light: 336.37
+2024-12-08 14:45:53 - INFO - Received from Server - temperature: 19.75
+2024-12-08 14:45:54 - INFO - Received from Server - servo: 120
+2024-12-08 14:45:54 - INFO - Received from Server - servo: 120
+2024-12-08 14:45:56 - INFO - Received from Server - servo: 120
+2024-12-08 14:45:56 - INFO - Received from Server - servo: 120
+2024-12-08 14:45:57 - INFO - Received from Arduino: Temperature:23.66,Lux:848.30
+2024-12-08 14:45:57 - INFO - POST http://skycastle.cho0h5.org:8001/room/temperature 성공: {'success': True}
+2024-12-08 14:45:58 - INFO - POST http://skycastle.cho0h5.org:8001/room/illuminance 성공: {'success': True}
+2024-12-08 14:45:58 - INFO - Received from Server - light: 848.3
+2024-12-08 14:45:59 - INFO - Received from Server - temperature: 23.66
+2024-12-08 14:45:59 - INFO - Received from Server - servo: 120
+2024-12-08 14:46:00 - INFO - Received from Server - servo: 120
+2024-12-08 14:46:01 - INFO - Received from Server - servo: 120
+2024-12-08 14:46:02 - INFO - Received from Server - servo: 120
+2024-12-08 14:46:02 - INFO - Received from Arduino: Temperature:25.17,Lux:863.80
+2024-12-08 14:46:02 - INFO - POST http://skycastle.cho0h5.org:8001/room/temperature 성공: {'success': True}
+2024-12-08 14:46:03 - INFO - POST http://skycastle.cho0h5.org:8001/room/illuminance 성공: {'success': True}
+2024-12-08 14:46:04 - INFO - Received from Server - light: 863.8
+2024-12-08 14:46:04 - INFO - Received from Server - temperature: 25.17
+2024-12-08 14:46:04 - INFO - Received from Server - servo: 120
+2024-12-08 14:46:05 - INFO - Received from Server - servo: 120
+2024-12-08 14:46:06 - INFO - Received from Server - servo: 120
+2024-12-08 14:46:07 - INFO - Received from Server - servo: 120
+2024-12-08 14:46:07 - INFO - Received from Arduino: Temperature:24.44,Lux:856.37
+2024-12-08 14:46:08 - INFO - POST http://skycastle.cho0h5.org:8001/room/temperature 성공: {'success': True}
+2024-12-08 14:46:08 - INFO - POST http://skycastle.cho0h5.org:8001/room/illuminance 성공: {'success': True}
+2024-12-08 14:46:09 - INFO - Received from Server - light: 856.37
+2024-12-08 14:46:09 - INFO - Received from Server - temperature: 24.44
+2024-12-08 14:46:09 - INFO - Received from Server - servo: 120
+2024-12-08 14:46:10 - INFO - Received from Server - servo: 120
+2024-12-08 14:46:11 - INFO - Received from Server - servo: 120
+2024-12-08 14:46:12 - INFO - Received from Server - servo: 120
+2024-12-08 14:46:13 - INFO - Received from Arduino: Temperature:24.54,Lux:855.50
+2024-12-08 14:46:13 - INFO - POST http://skycastle.cho0h5.org:8001/room/temperature 성공: {'success': True}
+2024-12-08 14:46:13 - INFO - POST http://skycastle.cho0h5.org:8001/room/illuminance 성공: {'success': True}
+2024-12-08 14:46:14 - INFO - Received from Server - light: 855.5
+2024-12-08 14:46:14 - INFO - Received from Server - temperature: 24.54
+2024-12-08 14:46:15 - INFO - Received from Server - servo: 120
+2024-12-08 14:46:15 - INFO - Received from Server - servo: 120
+2024-12-08 14:46:16 - INFO - Received from Server - servo: 120
+2024-12-08 14:46:17 - INFO - Received from Server - servo: 120
+2024-12-08 14:46:18 - INFO - Received from Server - servo: 120
+2024-12-08 14:46:18 - INFO - Received from Arduino: Temperature:26.15,Lux:864.87
+2024-12-08 14:46:19 - INFO - POST http://skycastle.cho0h5.org:8001/room/temperature 성공: {'success': True}
+2024-12-08 14:46:19 - INFO - POST http://skycastle.cho0h5.org:8001/room/illuminance 성공: {'success': True}
+2024-12-08 14:46:20 - INFO - Received from Server - light: 864.87
+2024-12-08 14:46:20 - INFO - Received from Server - temperature: 26.15
+2024-12-08 14:46:20 - INFO - Received from Server - servo: 120
+2024-12-08 14:46:21 - INFO - Received from Server - servo: 120
+2024-12-08 14:46:22 - INFO - Received from Server - servo: 120
+2024-12-08 14:46:23 - INFO - Received from Server - servo: 120
+2024-12-08 14:46:24 - INFO - Received from Server - servo: 120
+2024-12-08 14:46:24 - INFO - Received from Arduino: Temperature:26.59,Lux:857.27
+2024-12-08 14:46:25 - INFO - POST http://skycastle.cho0h5.org:8001/room/temperature 성공: {'success': True}
+2024-12-08 14:46:25 - INFO - POST http://skycastle.cho0h5.org:8001/room/illuminance 성공: {'success': True}
+2024-12-08 14:46:25 - INFO - Received from Server - light: 857.27
+2024-12-08 14:46:26 - INFO - Received from Server - temperature: 26.59
+2024-12-08 14:46:26 - INFO - Received from Server - servo: 120
+2024-12-08 14:46:27 - INFO - Received from Server - servo: 120
+2024-12-08 14:46:28 - INFO - Received from Server - servo: 120
+2024-12-08 14:46:29 - INFO - Received from Server - servo: 120
+2024-12-08 14:46:30 - INFO - Received from Arduino: Temperature:22.48,Lux:850.37
+2024-12-08 14:46:30 - INFO - POST http://skycastle.cho0h5.org:8001/room/temperature 성공: {'success': True}
+2024-12-08 14:46:30 - INFO - POST http://skycastle.cho0h5.org:8001/room/illuminance 성공: {'success': True}
+2024-12-08 14:46:31 - INFO - Received from Server - light: 850.37
+2024-12-08 14:46:31 - INFO - Received from Server - temperature: 22.48
+2024-12-08 14:46:31 - INFO - Received from Server - servo: 120
+2024-12-08 14:46:32 - INFO - 프로그램 종료
+2024-12-08 14:47:40 - INFO - Connected to serial port: /dev/ttyACM0
+2024-12-08 14:47:41 - INFO - Received from Server - servo: 120
+2024-12-08 14:47:43 - INFO - Received from Server - servo: 120
+2024-12-08 14:47:43 - INFO - Received from Server - servo: 120
+2024-12-08 14:47:44 - INFO - Received from Server - servo: 120
+2024-12-08 14:47:46 - INFO - Received from Server - servo: 120
+2024-12-08 14:47:46 - INFO - Received from Server - light: 850.37
+2024-12-08 14:47:47 - INFO - Received from Server - temperature: 22.48
+2024-12-08 14:47:47 - INFO - Received from Server - servo: 120
+2024-12-08 14:47:48 - INFO - Received from Server - servo: 120
+2024-12-08 14:47:49 - INFO - Received from Server - servo: 120
+2024-12-08 14:47:50 - INFO - Received from Server - servo: 120
+2024-12-08 14:47:50 - INFO - Received from Server - servo: 120
+2024-12-08 14:47:51 - INFO - Received from Server - servo: 120
+2024-12-08 14:47:52 - INFO - Received from Arduino: Temperature:20.28,Lux:276.83
+2024-12-08 14:47:52 - INFO - POST http://skycastle.cho0h5.org:8001/room/temperature 성공: {'success': True}
+2024-12-08 14:47:52 - INFO - POST http://skycastle.cho0h5.org:8001/room/illuminance 성공: {'success': True}
+2024-12-08 14:47:53 - INFO - Received from Server - light: 276.83
+2024-12-08 14:47:54 - INFO - Received from Server - temperature: 20.28
+2024-12-08 14:47:54 - INFO - Received from Server - servo: 120
+2024-12-08 14:47:55 - INFO - Received from Server - servo: 120
+2024-12-08 14:47:56 - INFO - Received from Server - servo: 120
+2024-12-08 14:47:57 - INFO - Received from Server - servo: 120
+2024-12-08 14:47:58 - INFO - Received from Arduino: Temperature:19.89,Lux:263.17
+2024-12-08 14:47:58 - INFO - POST http://skycastle.cho0h5.org:8001/room/temperature 성공: {'success': True}
+2024-12-08 14:47:59 - INFO - POST http://skycastle.cho0h5.org:8001/room/illuminance 성공: {'success': True}
+2024-12-08 14:47:59 - INFO - Received from Server - light: 263.17
+2024-12-08 14:47:59 - INFO - Received from Server - temperature: 19.89
+2024-12-08 14:47:59 - INFO - Received from Server - servo: 120
+2024-12-08 14:48:00 - INFO - Received from Server - servo: 120
+2024-12-08 14:48:01 - INFO - Received from Server - servo: 120
+2024-12-08 14:48:02 - INFO - Received from Server - servo: 120
+2024-12-08 14:48:03 - INFO - Received from Server - servo: 120
+2024-12-08 14:48:03 - INFO - Received from Arduino: Temperature:21.36,Lux:258.40
+2024-12-08 14:48:04 - INFO - POST http://skycastle.cho0h5.org:8001/room/temperature 성공: {'success': True}
+2024-12-08 14:48:04 - INFO - POST http://skycastle.cho0h5.org:8001/room/illuminance 성공: {'success': True}
+2024-12-08 14:48:05 - INFO - Received from Server - light: 258.4
+2024-12-08 14:48:05 - INFO - Received from Server - temperature: 21.36
+2024-12-08 14:48:06 - INFO - Received from Server - servo: 120
+2024-12-08 14:48:07 - INFO - Received from Server - servo: 120
+2024-12-08 14:48:08 - INFO - Received from Server - servo: 120
+2024-12-08 14:48:09 - INFO - Received from Arduino: Temperature:21.80,Lux:256.70
+2024-12-08 14:48:10 - INFO - POST http://skycastle.cho0h5.org:8001/room/temperature 성공: {'success': True}
+2024-12-08 14:48:10 - INFO - POST http://skycastle.cho0h5.org:8001/room/illuminance 성공: {'success': True}
+2024-12-08 14:48:10 - INFO - Received from Server - light: 256.7
+2024-12-08 14:48:10 - INFO - Received from Server - temperature: 21.8
+2024-12-08 14:48:11 - INFO - Received from Server - servo: 120
+2024-12-08 14:48:12 - INFO - Received from Server - servo: 120
+2024-12-08 14:48:13 - INFO - Received from Server - servo: 120
+2024-12-08 14:48:13 - INFO - Received from Server - servo: 120
+2024-12-08 14:48:14 - INFO - Received from Server - servo: 120
+2024-12-08 14:48:15 - INFO - Received from Arduino: Temperature:21.60,Lux:497.40
+2024-12-08 14:48:15 - INFO - POST http://skycastle.cho0h5.org:8001/room/temperature 성공: {'success': True}
+2024-12-08 14:48:16 - INFO - POST http://skycastle.cho0h5.org:8001/room/illuminance 성공: {'success': True}
+2024-12-08 14:48:16 - INFO - Received from Server - light: 497.4
+2024-12-08 14:48:16 - INFO - Received from Server - temperature: 21.6
+2024-12-08 14:48:16 - INFO - Received from Server - servo: 120
+2024-12-08 14:48:17 - INFO - Received from Server - servo: 120
+2024-12-08 14:48:18 - INFO - Received from Server - servo: 120
+2024-12-08 14:48:19 - INFO - Received from Server - servo: 120
+2024-12-08 14:48:20 - INFO - Received from Server - servo: 120
+2024-12-08 14:48:20 - INFO - Received from Arduino: Temperature:27.71,Lux:862.20
+2024-12-08 14:48:21 - INFO - POST http://skycastle.cho0h5.org:8001/room/temperature 성공: {'success': True}
+2024-12-08 14:48:21 - INFO - POST http://skycastle.cho0h5.org:8001/room/illuminance 성공: {'success': True}
+2024-12-08 14:48:21 - INFO - Received from Server - light: 862.2
+2024-12-08 14:48:22 - INFO - Received from Server - temperature: 27.71
+2024-12-08 14:48:22 - INFO - Received from Server - servo: 120
+2024-12-08 14:48:23 - INFO - Received from Server - servo: 120
+2024-12-08 14:48:24 - INFO - Received from Server - servo: 120
+2024-12-08 14:48:25 - INFO - Received from Server - servo: 120
+2024-12-08 14:48:25 - INFO - Received from Arduino: Temperature:23.80,Lux:862.80
+2024-12-08 14:48:26 - INFO - POST http://skycastle.cho0h5.org:8001/room/temperature 성공: {'success': True}
+2024-12-08 14:48:26 - INFO - POST http://skycastle.cho0h5.org:8001/room/illuminance 성공: {'success': True}
+2024-12-08 14:48:26 - INFO - Received from Server - light: 862.8
+2024-12-08 14:48:26 - INFO - Received from Server - temperature: 23.8
+2024-12-08 14:48:27 - INFO - Received from Server - servo: 120
+2024-12-08 14:48:28 - INFO - Received from Server - servo: 120
+2024-12-08 14:48:29 - INFO - Received from Server - servo: 120
+2024-12-08 14:48:29 - INFO - Received from Server - servo: 120
+2024-12-08 14:48:30 - INFO - Received from Server - servo: 120
+2024-12-08 14:48:31 - INFO - Received from Arduino: Temperature:24.58,Lux:861.43
+2024-12-08 14:48:31 - INFO - POST http://skycastle.cho0h5.org:8001/room/temperature 성공: {'success': True}
+2024-12-08 14:48:32 - INFO - POST http://skycastle.cho0h5.org:8001/room/illuminance 성공: {'success': True}
+2024-12-08 14:48:32 - INFO - Received from Server - light: 861.43
+2024-12-08 14:48:32 - INFO - Received from Server - temperature: 24.58
+2024-12-08 14:48:33 - INFO - Received from Server - servo: 120
+2024-12-08 14:48:34 - INFO - Received from Server - servo: 120
+2024-12-08 14:48:35 - INFO - Received from Server - servo: 120
+2024-12-08 14:48:35 - INFO - Received from Server - servo: 120
+2024-12-08 14:48:36 - INFO - Received from Server - servo: 120
+2024-12-08 14:48:37 - INFO - Received from Arduino: Temperature:21.07,Lux:786.47
+2024-12-08 14:48:37 - INFO - POST http://skycastle.cho0h5.org:8001/room/temperature 성공: {'success': True}
+2024-12-08 14:48:37 - INFO - POST http://skycastle.cho0h5.org:8001/room/illuminance 성공: {'success': True}
+2024-12-08 14:48:38 - INFO - Received from Server - light: 786.47
+2024-12-08 14:48:38 - INFO - Received from Server - temperature: 21.07
+2024-12-08 14:48:39 - INFO - Received from Server - servo: 120
+2024-12-08 14:48:39 - INFO - Received from Server - servo: 120
+2024-12-08 14:48:40 - INFO - Received from Server - servo: 120
+2024-12-08 14:48:41 - INFO - Received from Server - servo: 120
+2024-12-08 14:48:42 - INFO - Received from Server - servo: 120
+2024-12-08 14:48:43 - INFO - Received from Arduino: Temperature:25.46,Lux:797.17
+2024-12-08 14:48:43 - INFO - POST http://skycastle.cho0h5.org:8001/room/temperature 성공: {'success': True}
+2024-12-08 14:48:43 - INFO - POST http://skycastle.cho0h5.org:8001/room/illuminance 성공: {'success': True}
+2024-12-08 14:48:43 - INFO - Received from Server - light: 797.17
+2024-12-08 14:48:44 - INFO - Received from Server - temperature: 25.46
+2024-12-08 14:48:44 - INFO - Received from Server - servo: 120
+2024-12-08 14:48:45 - INFO - Received from Server - servo: 120
+2024-12-08 14:48:46 - INFO - Received from Server - servo: 120
+2024-12-08 14:48:47 - INFO - Received from Server - servo: 120
+2024-12-08 14:48:47 - INFO - Received from Server - servo: 120
+2024-12-08 14:48:48 - INFO - Received from Arduino: Temperature:26.88,Lux:867.63
+2024-12-08 14:48:48 - INFO - POST http://skycastle.cho0h5.org:8001/room/temperature 성공: {'success': True}
+2024-12-08 14:48:49 - INFO - POST http://skycastle.cho0h5.org:8001/room/illuminance 성공: {'success': True}
+2024-12-08 14:48:49 - INFO - Received from Server - light: 867.63
+2024-12-08 14:48:50 - INFO - Received from Server - temperature: 26.88
+2024-12-08 14:48:50 - INFO - Received from Server - servo: 120
+2024-12-08 14:48:51 - INFO - Received from Server - servo: 120
+2024-12-08 14:48:52 - INFO - Received from Server - servo: 120
+2024-12-08 14:48:53 - INFO - Received from Server - servo: 120
+2024-12-08 14:48:53 - INFO - Received from Arduino: Temperature:25.81,Lux:868.10
+2024-12-08 14:48:54 - INFO - POST http://skycastle.cho0h5.org:8001/room/temperature 성공: {'success': True}
+2024-12-08 14:48:54 - INFO - POST http://skycastle.cho0h5.org:8001/room/illuminance 성공: {'success': True}
+2024-12-08 14:48:54 - INFO - Received from Server - light: 868.1
+2024-12-08 14:48:54 - INFO - Received from Server - temperature: 25.81
+2024-12-08 14:48:55 - INFO - Received from Server - servo: 120
+2024-12-08 14:48:56 - INFO - Received from Server - servo: 120
+2024-12-08 14:48:56 - INFO - Received from Server - servo: 120
+2024-12-08 14:48:57 - INFO - Received from Server - servo: 120
+2024-12-08 14:48:58 - INFO - Received from Server - servo: 120
+2024-12-08 14:48:59 - INFO - Received from Arduino: Temperature:27.81,Lux:867.03
+2024-12-08 14:48:59 - INFO - POST http://skycastle.cho0h5.org:8001/room/temperature 성공: {'success': True}
+2024-12-08 14:49:00 - INFO - POST http://skycastle.cho0h5.org:8001/room/illuminance 성공: {'success': True}
+2024-12-08 14:49:00 - INFO - Received from Server - light: 867.03
+2024-12-08 14:49:00 - INFO - Received from Server - temperature: 27.81
+2024-12-08 14:49:01 - INFO - Received from Server - servo: 120
+2024-12-08 14:49:06 - INFO - Received from Server - servo: 120
+2024-12-08 14:49:07 - INFO - Received from Arduino: Temperature:21.07,Lux:865.77
+2024-12-08 14:49:07 - INFO - POST http://skycastle.cho0h5.org:8001/room/temperature 성공: {'success': True}
+2024-12-08 14:49:08 - INFO - POST http://skycastle.cho0h5.org:8001/room/illuminance 성공: {'success': True}
+2024-12-08 14:49:08 - INFO - Received from Server - light: 865.77
+2024-12-08 14:49:09 - INFO - Received from Server - temperature: 21.07
+2024-12-08 14:49:09 - INFO - Received from Server - servo: 120
+2024-12-08 14:49:11 - INFO - Received from Server - servo: 120
+2024-12-08 14:49:12 - INFO - Received from Server - servo: 120
+2024-12-08 14:49:12 - INFO - Received from Arduino: Temperature:27.03,Lux:867.10
+2024-12-08 14:49:13 - INFO - POST http://skycastle.cho0h5.org:8001/room/temperature 성공: {'success': True}
+2024-12-08 14:49:13 - INFO - POST http://skycastle.cho0h5.org:8001/room/illuminance 성공: {'success': True}
+2024-12-08 14:49:14 - INFO - Received from Server - light: 867.1
+2024-12-08 14:49:14 - INFO - Received from Server - temperature: 27.03
+2024-12-08 14:49:14 - INFO - Received from Server - servo: 120
+2024-12-08 14:49:15 - INFO - Received from Server - servo: 120
+2024-12-08 14:49:16 - INFO - Received from Server - servo: 120
+2024-12-08 14:49:17 - INFO - Received from Server - servo: 120
+2024-12-08 14:49:18 - INFO - Received from Arduino: Temperature:24.05,Lux:864.67
+2024-12-08 14:49:18 - INFO - POST http://skycastle.cho0h5.org:8001/room/temperature 성공: {'success': True}
+2024-12-08 14:49:18 - INFO - POST http://skycastle.cho0h5.org:8001/room/illuminance 성공: {'success': True}
+2024-12-08 14:49:19 - INFO - Received from Server - light: 864.67
+2024-12-08 14:49:19 - INFO - Received from Server - temperature: 24.05
+2024-12-08 14:49:20 - INFO - Received from Server - servo: 120
+2024-12-08 14:49:20 - INFO - Received from Server - servo: 120
+2024-12-08 14:49:21 - INFO - Received from Server - servo: 120
+2024-12-08 14:49:22 - INFO - Received from Server - servo: 120
+2024-12-08 14:49:23 - INFO - Received from Arduino: Temperature:23.66,Lux:854.67
+2024-12-08 14:49:24 - INFO - POST http://skycastle.cho0h5.org:8001/room/temperature 성공: {'success': True}
+2024-12-08 14:49:24 - INFO - POST http://skycastle.cho0h5.org:8001/room/illuminance 성공: {'success': True}
+2024-12-08 14:49:25 - INFO - Received from Server - light: 854.67
+2024-12-08 14:49:25 - INFO - Received from Server - temperature: 23.66
+2024-12-08 14:49:25 - INFO - Received from Server - servo: 120
+2024-12-08 14:49:26 - INFO - Received from Server - servo: 120
+2024-12-08 14:49:27 - INFO - Received from Server - servo: 120
+2024-12-08 14:49:28 - INFO - Received from Server - servo: 120
+2024-12-08 14:49:28 - INFO - Received from Arduino: Temperature:26.83,Lux:856.37
+2024-12-08 14:49:29 - INFO - POST http://skycastle.cho0h5.org:8001/room/temperature 성공: {'success': True}
+2024-12-08 14:49:29 - INFO - POST http://skycastle.cho0h5.org:8001/room/illuminance 성공: {'success': True}
+2024-12-08 14:49:29 - INFO - Received from Server - light: 856.37
+2024-12-08 14:49:29 - INFO - Received from Server - temperature: 26.83
+2024-12-08 14:49:30 - INFO - Received from Server - servo: 120
+2024-12-08 14:49:31 - INFO - Received from Server - servo: 120
+2024-12-08 14:49:32 - INFO - Received from Server - servo: 120
+2024-12-08 14:49:32 - INFO - Received from Server - servo: 120
+2024-12-08 14:49:33 - INFO - Received from Server - servo: 120
+2024-12-08 14:49:34 - INFO - Received from Arduino: Temperature:24.98,Lux:865.20
+2024-12-08 14:49:34 - INFO - POST http://skycastle.cho0h5.org:8001/room/temperature 성공: {'success': True}
+2024-12-08 14:49:35 - INFO - POST http://skycastle.cho0h5.org:8001/room/illuminance 성공: {'success': True}
+2024-12-08 14:49:35 - INFO - Received from Server - light: 865.2
+2024-12-08 14:49:36 - INFO - Received from Server - temperature: 24.98
+2024-12-08 14:49:36 - INFO - Received from Server - servo: 120
+2024-12-08 14:49:37 - INFO - Received from Server - servo: 120
+2024-12-08 14:49:38 - INFO - Received from Server - servo: 120
+2024-12-08 14:49:38 - INFO - Received from Server - servo: 120
+2024-12-08 14:49:39 - INFO - Received from Server - servo: 120
+2024-12-08 14:49:40 - INFO - Received from Arduino: Temperature:24.73,Lux:858.23
+2024-12-08 14:49:40 - INFO - POST http://skycastle.cho0h5.org:8001/room/temperature 성공: {'success': True}
+2024-12-08 14:49:40 - INFO - POST http://skycastle.cho0h5.org:8001/room/illuminance 성공: {'success': True}
+2024-12-08 14:49:40 - INFO - Received from Server - light: 858.23
+2024-12-08 14:49:41 - INFO - Received from Server - temperature: 24.73
+2024-12-08 14:49:41 - INFO - Received from Server - servo: 120
+2024-12-08 14:49:42 - INFO - Received from Server - servo: 120
+2024-12-08 14:49:43 - INFO - Received from Server - servo: 120
+2024-12-08 14:49:44 - INFO - Received from Server - servo: 120
+2024-12-08 14:49:45 - INFO - Received from Server - servo: 120
+2024-12-08 14:49:45 - INFO - Received from Arduino: Temperature:26.30,Lux:852.33
+2024-12-08 14:49:46 - INFO - POST http://skycastle.cho0h5.org:8001/room/temperature 성공: {'success': True}
+2024-12-08 14:49:46 - INFO - POST http://skycastle.cho0h5.org:8001/room/illuminance 성공: {'success': True}
+2024-12-08 14:49:47 - INFO - Received from Server - light: 852.33
+2024-12-08 14:49:47 - INFO - Received from Server - temperature: 26.3
+2024-12-08 14:49:47 - INFO - Received from Server - servo: 120
+2024-12-08 14:49:48 - INFO - Received from Server - servo: 120
+2024-12-08 14:49:49 - INFO - Received from Server - servo: 120
+2024-12-08 14:49:50 - INFO - Received from Server - servo: 120
+2024-12-08 14:49:50 - INFO - Received from Server - servo: 120
+2024-12-08 14:49:51 - INFO - Received from Arduino: Temperature:23.85,Lux:856.40
+2024-12-08 14:49:51 - INFO - POST http://skycastle.cho0h5.org:8001/room/temperature 성공: {'success': True}
+2024-12-08 14:49:51 - INFO - POST http://skycastle.cho0h5.org:8001/room/illuminance 성공: {'success': True}
+2024-12-08 14:49:52 - INFO - Received from Server - light: 856.4
+2024-12-08 14:49:52 - INFO - Received from Server - temperature: 23.85
+2024-12-08 14:49:53 - INFO - Received from Server - servo: 120
+2024-12-08 14:49:53 - INFO - Received from Server - servo: 120
+2024-12-08 14:49:54 - INFO - Received from Server - servo: 120
+2024-12-08 14:49:55 - INFO - Received from Server - servo: 120
+2024-12-08 14:49:56 - INFO - Received from Server - servo: 120
+2024-12-08 14:49:57 - INFO - Received from Arduino: Temperature:27.76,Lux:855.97
+2024-12-08 14:49:57 - INFO - POST http://skycastle.cho0h5.org:8001/room/temperature 성공: {'success': True}
+2024-12-08 14:49:57 - INFO - POST http://skycastle.cho0h5.org:8001/room/illuminance 성공: {'success': True}
+2024-12-08 14:49:57 - INFO - Received from Server - light: 855.97
+2024-12-08 14:49:58 - INFO - Received from Server - temperature: 27.76
+2024-12-08 14:49:58 - INFO - Received from Server - servo: 120
+2024-12-08 14:49:59 - INFO - Received from Server - servo: 120
+2024-12-08 14:50:00 - INFO - Received from Server - servo: 120
+2024-12-08 14:50:00 - INFO - Received from Server - servo: 120
+2024-12-08 14:50:01 - INFO - Received from Server - servo: 120
+2024-12-08 14:50:02 - INFO - Received from Arduino: Temperature:26.00,Lux:853.47
+2024-12-08 14:50:02 - INFO - POST http://skycastle.cho0h5.org:8001/room/temperature 성공: {'success': True}
+2024-12-08 14:50:03 - INFO - POST http://skycastle.cho0h5.org:8001/room/illuminance 성공: {'success': True}
+2024-12-08 14:50:03 - INFO - Received from Server - light: 853.47
+2024-12-08 14:50:04 - INFO - Received from Server - temperature: 26.0
+2024-12-08 14:50:04 - INFO - Received from Server - servo: 120
+2024-12-08 14:50:05 - INFO - Received from Server - servo: 120
+2024-12-08 14:50:06 - INFO - Received from Server - servo: 120
+2024-12-08 14:50:07 - INFO - Received from Server - servo: 120
+2024-12-08 14:50:07 - INFO - Received from Arduino: Temperature:22.39,Lux:852.07
+2024-12-08 14:50:07 - INFO - POST http://skycastle.cho0h5.org:8001/room/temperature 성공: {'success': True}
+2024-12-08 14:50:08 - INFO - POST http://skycastle.cho0h5.org:8001/room/illuminance 성공: {'success': True}
+2024-12-08 14:50:08 - INFO - Received from Server - light: 852.07
+2024-12-08 14:50:08 - INFO - Received from Server - temperature: 22.39
+2024-12-08 14:50:09 - INFO - Received from Server - servo: 120
+2024-12-08 14:50:10 - INFO - Received from Server - servo: 120
+2024-12-08 14:50:10 - INFO - Received from Server - servo: 120
+2024-12-08 14:50:11 - INFO - Received from Server - servo: 120
+2024-12-08 14:50:12 - INFO - Received from Server - servo: 120
+2024-12-08 14:50:13 - INFO - Received from Arduino: Temperature:24.54,Lux:852.10
+2024-12-08 14:50:13 - INFO - POST http://skycastle.cho0h5.org:8001/room/temperature 성공: {'success': True}
+2024-12-08 14:50:14 - INFO - POST http://skycastle.cho0h5.org:8001/room/illuminance 성공: {'success': True}
+2024-12-08 14:50:14 - INFO - Received from Server - light: 852.1
+2024-12-08 14:50:14 - INFO - Received from Server - temperature: 24.54
+2024-12-08 14:50:15 - INFO - Received from Server - servo: 120
+2024-12-08 14:50:16 - INFO - Received from Server - servo: 120
+2024-12-08 14:50:16 - INFO - Received from Server - servo: 120
+2024-12-08 14:50:17 - INFO - Received from Server - servo: 120
+2024-12-08 14:50:18 - INFO - Received from Arduino: Temperature:25.66,Lux:857.23
+2024-12-08 14:50:18 - INFO - POST http://skycastle.cho0h5.org:8001/room/temperature 성공: {'success': True}
+2024-12-08 14:50:18 - INFO - POST http://skycastle.cho0h5.org:8001/room/illuminance 성공: {'success': True}
+2024-12-08 14:50:19 - INFO - Received from Server - light: 857.23
+2024-12-08 14:50:19 - INFO - Received from Server - temperature: 25.66
+2024-12-08 14:50:20 - INFO - Received from Server - servo: 120
+2024-12-08 14:50:20 - INFO - Received from Server - servo: 120
+2024-12-08 14:50:21 - INFO - Received from Server - servo: 120
+2024-12-08 14:50:22 - INFO - Received from Server - servo: 120
+2024-12-08 14:50:23 - INFO - Received from Server - servo: 120
+2024-12-08 14:50:23 - INFO - Received from Arduino: Temperature:24.10,Lux:865.23
+2024-12-08 14:50:24 - INFO - POST http://skycastle.cho0h5.org:8001/room/temperature 성공: {'success': True}
+2024-12-08 14:50:25 - INFO - POST http://skycastle.cho0h5.org:8001/room/illuminance 성공: {'success': True}
+2024-12-08 14:50:25 - INFO - Received from Server - light: 865.23
+2024-12-08 14:50:26 - INFO - Received from Server - temperature: 24.1
+2024-12-08 14:50:26 - INFO - Received from Server - servo: 120
+2024-12-08 14:50:27 - INFO - Received from Server - servo: 120
+2024-12-08 14:50:28 - INFO - Received from Server - servo: 120
+2024-12-08 14:50:29 - INFO - Received from Server - servo: 120
+2024-12-08 14:50:29 - INFO - Received from Arduino: Temperature:23.70,Lux:860.47
+2024-12-08 14:50:29 - INFO - POST http://skycastle.cho0h5.org:8001/room/temperature 성공: {'success': True}
+2024-12-08 14:50:30 - INFO - POST http://skycastle.cho0h5.org:8001/room/illuminance 성공: {'success': True}
+2024-12-08 14:50:30 - INFO - Received from Server - light: 860.47
+2024-12-08 14:50:31 - INFO - Received from Server - temperature: 23.7
+2024-12-08 14:50:31 - INFO - Received from Server - servo: 120
+2024-12-08 14:50:32 - INFO - Received from Server - servo: 120
+2024-12-08 14:50:32 - INFO - Received from Server - servo: 120
+2024-12-08 14:50:33 - INFO - Received from Server - servo: 120
+2024-12-08 14:50:34 - INFO - Received from Server - servo: 120
+2024-12-08 14:50:35 - INFO - Received from Arduino: Temperature:25.51,Lux:851.83
+2024-12-08 14:50:35 - INFO - POST http://skycastle.cho0h5.org:8001/room/temperature 성공: {'success': True}
+2024-12-08 14:50:35 - INFO - POST http://skycastle.cho0h5.org:8001/room/illuminance 성공: {'success': True}
+2024-12-08 14:50:36 - INFO - Received from Server - light: 851.83
+2024-12-08 14:50:36 - INFO - Received from Server - temperature: 25.51
+2024-12-08 14:50:37 - INFO - Received from Server - servo: 120
+2024-12-08 14:50:38 - INFO - Received from Server - servo: 120
+2024-12-08 14:50:39 - INFO - Received from Server - servo: 120
+2024-12-08 14:50:40 - INFO - Received from Server - servo: 120
+2024-12-08 14:50:40 - INFO - Received from Arduino: Temperature:25.46,Lux:851.30
+2024-12-08 14:50:41 - INFO - POST http://skycastle.cho0h5.org:8001/room/temperature 성공: {'success': True}
+2024-12-08 14:50:41 - INFO - POST http://skycastle.cho0h5.org:8001/room/illuminance 성공: {'success': True}
+2024-12-08 14:50:41 - INFO - Received from Server - light: 851.3
+2024-12-08 14:50:42 - INFO - Received from Server - temperature: 25.46
+2024-12-08 14:50:42 - INFO - Received from Server - servo: 120
+2024-12-08 14:50:43 - INFO - Received from Server - servo: 120
+2024-12-08 14:50:44 - INFO - Received from Server - servo: 120
+2024-12-08 14:50:45 - INFO - Received from Server - servo: 120
+2024-12-08 14:50:45 - INFO - Received from Server - servo: 120
+2024-12-08 14:50:46 - INFO - Received from Arduino: Temperature:28.64,Lux:855.37
+2024-12-08 14:50:46 - INFO - POST http://skycastle.cho0h5.org:8001/room/temperature 성공: {'success': True}
+2024-12-08 14:50:47 - INFO - POST http://skycastle.cho0h5.org:8001/room/illuminance 성공: {'success': True}
+2024-12-08 14:50:47 - INFO - Received from Server - light: 855.37
+2024-12-08 14:50:47 - INFO - Received from Server - temperature: 28.64
+2024-12-08 14:50:48 - INFO - Received from Server - servo: 120
+2024-12-08 14:50:49 - INFO - Received from Server - servo: 120
+2024-12-08 14:50:49 - INFO - Received from Server - servo: 120
+2024-12-08 14:50:50 - INFO - Received from Server - servo: 120
+2024-12-08 14:50:51 - INFO - Received from Server - servo: 120
+2024-12-08 14:50:52 - INFO - Received from Arduino: Temperature:23.80,Lux:856.87
+2024-12-08 14:50:52 - INFO - POST http://skycastle.cho0h5.org:8001/room/temperature 성공: {'success': True}
+2024-12-08 14:50:53 - INFO - POST http://skycastle.cho0h5.org:8001/room/illuminance 성공: {'success': True}
+2024-12-08 14:50:53 - INFO - Received from Server - light: 856.87
+2024-12-08 14:50:54 - INFO - Received from Server - temperature: 23.8
+2024-12-08 14:50:54 - INFO - Received from Server - servo: 120
+2024-12-08 14:50:55 - INFO - Received from Server - servo: 120
+2024-12-08 14:50:56 - INFO - Received from Server - servo: 120
+2024-12-08 14:50:57 - INFO - Received from Server - servo: 120
+2024-12-08 14:50:57 - INFO - Received from Arduino: Temperature:26.69,Lux:853.60
+2024-12-08 14:50:58 - INFO - POST http://skycastle.cho0h5.org:8001/room/temperature 성공: {'success': True}
+2024-12-08 14:50:58 - INFO - POST http://skycastle.cho0h5.org:8001/room/illuminance 성공: {'success': True}
+2024-12-08 14:50:58 - INFO - Received from Server - light: 853.6
+2024-12-08 14:50:59 - INFO - Received from Server - temperature: 26.69
+2024-12-08 14:50:59 - INFO - Received from Server - servo: 120
+2024-12-08 14:51:00 - INFO - Received from Server - servo: 120
+2024-12-08 14:51:01 - INFO - Received from Server - servo: 120
+2024-12-08 14:51:02 - INFO - Received from Server - servo: 120
+2024-12-08 14:51:02 - INFO - Received from Arduino: Temperature:25.32,Lux:850.57
+2024-12-08 14:51:03 - INFO - POST http://skycastle.cho0h5.org:8001/room/temperature 성공: {'success': True}
+2024-12-08 14:51:03 - INFO - POST http://skycastle.cho0h5.org:8001/room/illuminance 성공: {'success': True}
+2024-12-08 14:51:03 - INFO - Received from Server - light: 850.57
+2024-12-08 14:51:03 - INFO - Received from Server - temperature: 25.32
+2024-12-08 14:51:04 - INFO - Received from Server - servo: 120
+2024-12-08 14:51:05 - INFO - Received from Server - servo: 120
+2024-12-08 14:51:06 - INFO - Received from Server - servo: 120
+2024-12-08 14:51:07 - INFO - Received from Server - servo: 120
+2024-12-08 14:51:08 - INFO - Received from Arduino: Temperature:24.98,Lux:853.17
+2024-12-08 14:51:08 - INFO - POST http://skycastle.cho0h5.org:8001/room/temperature 성공: {'success': True}
+2024-12-08 14:51:09 - INFO - POST http://skycastle.cho0h5.org:8001/room/illuminance 성공: {'success': True}
+2024-12-08 14:51:09 - INFO - Received from Server - light: 853.17
+2024-12-08 14:51:10 - INFO - Received from Server - temperature: 24.98
+2024-12-08 14:51:11 - INFO - Received from Server - servo: 120
+2024-12-08 14:51:11 - INFO - Received from Server - servo: 120
+2024-12-08 14:51:13 - INFO - Received from Server - servo: 120
+2024-12-08 14:51:13 - INFO - Received from Arduino: Temperature:22.63,Lux:860.27
+2024-12-08 14:51:14 - INFO - POST http://skycastle.cho0h5.org:8001/room/temperature 성공: {'success': True}
+2024-12-08 14:51:14 - INFO - POST http://skycastle.cho0h5.org:8001/room/illuminance 성공: {'success': True}
+2024-12-08 14:51:14 - INFO - Received from Server - light: 860.27
+2024-12-08 14:51:15 - INFO - Received from Server - temperature: 22.63
+2024-12-08 14:51:15 - INFO - Received from Server - servo: 120
+2024-12-08 14:51:16 - INFO - Received from Server - servo: 120
+2024-12-08 14:51:17 - INFO - Received from Server - servo: 120
+2024-12-08 14:51:18 - INFO - Received from Server - servo: 120
+2024-12-08 14:51:18 - INFO - Received from Arduino: Temperature:24.68,Lux:865.37
+2024-12-08 14:51:19 - INFO - POST http://skycastle.cho0h5.org:8001/room/temperature 성공: {'success': True}
+2024-12-08 14:51:19 - INFO - POST http://skycastle.cho0h5.org:8001/room/illuminance 성공: {'success': True}
+2024-12-08 14:51:20 - INFO - Received from Server - light: 865.37
+2024-12-08 14:51:20 - INFO - Received from Server - temperature: 24.68
+2024-12-08 14:51:22 - INFO - Received from Server - servo: 120
+2024-12-08 14:51:23 - INFO - Received from Server - servo: 120
+2024-12-08 14:51:23 - INFO - Received from Server - servo: 120
+2024-12-08 14:51:24 - INFO - Received from Arduino: Temperature:22.63,Lux:865.33
+2024-12-08 14:51:25 - INFO - POST http://skycastle.cho0h5.org:8001/room/temperature 성공: {'success': True}
+2024-12-08 14:51:25 - INFO - POST http://skycastle.cho0h5.org:8001/room/illuminance 성공: {'success': True}
+2024-12-08 14:51:25 - INFO - Received from Server - light: 865.33
+2024-12-08 14:51:26 - INFO - Received from Server - temperature: 22.63
+2024-12-08 14:51:26 - INFO - Received from Server - servo: 120
+2024-12-08 14:51:27 - INFO - Received from Server - servo: 120
+2024-12-08 14:51:28 - INFO - Received from Server - servo: 120
+2024-12-08 14:51:28 - INFO - Received from Server - servo: 120
+2024-12-08 14:51:29 - INFO - Received from Arduino: Temperature:24.63,Lux:864.20
+2024-12-08 14:51:29 - INFO - POST http://skycastle.cho0h5.org:8001/room/temperature 성공: {'success': True}
+2024-12-08 14:51:30 - INFO - POST http://skycastle.cho0h5.org:8001/room/illuminance 성공: {'success': True}
+2024-12-08 14:51:30 - INFO - Received from Server - light: 864.2
+2024-12-08 14:51:30 - INFO - Received from Server - temperature: 24.63
+2024-12-08 14:51:30 - INFO - Received from Server - servo: 120
+2024-12-08 14:51:31 - INFO - Received from Server - servo: 120
+2024-12-08 14:51:32 - INFO - Received from Server - servo: 120
+2024-12-08 14:51:33 - INFO - Received from Server - servo: 120
+2024-12-08 14:51:34 - INFO - 프로그램 종료
+2024-12-08 14:56:02 - INFO - Connected to serial port: /dev/ttyACM0
+2024-12-08 14:56:02 - INFO - Received from Server - servo: 120
+2024-12-08 14:56:03 - INFO - Received from Server - servo: 120
+2024-12-08 14:56:04 - INFO - Received from Server - servo: 120
+2024-12-08 14:56:05 - INFO - Received from Server - servo: 120
+2024-12-08 14:56:06 - INFO - Received from Server - servo: 120
+2024-12-08 14:56:07 - INFO - Received from Server - servo: 120
+2024-12-08 14:56:08 - INFO - Received from Server - servo: 120
+2024-12-08 14:56:09 - INFO - Received from Arduino: Temperature:23.75,Lux:853.80
+2024-12-08 14:56:09 - INFO - POST http://skycastle.cho0h5.org:8001/room/temperature 성공: {'success': True}
+2024-12-08 14:56:09 - INFO - POST http://skycastle.cho0h5.org:8001/room/illuminance 성공: {'success': True}
+2024-12-08 14:56:10 - INFO - Received from Server - light: 853.8
+2024-12-08 14:56:10 - INFO - Received from Server - temperature: 23.75
+2024-12-08 14:56:11 - INFO - Received from Server - servo: 120
+2024-12-08 14:56:12 - INFO - Received from Server - servo: 120
+2024-12-08 14:56:13 - INFO - Received from Server - servo: 120
+2024-12-08 14:56:13 - INFO - Received from Server - servo: 120
+2024-12-08 14:56:14 - INFO - Received from Arduino: Temperature:23.07,Lux:864.20
+2024-12-08 14:56:14 - INFO - POST http://skycastle.cho0h5.org:8001/room/temperature 성공: {'success': True}
+2024-12-08 14:56:15 - INFO - POST http://skycastle.cho0h5.org:8001/room/illuminance 성공: {'success': True}
+2024-12-08 14:56:15 - INFO - Received from Server - light: 864.2
+2024-12-08 14:56:15 - INFO - Received from Server - temperature: 23.07
+2024-12-08 14:56:16 - INFO - Received from Server - servo: 120
+2024-12-08 14:56:17 - INFO - Received from Server - servo: 120
+2024-12-08 14:56:17 - INFO - Received from Server - servo: 120
+2024-12-08 14:56:18 - INFO - Received from Server - servo: 120
+2024-12-08 14:56:19 - INFO - Received from Arduino: Temperature:24.44,Lux:854.23
+2024-12-08 14:56:19 - INFO - POST http://skycastle.cho0h5.org:8001/room/temperature 성공: {'success': True}
+2024-12-08 14:56:20 - INFO - POST http://skycastle.cho0h5.org:8001/room/illuminance 성공: {'success': True}
+2024-12-08 14:56:20 - INFO - Received from Server - light: 854.23
+2024-12-08 14:56:20 - INFO - Received from Server - temperature: 24.44
+2024-12-08 14:56:21 - INFO - Received from Server - servo: 120
+2024-12-08 14:56:21 - INFO - Received from Server - servo: 120
+2024-12-08 14:56:22 - INFO - Received from Server - servo: 120
+2024-12-08 14:56:23 - INFO - Received from Server - servo: 120
+2024-12-08 14:56:24 - INFO - Received from Arduino: Temperature:26.05,Lux:861.00
+2024-12-08 14:56:25 - INFO - POST http://skycastle.cho0h5.org:8001/room/temperature 성공: {'success': True}
+2024-12-08 14:56:26 - INFO - POST http://skycastle.cho0h5.org:8001/room/illuminance 성공: {'success': True}
+2024-12-08 14:56:26 - INFO - Received from Server - light: 861.0
+2024-12-08 14:56:26 - INFO - Received from Server - temperature: 26.05
+2024-12-08 14:56:27 - INFO - Received from Server - servo: 120
+2024-12-08 14:56:28 - INFO - Received from Server - servo: 120
+2024-12-08 14:56:29 - INFO - Received from Server - servo: 120
+2024-12-08 14:56:29 - INFO - Received from Arduino: Temperature:25.27,Lux:855.40
+2024-12-08 14:56:29 - INFO - POST http://skycastle.cho0h5.org:8001/room/temperature 성공: {'success': True}
+2024-12-08 14:56:30 - INFO - POST http://skycastle.cho0h5.org:8001/room/illuminance 성공: {'success': True}
+2024-12-08 14:56:30 - INFO - Received from Server - light: 855.4
+2024-12-08 14:56:30 - INFO - Received from Server - temperature: 25.27
+2024-12-08 14:56:31 - INFO - Received from Server - servo: 120
+2024-12-08 14:56:31 - INFO - Received from Server - servo: 120
+2024-12-08 14:56:32 - INFO - Received from Server - servo: 120
+2024-12-08 14:56:33 - INFO - Received from Server - servo: 120
+2024-12-08 14:56:34 - INFO - Received from Arduino: Temperature:26.30,Lux:861.93
+2024-12-08 14:56:34 - INFO - POST http://skycastle.cho0h5.org:8001/room/temperature 성공: {'success': True}
+2024-12-08 14:56:34 - INFO - POST http://skycastle.cho0h5.org:8001/room/illuminance 성공: {'success': True}
+2024-12-08 14:56:35 - INFO - Received from Server - light: 861.93
+2024-12-08 14:56:35 - INFO - Received from Server - temperature: 26.3
+2024-12-08 14:56:36 - INFO - Received from Server - servo: 120
+2024-12-08 14:56:37 - INFO - Received from Server - servo: 120
+2024-12-08 14:56:38 - INFO - Received from Server - servo: 120
+2024-12-08 14:56:39 - INFO - Received from Server - servo: 120
+2024-12-08 14:56:39 - INFO - Received from Arduino: Temperature:23.70,Lux:850.23
+2024-12-08 14:56:39 - INFO - POST http://skycastle.cho0h5.org:8001/room/temperature 성공: {'success': True}
+2024-12-08 14:56:40 - INFO - POST http://skycastle.cho0h5.org:8001/room/illuminance 성공: {'success': True}
+2024-12-08 14:56:40 - INFO - Received from Server - light: 850.23
+2024-12-08 14:56:40 - INFO - Received from Server - temperature: 23.7
+2024-12-08 14:56:41 - INFO - Received from Server - servo: 120
+2024-12-08 14:56:41 - INFO - Received from Server - servo: 120
+2024-12-08 14:56:43 - INFO - Received from Server - servo: 120
+2024-12-08 14:56:44 - INFO - Received from Arduino: Temperature:16.37,Lux:432.60
+2024-12-08 14:56:44 - INFO - POST http://skycastle.cho0h5.org:8001/room/temperature 성공: {'success': True}
+2024-12-08 14:56:44 - INFO - POST http://skycastle.cho0h5.org:8001/room/illuminance 성공: {'success': True}
+2024-12-08 14:56:45 - INFO - Received from Server - light: 432.6
+2024-12-08 14:56:45 - INFO - Received from Server - temperature: 16.37
+2024-12-08 14:56:45 - INFO - Received from Server - servo: 120
+2024-12-08 14:56:46 - INFO - Received from Server - servo: 120
+2024-12-08 14:56:47 - INFO - Received from Server - servo: 120
+2024-12-08 14:56:48 - INFO - Received from Server - servo: 120
+2024-12-08 14:56:48 - INFO - Received from Server - servo: 120
+2024-12-08 14:56:49 - INFO - Received from Arduino: Temperature:17.16,Lux:406.23
+2024-12-08 14:56:49 - INFO - POST http://skycastle.cho0h5.org:8001/room/temperature 성공: {'success': True}
+2024-12-08 14:56:50 - INFO - POST http://skycastle.cho0h5.org:8001/room/illuminance 성공: {'success': True}
+2024-12-08 14:56:50 - INFO - Received from Server - light: 406.23
+2024-12-08 14:56:50 - INFO - Received from Server - temperature: 17.16
+2024-12-08 14:56:50 - INFO - Received from Server - servo: 120
+2024-12-08 14:56:51 - INFO - Received from Server - servo: 120
+2024-12-08 14:56:52 - INFO - Received from Server - servo: 120
+2024-12-08 14:56:53 - INFO - Received from Server - servo: 120
+2024-12-08 14:56:54 - INFO - Received from Arduino: Temperature:21.07,Lux:673.47
+2024-12-08 14:56:54 - INFO - POST http://skycastle.cho0h5.org:8001/room/temperature 성공: {'success': True}
+2024-12-08 14:56:54 - INFO - POST http://skycastle.cho0h5.org:8001/room/illuminance 성공: {'success': True}
+2024-12-08 14:56:55 - INFO - Received from Server - light: 673.47
+2024-12-08 14:56:55 - INFO - Received from Server - temperature: 21.07
+2024-12-08 14:56:55 - INFO - Received from Server - servo: 120
+2024-12-08 14:56:56 - INFO - Received from Server - servo: 120
+2024-12-08 14:56:57 - INFO - Received from Server - servo: 120
+2024-12-08 14:56:58 - INFO - Received from Server - servo: 120
+2024-12-08 14:56:58 - INFO - Received from Arduino: Temperature:20.72,Lux:782.97
+2024-12-08 14:56:59 - INFO - POST http://skycastle.cho0h5.org:8001/room/temperature 성공: {'success': True}
+2024-12-08 14:56:59 - INFO - POST http://skycastle.cho0h5.org:8001/room/illuminance 성공: {'success': True}
+2024-12-08 14:56:59 - INFO - Received from Server - light: 782.97
+2024-12-08 14:57:00 - INFO - Received from Server - temperature: 20.72
+2024-12-08 14:57:00 - INFO - Received from Server - servo: 120
+2024-12-08 14:57:01 - INFO - Received from Server - servo: 120
+2024-12-08 14:57:02 - INFO - Received from Server - servo: 120
+2024-12-08 14:57:03 - INFO - Received from Server - servo: 120
+2024-12-08 14:57:03 - INFO - Received from Server - servo: 120
+2024-12-08 14:57:04 - INFO - Received from Arduino: Temperature:18.87,Lux:433.87
+2024-12-08 14:57:04 - INFO - POST http://skycastle.cho0h5.org:8001/room/temperature 성공: {'success': True}
+2024-12-08 14:57:05 - INFO - POST http://skycastle.cho0h5.org:8001/room/illuminance 성공: {'success': True}
+2024-12-08 14:57:05 - INFO - Received from Server - light: 433.87
+2024-12-08 14:57:05 - INFO - Received from Server - temperature: 18.87
+2024-12-08 14:57:06 - INFO - Received from Server - servo: 120
+2024-12-08 14:57:06 - INFO - Received from Server - servo: 120
+2024-12-08 14:57:07 - INFO - Received from Server - servo: 120
+2024-12-08 14:57:08 - INFO - Received from Server - servo: 120
+2024-12-08 14:57:09 - INFO - Received from Arduino: Temperature:17.01,Lux:386.70
+2024-12-08 14:57:09 - INFO - POST http://skycastle.cho0h5.org:8001/room/temperature 성공: {'success': True}
+2024-12-08 14:57:09 - INFO - POST http://skycastle.cho0h5.org:8001/room/illuminance 성공: {'success': True}
+2024-12-08 14:57:10 - INFO - Received from Server - light: 386.7
+2024-12-08 14:57:10 - INFO - Received from Server - temperature: 17.01
+2024-12-08 14:57:10 - INFO - Received from Server - servo: 120
+2024-12-08 14:57:11 - INFO - Received from Server - servo: 120
+2024-12-08 14:57:12 - INFO - Received from Server - servo: 120
+2024-12-08 14:57:13 - INFO - Received from Server - servo: 120
+2024-12-08 14:57:14 - INFO - Received from Arduino: Temperature:19.16,Lux:497.23
+2024-12-08 14:57:14 - INFO - POST http://skycastle.cho0h5.org:8001/room/temperature 성공: {'success': True}
+2024-12-08 14:57:14 - INFO - POST http://skycastle.cho0h5.org:8001/room/illuminance 성공: {'success': True}
+2024-12-08 14:57:15 - INFO - Received from Server - light: 497.23
+2024-12-08 14:57:15 - INFO - Received from Server - temperature: 19.16
+2024-12-08 14:57:15 - INFO - Received from Server - servo: 120
+2024-12-08 14:57:16 - INFO - Received from Server - servo: 120
+2024-12-08 14:57:17 - INFO - Received from Server - servo: 120
+2024-12-08 14:57:18 - INFO - Received from Server - servo: 120
+2024-12-08 14:57:18 - INFO - Received from Arduino: Temperature:24.88,Lux:863.70
+2024-12-08 14:57:19 - INFO - POST http://skycastle.cho0h5.org:8001/room/temperature 성공: {'success': True}
+2024-12-08 14:57:19 - INFO - POST http://skycastle.cho0h5.org:8001/room/illuminance 성공: {'success': True}
+2024-12-08 14:57:19 - INFO - Received from Server - light: 863.7
+2024-12-08 14:57:20 - INFO - Received from Server - temperature: 24.88
+2024-12-08 14:57:20 - INFO - Received from Server - servo: 120
+2024-12-08 14:57:21 - INFO - Received from Server - servo: 120
+2024-12-08 14:57:22 - INFO - Received from Server - servo: 120
+2024-12-08 14:57:23 - INFO - Received from Server - servo: 120
+2024-12-08 14:57:23 - INFO - Received from Arduino: Temperature:27.32,Lux:859.27
+2024-12-08 14:57:24 - INFO - POST http://skycastle.cho0h5.org:8001/room/temperature 성공: {'success': True}
+2024-12-08 14:57:24 - INFO - POST http://skycastle.cho0h5.org:8001/room/illuminance 성공: {'success': True}
+2024-12-08 14:57:24 - INFO - Received from Server - light: 859.27
+2024-12-08 14:57:25 - INFO - Received from Server - temperature: 27.32
+2024-12-08 14:57:25 - INFO - Received from Server - servo: 120
+2024-12-08 14:57:26 - INFO - Received from Server - servo: 120
+2024-12-08 14:57:27 - INFO - Received from Server - servo: 120
+2024-12-08 14:57:27 - INFO - Received from Server - servo: 120
+2024-12-08 14:57:28 - INFO - Received from Server - servo: 120
+2024-12-08 14:57:29 - INFO - Received from Arduino: Temperature:22.63,Lux:841.80
+2024-12-08 14:57:29 - INFO - POST http://skycastle.cho0h5.org:8001/room/temperature 성공: {'success': True}
+2024-12-08 14:57:29 - INFO - POST http://skycastle.cho0h5.org:8001/room/illuminance 성공: {'success': True}
+2024-12-08 14:57:30 - INFO - Received from Server - light: 841.8
+2024-12-08 14:57:30 - INFO - Received from Server - temperature: 22.63
+2024-12-08 14:57:30 - INFO - Received from Server - servo: 120
+2024-12-08 14:57:31 - INFO - Received from Server - servo: 120
+2024-12-08 14:57:32 - INFO - Received from Server - servo: 120
+2024-12-08 14:57:33 - INFO - Received from Server - servo: 120
+2024-12-08 14:57:33 - INFO - Received from Server - servo: 120
+2024-12-08 14:57:34 - INFO - Received from Arduino: Temperature:27.86,Lux:860.57
+2024-12-08 14:57:34 - INFO - POST http://skycastle.cho0h5.org:8001/room/temperature 성공: {'success': True}
+2024-12-08 14:57:34 - INFO - POST http://skycastle.cho0h5.org:8001/room/illuminance 성공: {'success': True}
+2024-12-08 14:57:35 - INFO - Received from Server - light: 860.57
+2024-12-08 14:57:35 - INFO - Received from Server - temperature: 27.86
+2024-12-08 14:57:35 - INFO - Received from Server - servo: 120
+2024-12-08 14:57:36 - INFO - Received from Server - servo: 120
+2024-12-08 14:57:37 - INFO - Received from Server - servo: 120
+2024-12-08 14:57:38 - INFO - Received from Server - servo: 120
+2024-12-08 14:57:38 - INFO - Received from Arduino: Temperature:25.90,Lux:853.10
+2024-12-08 14:57:39 - INFO - POST http://skycastle.cho0h5.org:8001/room/temperature 성공: {'success': True}
+2024-12-08 14:57:39 - INFO - POST http://skycastle.cho0h5.org:8001/room/illuminance 성공: {'success': True}
+2024-12-08 14:57:39 - INFO - Received from Server - light: 853.1
+2024-12-08 14:57:39 - INFO - Received from Server - temperature: 25.9
+2024-12-08 14:57:40 - INFO - Received from Server - servo: 120
+2024-12-08 14:57:40 - INFO - Received from Server - servo: 120
+2024-12-08 14:57:41 - INFO - Received from Server - servo: 120
+2024-12-08 14:57:42 - INFO - Received from Server - servo: 120
+2024-12-08 14:57:43 - INFO - Received from Server - servo: 120
+2024-12-08 14:57:43 - INFO - Received from Arduino: Temperature:24.44,Lux:862.63
+2024-12-08 14:57:44 - INFO - POST http://skycastle.cho0h5.org:8001/room/temperature 성공: {'success': True}
+2024-12-08 14:57:44 - INFO - POST http://skycastle.cho0h5.org:8001/room/illuminance 성공: {'success': True}
+2024-12-08 14:57:45 - INFO - Received from Server - light: 862.63
+2024-12-08 14:57:45 - INFO - Received from Server - temperature: 24.44
+2024-12-08 14:57:45 - INFO - Received from Server - servo: 120
+2024-12-08 14:57:46 - INFO - Received from Server - servo: 120
+2024-12-08 14:57:47 - INFO - Received from Server - servo: 120
+2024-12-08 14:57:48 - INFO - Received from Server - servo: 120
+2024-12-08 14:57:49 - INFO - Received from Server - servo: 120
+2024-12-08 14:57:49 - INFO - Received from Arduino: Temperature:26.05,Lux:854.07
+2024-12-08 14:57:49 - INFO - POST http://skycastle.cho0h5.org:8001/room/temperature 성공: {'success': True}
+2024-12-08 14:57:50 - INFO - POST http://skycastle.cho0h5.org:8001/room/illuminance 성공: {'success': True}
+2024-12-08 14:57:50 - INFO - Received from Server - light: 854.07
+2024-12-08 14:57:51 - INFO - Received from Server - temperature: 26.05
+2024-12-08 14:57:51 - INFO - Received from Server - servo: 120
+2024-12-08 14:57:52 - INFO - Received from Server - servo: 120
+2024-12-08 14:57:53 - INFO - Received from Server - servo: 120
+2024-12-08 14:57:53 - INFO - Received from Arduino: Temperature:29.57,Lux:860.40
+2024-12-08 14:57:54 - INFO - POST http://skycastle.cho0h5.org:8001/room/temperature 성공: {'success': True}
+2024-12-08 14:57:54 - INFO - POST http://skycastle.cho0h5.org:8001/room/illuminance 성공: {'success': True}
+2024-12-08 14:57:55 - INFO - Received from Server - light: 860.4
+2024-12-08 14:57:56 - INFO - Received from Server - temperature: 29.57
+2024-12-08 14:57:57 - INFO - Received from Server - servo: 120
+2024-12-08 14:57:57 - INFO - Received from Server - servo: 120
+2024-12-08 14:57:58 - INFO - Received from Server - servo: 120
+2024-12-08 14:57:59 - INFO - Received from Arduino: Temperature:23.46,Lux:860.33
+2024-12-08 14:57:59 - INFO - POST http://skycastle.cho0h5.org:8001/room/temperature 성공: {'success': True}
+2024-12-08 14:57:59 - INFO - POST http://skycastle.cho0h5.org:8001/room/illuminance 성공: {'success': True}
+2024-12-08 14:58:00 - INFO - Received from Server - light: 860.33
+2024-12-08 14:58:00 - INFO - Received from Server - temperature: 23.46
+2024-12-08 14:58:01 - INFO - Received from Server - servo: 120
+2024-12-08 14:58:02 - INFO - Received from Server - servo: 120
+2024-12-08 14:58:03 - INFO - Received from Server - servo: 120
+2024-12-08 14:58:04 - INFO - Received from Server - servo: 120
+2024-12-08 14:58:04 - INFO - Received from Arduino: Temperature:20.23,Lux:854.17
+2024-12-08 14:58:05 - INFO - POST http://skycastle.cho0h5.org:8001/room/temperature 성공: {'success': True}
+2024-12-08 14:58:05 - INFO - POST http://skycastle.cho0h5.org:8001/room/illuminance 성공: {'success': True}
+2024-12-08 14:58:06 - INFO - Received from Server - light: 854.17
+2024-12-08 14:58:06 - INFO - Received from Server - temperature: 20.23
+2024-12-08 14:58:07 - INFO - Received from Server - servo: 120
+2024-12-08 14:58:08 - INFO - Received from Server - servo: 120
+2024-12-08 14:58:08 - INFO - Received from Server - servo: 120
+2024-12-08 14:58:09 - INFO - Received from Arduino: Temperature:24.68,Lux:864.10
+2024-12-08 14:58:09 - INFO - POST http://skycastle.cho0h5.org:8001/room/temperature 성공: {'success': True}
+2024-12-08 14:58:10 - INFO - POST http://skycastle.cho0h5.org:8001/room/illuminance 성공: {'success': True}
+2024-12-08 14:58:10 - INFO - Received from Server - light: 864.1
+2024-12-08 14:58:11 - INFO - Received from Server - temperature: 24.68
+2024-12-08 14:58:12 - INFO - Received from Server - servo: 120
+2024-12-08 14:58:13 - INFO - Received from Server - servo: 120
+2024-12-08 14:58:13 - INFO - Received from Arduino: Temperature:24.78,Lux:855.70
+2024-12-08 14:58:14 - INFO - POST http://skycastle.cho0h5.org:8001/room/temperature 성공: {'success': True}
+2024-12-08 14:58:14 - INFO - POST http://skycastle.cho0h5.org:8001/room/illuminance 성공: {'success': True}
+2024-12-08 14:58:15 - INFO - Received from Server - light: 855.7
+2024-12-08 14:58:15 - INFO - Received from Server - temperature: 24.78
+2024-12-08 14:58:16 - INFO - Received from Server - servo: 120
+2024-12-08 14:58:17 - INFO - Received from Server - servo: 120
+2024-12-08 14:58:18 - INFO - Received from Server - servo: 120
+2024-12-08 14:58:18 - INFO - Received from Server - servo: 120
+2024-12-08 14:58:19 - INFO - Received from Arduino: Temperature:22.58,Lux:857.30
+2024-12-08 14:58:19 - INFO - POST http://skycastle.cho0h5.org:8001/room/temperature 성공: {'success': True}
+2024-12-08 14:58:20 - INFO - POST http://skycastle.cho0h5.org:8001/room/illuminance 성공: {'success': True}
+2024-12-08 14:58:21 - INFO - Received from Server - light: 857.3
+2024-12-08 14:58:21 - INFO - Received from Server - temperature: 22.58
+2024-12-08 14:58:21 - INFO - Received from Server - servo: 120
+2024-12-08 14:58:22 - INFO - Received from Server - servo: 120
+2024-12-08 14:58:23 - INFO - Received from Server - servo: 120
+2024-12-08 14:58:23 - INFO - Received from Arduino: Temperature:26.59,Lux:865.07
+2024-12-08 14:58:24 - INFO - POST http://skycastle.cho0h5.org:8001/room/temperature 성공: {'success': True}
+2024-12-08 14:58:24 - INFO - POST http://skycastle.cho0h5.org:8001/room/illuminance 성공: {'success': True}
+2024-12-08 14:58:25 - INFO - Received from Server - light: 865.07
+2024-12-08 14:58:25 - INFO - Received from Server - temperature: 26.59
+2024-12-08 14:58:25 - INFO - Received from Server - servo: 120
+2024-12-08 14:58:26 - INFO - Received from Server - servo: 120
+2024-12-08 14:58:27 - INFO - Received from Server - servo: 120
+2024-12-08 14:58:28 - INFO - Received from Server - servo: 120
+2024-12-08 14:58:29 - INFO - Received from Arduino: Temperature:23.17,Lux:854.20
+2024-12-08 14:58:29 - INFO - POST http://skycastle.cho0h5.org:8001/room/temperature 성공: {'success': True}
+2024-12-08 14:58:30 - INFO - POST http://skycastle.cho0h5.org:8001/room/illuminance 성공: {'success': True}
+2024-12-08 14:58:30 - INFO - Received from Server - light: 854.2
+2024-12-08 14:58:31 - INFO - Received from Server - temperature: 23.17
+2024-12-08 14:58:31 - INFO - Received from Server - servo: 120
+2024-12-08 14:58:32 - INFO - Received from Server - servo: 120
+2024-12-08 14:58:33 - INFO - Received from Server - servo: 120
+2024-12-08 14:58:33 - INFO - Received from Arduino: Temperature:27.52,Lux:857.47
+2024-12-08 14:58:34 - INFO - POST http://skycastle.cho0h5.org:8001/room/temperature 성공: {'success': True}
+2024-12-08 14:58:35 - INFO - POST http://skycastle.cho0h5.org:8001/room/illuminance 성공: {'success': True}
+2024-12-08 14:58:35 - INFO - Received from Server - light: 857.47
+2024-12-08 14:58:35 - INFO - Received from Server - temperature: 27.52
+2024-12-08 14:58:36 - INFO - Received from Server - servo: 120
+2024-12-08 14:58:36 - INFO - Received from Server - servo: 120
+2024-12-08 14:58:37 - INFO - Received from Server - servo: 120
+2024-12-08 14:58:38 - INFO - Received from Server - servo: 120
+2024-12-08 14:58:39 - INFO - Received from Arduino: Temperature:22.09,Lux:865.03
+2024-12-08 14:58:39 - INFO - POST http://skycastle.cho0h5.org:8001/room/temperature 성공: {'success': True}
+2024-12-08 14:58:40 - INFO - POST http://skycastle.cho0h5.org:8001/room/illuminance 성공: {'success': True}
+2024-12-08 14:58:40 - INFO - Received from Server - light: 865.03
+2024-12-08 14:58:41 - INFO - Received from Server - temperature: 22.09
+2024-12-08 14:58:41 - INFO - Received from Server - servo: 120
+2024-12-08 14:58:42 - INFO - Received from Server - servo: 120
+2024-12-08 14:58:43 - INFO - Received from Server - servo: 120
+2024-12-08 14:58:43 - INFO - Received from Arduino: Temperature:23.90,Lux:855.90
+2024-12-08 14:58:44 - INFO - POST http://skycastle.cho0h5.org:8001/room/temperature 성공: {'success': True}
+2024-12-08 14:58:44 - INFO - POST http://skycastle.cho0h5.org:8001/room/illuminance 성공: {'success': True}
+2024-12-08 14:58:45 - INFO - Received from Server - light: 855.9
+2024-12-08 14:58:45 - INFO - Received from Server - temperature: 23.9
+2024-12-08 14:58:46 - INFO - Received from Server - servo: 120
+2024-12-08 14:58:46 - INFO - Received from Server - servo: 120
+2024-12-08 14:58:47 - INFO - 프로그램 종료
+2024-12-08 14:58:48 - INFO - Connected to serial port: /dev/ttyACM0
+2024-12-08 14:58:49 - INFO - Received from Server - servo: 120
+2024-12-08 14:58:50 - INFO - Received from Server - servo: 120
+2024-12-08 14:58:51 - INFO - Received from Server - servo: 120
+2024-12-08 14:58:52 - INFO - Received from Server - servo: 120
+2024-12-08 14:58:53 - INFO - Received from Server - servo: 120
+2024-12-08 14:58:54 - INFO - Received from Server - servo: 120
+2024-12-08 14:58:56 - INFO - Received from Server - servo: 120
+2024-12-08 14:58:56 - INFO - Received from Arduino: Temperature:26.15,Lux:862.03
+2024-12-08 14:58:57 - INFO - POST http://skycastle.cho0h5.org:8001/room/temperature 성공: {'success': True}
+2024-12-08 14:58:57 - INFO - POST http://skycastle.cho0h5.org:8001/room/illuminance 성공: {'success': True}
+2024-12-08 14:58:57 - INFO - Received from Server - light: 862.03
+2024-12-08 14:58:57 - INFO - Received from Server - temperature: 26.15
+2024-12-08 14:58:58 - INFO - Received from Server - servo: 120
+2024-12-08 14:58:59 - INFO - Received from Server - servo: 120
+2024-12-08 14:59:00 - INFO - Received from Server - servo: 120
+2024-12-08 14:59:01 - INFO - Received from Arduino: Temperature:23.70,Lux:864.30
+2024-12-08 14:59:01 - INFO - POST http://skycastle.cho0h5.org:8001/room/temperature 성공: {'success': True}
+2024-12-08 14:59:01 - INFO - POST http://skycastle.cho0h5.org:8001/room/illuminance 성공: {'success': True}
+2024-12-08 14:59:01 - INFO - Received from Server - light: 864.3
+2024-12-08 14:59:02 - INFO - Received from Server - temperature: 23.7
+2024-12-08 14:59:02 - INFO - Received from Server - servo: 120
+2024-12-08 14:59:03 - INFO - Received from Server - servo: 120
+2024-12-08 14:59:04 - INFO - Received from Server - servo: 120
+2024-12-08 14:59:05 - INFO - Received from Server - servo: 120
+2024-12-08 14:59:05 - INFO - Received from Arduino: Temperature:25.66,Lux:864.30
+2024-12-08 14:59:06 - INFO - POST http://skycastle.cho0h5.org:8001/room/temperature 성공: {'success': True}
+2024-12-08 14:59:06 - INFO - POST http://skycastle.cho0h5.org:8001/room/illuminance 성공: {'success': True}
+2024-12-08 14:59:07 - INFO - Received from Server - light: 864.3
+2024-12-08 14:59:07 - INFO - Received from Server - temperature: 25.66
+2024-12-08 14:59:07 - INFO - Received from Server - servo: 120
+2024-12-08 14:59:08 - INFO - Received from Server - servo: 120
+2024-12-08 14:59:09 - INFO - Received from Server - servo: 120
+2024-12-08 14:59:10 - INFO - Received from Server - servo: 120
+2024-12-08 14:59:11 - INFO - Received from Arduino: Temperature:23.12,Lux:864.43
+2024-12-08 14:59:11 - INFO - POST http://skycastle.cho0h5.org:8001/room/temperature 성공: {'success': True}
+2024-12-08 14:59:11 - INFO - POST http://skycastle.cho0h5.org:8001/room/illuminance 성공: {'success': True}
+2024-12-08 14:59:12 - INFO - Received from Server - light: 864.43
+2024-12-08 14:59:12 - INFO - Received from Server - temperature: 23.12
+2024-12-08 14:59:12 - INFO - Received from Server - servo: 100
+2024-12-08 14:59:14 - INFO - Received from Server - servo: 100
+2024-12-08 14:59:15 - INFO - Received from Server - servo: 90
+2024-12-08 14:59:16 - INFO - Received from Arduino: Temperature:25.61,Lux:865.50
+2024-12-08 14:59:16 - INFO - POST http://skycastle.cho0h5.org:8001/room/temperature 성공: {'success': True}
+2024-12-08 14:59:17 - INFO - POST http://skycastle.cho0h5.org:8001/room/illuminance 성공: {'success': True}
+2024-12-08 14:59:17 - INFO - Received from Server - light: 865.5
+2024-12-08 14:59:17 - INFO - Received from Server - temperature: 25.61
+2024-12-08 14:59:17 - INFO - Received from Server - servo: 80
+2024-12-08 14:59:19 - INFO - Received from Server - servo: 80
+2024-12-08 14:59:20 - INFO - Received from Server - servo: 80
+2024-12-08 14:59:20 - INFO - Received from Arduino: Temperature:25.46,Lux:865.73
+2024-12-08 14:59:21 - INFO - POST http://skycastle.cho0h5.org:8001/room/temperature 성공: {'success': True}
+2024-12-08 14:59:21 - INFO - POST http://skycastle.cho0h5.org:8001/room/illuminance 성공: {'success': True}
+2024-12-08 14:59:21 - INFO - Received from Server - light: 865.73
+2024-12-08 14:59:21 - INFO - Received from Server - temperature: 25.46
+2024-12-08 14:59:22 - INFO - Received from Server - servo: 70
+2024-12-08 14:59:23 - INFO - Received from Server - servo: 70
+2024-12-08 14:59:24 - INFO - Received from Server - servo: 60
+2024-12-08 14:59:25 - INFO - Received from Arduino: Temperature:26.34,Lux:865.17
+2024-12-08 14:59:25 - INFO - POST http://skycastle.cho0h5.org:8001/room/temperature 성공: {'success': True}
+2024-12-08 14:59:26 - INFO - POST http://skycastle.cho0h5.org:8001/room/illuminance 성공: {'success': True}
+2024-12-08 14:59:26 - INFO - Received from Server - light: 865.17
+2024-12-08 14:59:27 - INFO - Received from Server - temperature: 26.34
+2024-12-08 14:59:27 - INFO - Received from Server - servo: 60
+2024-12-08 14:59:28 - INFO - Received from Server - servo: 60
+2024-12-08 14:59:29 - INFO - Received from Server - servo: 60
+2024-12-08 14:59:30 - INFO - Received from Server - servo: 60
+2024-12-08 14:59:30 - INFO - Received from Arduino: Temperature:22.43,Lux:862.63
+2024-12-08 14:59:31 - INFO - POST http://skycastle.cho0h5.org:8001/room/temperature 성공: {'success': True}
+2024-12-08 14:59:31 - INFO - POST http://skycastle.cho0h5.org:8001/room/illuminance 성공: {'success': True}
+2024-12-08 14:59:31 - INFO - Received from Server - light: 862.63
+2024-12-08 14:59:32 - INFO - Received from Server - temperature: 22.43
+2024-12-08 14:59:32 - INFO - Received from Server - servo: 60
+2024-12-08 14:59:33 - INFO - Received from Server - servo: 60
+2024-12-08 14:59:34 - INFO - Received from Server - servo: 60
+2024-12-08 14:59:35 - INFO - Received from Server - servo: 60
+2024-12-08 14:59:35 - INFO - Received from Arduino: Temperature:24.63,Lux:863.97
+2024-12-08 14:59:37 - INFO - POST http://skycastle.cho0h5.org:8001/room/temperature 성공: {'success': True}
+2024-12-08 14:59:37 - INFO - POST http://skycastle.cho0h5.org:8001/room/illuminance 성공: {'success': True}
+2024-12-08 14:59:37 - INFO - Received from Server - light: 863.97
+2024-12-08 14:59:37 - INFO - Received from Server - temperature: 24.63
+2024-12-08 14:59:38 - INFO - Received from Server - servo: 50
+2024-12-08 14:59:39 - INFO - Received from Server - servo: 50
+2024-12-08 14:59:40 - INFO - Received from Server - servo: 50
+2024-12-08 14:59:41 - INFO - Received from Arduino: Temperature:22.73,Lux:859.03
+2024-12-08 14:59:41 - INFO - POST http://skycastle.cho0h5.org:8001/room/temperature 성공: {'success': True}
+2024-12-08 14:59:41 - INFO - POST http://skycastle.cho0h5.org:8001/room/illuminance 성공: {'success': True}
+2024-12-08 14:59:42 - INFO - Received from Server - light: 859.03
+2024-12-08 14:59:42 - INFO - Received from Server - temperature: 22.73
+2024-12-08 14:59:42 - INFO - Received from Server - servo: 50
+2024-12-08 14:59:43 - INFO - Received from Server - servo: 50
+2024-12-08 14:59:44 - INFO - Received from Server - servo: 50
+2024-12-08 14:59:45 - INFO - Received from Server - servo: 50
+2024-12-08 14:59:46 - INFO - Received from Arduino: Temperature:24.19,Lux:853.50
+2024-12-08 14:59:46 - INFO - POST http://skycastle.cho0h5.org:8001/room/temperature 성공: {'success': True}
+2024-12-08 14:59:47 - INFO - POST http://skycastle.cho0h5.org:8001/room/illuminance 성공: {'success': True}
+2024-12-08 14:59:47 - INFO - Received from Server - light: 853.5
+2024-12-08 14:59:47 - INFO - Received from Server - temperature: 24.19
+2024-12-08 14:59:47 - INFO - Received from Server - servo: 50
+2024-12-08 14:59:48 - INFO - Received from Server - servo: 40
+2024-12-08 14:59:50 - INFO - Received from Server - servo: 40
+2024-12-08 14:59:50 - INFO - Received from Arduino: Temperature:25.17,Lux:864.13
+2024-12-08 14:59:51 - INFO - POST http://skycastle.cho0h5.org:8001/room/temperature 성공: {'success': True}
+2024-12-08 14:59:51 - INFO - POST http://skycastle.cho0h5.org:8001/room/illuminance 성공: {'success': True}
+2024-12-08 14:59:51 - INFO - Received from Server - light: 864.13
+2024-12-08 14:59:51 - INFO - Received from Server - temperature: 25.17
+2024-12-08 14:59:52 - INFO - Received from Server - servo: 40
+2024-12-08 14:59:53 - INFO - Received from Server - servo: 40
+2024-12-08 14:59:53 - INFO - Received from Server - servo: 40
+2024-12-08 14:59:54 - INFO - Received from Server - servo: 30
+2024-12-08 14:59:55 - INFO - Received from Arduino: Temperature:23.56,Lux:855.70
+2024-12-08 14:59:56 - INFO - POST http://skycastle.cho0h5.org:8001/room/temperature 성공: {'success': True}
+2024-12-08 14:59:56 - INFO - POST http://skycastle.cho0h5.org:8001/room/illuminance 성공: {'success': True}
+2024-12-08 14:59:57 - INFO - Received from Server - light: 855.7
+2024-12-08 14:59:57 - INFO - Received from Server - temperature: 23.56
+2024-12-08 14:59:57 - INFO - Received from Server - servo: 30
+2024-12-08 14:59:59 - INFO - Received from Server - servo: 30
+2024-12-08 15:00:00 - INFO - Received from Server - servo: 0
+2024-12-08 15:00:01 - INFO - Received from Arduino: Temperature:26.98,Lux:855.90
+2024-12-08 15:00:01 - INFO - POST http://skycastle.cho0h5.org:8001/room/temperature 성공: {'success': True}
+2024-12-08 15:00:02 - INFO - POST http://skycastle.cho0h5.org:8001/room/illuminance 성공: {'success': True}
+2024-12-08 15:00:02 - INFO - Received from Server - light: 855.9
+2024-12-08 15:00:03 - INFO - Received from Server - temperature: 26.98
+2024-12-08 15:00:04 - INFO - Received from Server - servo: 0
+2024-12-08 15:00:06 - INFO - Received from Server - servo: 0
+2024-12-08 15:00:07 - INFO - Received from Arduino: Temperature:25.02,Lux:863.00
+2024-12-08 15:00:07 - INFO - POST http://skycastle.cho0h5.org:8001/room/temperature 성공: {'success': True}
+2024-12-08 15:00:08 - INFO - POST http://skycastle.cho0h5.org:8001/room/illuminance 성공: {'success': True}
+2024-12-08 15:00:08 - INFO - Received from Server - light: 863.0
+2024-12-08 15:00:08 - INFO - Received from Server - temperature: 25.02
+2024-12-08 15:00:09 - INFO - Received from Server - servo: 0
+2024-12-08 15:00:10 - INFO - Received from Server - servo: 0
+2024-12-08 15:00:10 - INFO - Received from Arduino: Temperature:25.27,Lux:856.17
+2024-12-08 15:00:11 - INFO - POST http://skycastle.cho0h5.org:8001/room/temperature 성공: {'success': True}
+2024-12-08 15:00:11 - INFO - POST http://skycastle.cho0h5.org:8001/room/illuminance 성공: {'success': True}
+2024-12-08 15:00:12 - INFO - Received from Server - light: 856.17
+2024-12-08 15:00:12 - INFO - Received from Server - temperature: 25.27
+2024-12-08 15:00:12 - INFO - Received from Server - servo: 0
+2024-12-08 15:00:13 - INFO - Received from Server - servo: 0
+2024-12-08 15:00:14 - INFO - Received from Server - servo: 0
+2024-12-08 15:00:15 - INFO - Received from Server - servo: 0
+2024-12-08 15:00:15 - INFO - Received from Arduino: Temperature:24.68,Lux:859.20
+2024-12-08 15:00:16 - INFO - POST http://skycastle.cho0h5.org:8001/room/temperature 성공: {'success': True}
+2024-12-08 15:00:16 - INFO - POST http://skycastle.cho0h5.org:8001/room/illuminance 성공: {'success': True}
+2024-12-08 15:00:16 - INFO - Received from Server - light: 859.2
+2024-12-08 15:00:16 - INFO - Received from Server - temperature: 24.68
+2024-12-08 15:00:17 - INFO - Received from Server - servo: 0
+2024-12-08 15:00:17 - INFO - Received from Server - servo: 0
+2024-12-08 15:00:18 - INFO - Received from Server - servo: 0
+2024-12-08 15:00:19 - INFO - Received from Server - servo: 0
+2024-12-08 15:00:20 - INFO - Received from Server - servo: 0
+2024-12-08 15:00:20 - INFO - Received from Arduino: Temperature:24.10,Lux:860.57
+2024-12-08 15:00:21 - INFO - POST http://skycastle.cho0h5.org:8001/room/temperature 성공: {'success': True}
+2024-12-08 15:00:21 - INFO - POST http://skycastle.cho0h5.org:8001/room/illuminance 성공: {'success': True}
+2024-12-08 15:00:22 - INFO - Received from Server - light: 860.57
+2024-12-08 15:00:22 - INFO - Received from Server - temperature: 24.1
+2024-12-08 15:00:22 - INFO - Received from Server - servo: 0
+2024-12-08 15:00:23 - INFO - Received from Server - servo: 0
+2024-12-08 15:00:24 - INFO - Received from Server - servo: 0
+2024-12-08 15:00:25 - INFO - Received from Server - servo: 0
+2024-12-08 15:00:25 - INFO - Received from Arduino: Temperature:24.88,Lux:856.07
+2024-12-08 15:00:26 - INFO - POST http://skycastle.cho0h5.org:8001/room/temperature 성공: {'success': True}
+2024-12-08 15:00:26 - INFO - POST http://skycastle.cho0h5.org:8001/room/illuminance 성공: {'success': True}
+2024-12-08 15:00:26 - INFO - Received from Server - light: 856.07
+2024-12-08 15:00:26 - INFO - Received from Server - temperature: 24.88
+2024-12-08 15:00:27 - INFO - Received from Server - servo: 0
+2024-12-08 15:00:28 - INFO - Received from Server - servo: 0
+2024-12-08 15:00:28 - INFO - Received from Server - servo: 0
+2024-12-08 15:00:29 - INFO - Received from Server - servo: 0
+2024-12-08 15:00:30 - INFO - Received from Server - servo: 0
+2024-12-08 15:00:31 - INFO - Received from Arduino: Temperature:23.66,Lux:858.17
+2024-12-08 15:00:31 - INFO - POST http://skycastle.cho0h5.org:8001/room/temperature 성공: {'success': True}
+2024-12-08 15:00:32 - INFO - POST http://skycastle.cho0h5.org:8001/room/illuminance 성공: {'success': True}
+2024-12-08 15:00:32 - INFO - Received from Server - light: 858.17
+2024-12-08 15:00:32 - INFO - Received from Server - temperature: 23.66
+2024-12-08 15:00:33 - INFO - Received from Server - servo: 0
+2024-12-08 15:00:34 - INFO - Received from Server - servo: 0
+2024-12-08 15:00:34 - INFO - Received from Server - servo: 0
+2024-12-08 15:00:35 - INFO - Received from Arduino: Temperature:22.24,Lux:861.07
+2024-12-08 15:00:35 - INFO - POST http://skycastle.cho0h5.org:8001/room/temperature 성공: {'success': True}
+2024-12-08 15:00:36 - INFO - POST http://skycastle.cho0h5.org:8001/room/illuminance 성공: {'success': True}
+2024-12-08 15:00:36 - INFO - Received from Server - light: 861.07
+2024-12-08 15:00:37 - INFO - Received from Server - temperature: 22.24
+2024-12-08 15:00:37 - INFO - Received from Server - servo: 0
+2024-12-08 15:00:38 - INFO - Received from Server - servo: 0
+2024-12-08 15:00:39 - INFO - Received from Server - servo: 0
+2024-12-08 15:00:40 - INFO - Received from Server - servo: 0
+2024-12-08 15:00:40 - INFO - Received from Arduino: Temperature:24.73,Lux:854.63
+2024-12-08 15:00:41 - INFO - POST http://skycastle.cho0h5.org:8001/room/temperature 성공: {'success': True}
+2024-12-08 15:00:41 - INFO - POST http://skycastle.cho0h5.org:8001/room/illuminance 성공: {'success': True}
+2024-12-08 15:00:41 - INFO - Received from Server - light: 854.63
+2024-12-08 15:00:42 - INFO - Received from Server - temperature: 24.73
+2024-12-08 15:00:42 - INFO - Received from Server - servo: 0
+2024-12-08 15:00:43 - INFO - Received from Server - servo: 0
+2024-12-08 15:00:44 - INFO - Received from Server - servo: 0
+2024-12-08 15:00:45 - INFO - Received from Server - servo: 0
+2024-12-08 15:00:45 - INFO - Received from Arduino: Temperature:25.76,Lux:863.50
+2024-12-08 15:00:46 - INFO - POST http://skycastle.cho0h5.org:8001/room/temperature 성공: {'success': True}
+2024-12-08 15:00:46 - INFO - POST http://skycastle.cho0h5.org:8001/room/illuminance 성공: {'success': True}
+2024-12-08 15:00:47 - INFO - Received from Server - light: 863.5
+2024-12-08 15:00:47 - INFO - Received from Server - temperature: 25.76
+2024-12-08 15:00:47 - INFO - Received from Server - servo: 0
+2024-12-08 15:00:48 - INFO - Received from Server - servo: 0
+2024-12-08 15:00:49 - INFO - Received from Server - servo: 0
+2024-12-08 15:00:50 - INFO - Received from Arduino: Temperature:26.05,Lux:853.80
+2024-12-08 15:00:50 - INFO - POST http://skycastle.cho0h5.org:8001/room/temperature 성공: {'success': True}
+2024-12-08 15:00:51 - INFO - POST http://skycastle.cho0h5.org:8001/room/illuminance 성공: {'success': True}
+2024-12-08 15:00:51 - INFO - Received from Server - light: 853.8
+2024-12-08 15:00:52 - INFO - Received from Server - temperature: 26.05
+2024-12-08 15:00:52 - INFO - Received from Server - servo: 0
+2024-12-08 15:00:53 - INFO - Received from Server - servo: 0
+2024-12-08 15:00:54 - INFO - Received from Server - servo: 0
+2024-12-08 15:00:55 - INFO - Received from Server - servo: 0
+2024-12-08 15:00:55 - INFO - Received from Arduino: Temperature:27.27,Lux:862.63
+2024-12-08 15:00:56 - INFO - POST http://skycastle.cho0h5.org:8001/room/temperature 성공: {'success': True}
+2024-12-08 15:00:56 - INFO - POST http://skycastle.cho0h5.org:8001/room/illuminance 성공: {'success': True}
+2024-12-08 15:00:57 - INFO - Received from Server - light: 862.63
+2024-12-08 15:00:57 - INFO - Received from Server - temperature: 27.27
+2024-12-08 15:00:57 - INFO - Received from Server - servo: 0
+2024-12-08 15:00:58 - INFO - Received from Server - servo: 0
+2024-12-08 15:00:59 - INFO - Received from Server - servo: 0
+2024-12-08 15:01:00 - INFO - Received from Server - servo: 0
+2024-12-08 15:01:00 - INFO - Received from Arduino: Temperature:21.16,Lux:855.87
+2024-12-08 15:01:01 - INFO - POST http://skycastle.cho0h5.org:8001/room/temperature 성공: {'success': True}
+2024-12-08 15:01:01 - INFO - POST http://skycastle.cho0h5.org:8001/room/illuminance 성공: {'success': True}
+2024-12-08 15:01:01 - INFO - Received from Server - light: 855.87
+2024-12-08 15:01:01 - INFO - Received from Server - temperature: 21.16
+2024-12-08 15:01:02 - INFO - Received from Server - servo: 0
+2024-12-08 15:01:02 - INFO - Received from Server - servo: 0
+2024-12-08 15:01:03 - INFO - Received from Server - servo: 0
+2024-12-08 15:01:04 - INFO - Received from Server - servo: 0
+2024-12-08 15:01:05 - INFO - Received from Server - servo: 0
+2024-12-08 15:01:05 - INFO - Received from Arduino: Temperature:22.39,Lux:860.03
+2024-12-08 15:01:06 - INFO - POST http://skycastle.cho0h5.org:8001/room/temperature 성공: {'success': True}
+2024-12-08 15:01:06 - INFO - POST http://skycastle.cho0h5.org:8001/room/illuminance 성공: {'success': True}
+2024-12-08 15:01:07 - INFO - Received from Server - light: 860.03
+2024-12-08 15:01:07 - INFO - Received from Server - temperature: 22.39
+2024-12-08 15:01:07 - INFO - Received from Server - servo: 0
+2024-12-08 15:01:08 - INFO - Received from Server - servo: 0
+2024-12-08 15:01:09 - INFO - Received from Server - servo: 0
+2024-12-08 15:01:10 - INFO - Received from Server - servo: 0
+2024-12-08 15:01:11 - INFO - Received from Arduino: Temperature:25.46,Lux:857.77
+2024-12-08 15:01:11 - INFO - POST http://skycastle.cho0h5.org:8001/room/temperature 성공: {'success': True}
+2024-12-08 15:01:11 - INFO - POST http://skycastle.cho0h5.org:8001/room/illuminance 성공: {'success': True}
+2024-12-08 15:01:12 - INFO - Received from Server - light: 857.77
+2024-12-08 15:01:12 - INFO - Received from Server - temperature: 25.46
+2024-12-08 15:01:12 - INFO - Received from Server - servo: 0
+2024-12-08 15:01:13 - INFO - Received from Server - servo: 0
+2024-12-08 15:01:14 - INFO - Received from Server - servo: 0
+2024-12-08 15:01:15 - INFO - Received from Server - servo: 0
+2024-12-08 15:01:16 - INFO - Received from Arduino: Temperature:23.12,Lux:857.07
+2024-12-08 15:01:16 - INFO - POST http://skycastle.cho0h5.org:8001/room/temperature 성공: {'success': True}
+2024-12-08 15:01:16 - INFO - POST http://skycastle.cho0h5.org:8001/room/illuminance 성공: {'success': True}
+2024-12-08 15:01:17 - INFO - Received from Server - light: 857.07
+2024-12-08 15:01:17 - INFO - Received from Server - temperature: 23.12
+2024-12-08 15:01:18 - INFO - Received from Server - servo: 90
+2024-12-08 15:01:19 - INFO - Received from Server - servo: 90
+2024-12-08 15:01:20 - INFO - Received from Server - servo: 90
+2024-12-08 15:01:21 - INFO - Received from Arduino: Temperature:26.10,Lux:861.23
+2024-12-08 15:01:21 - INFO - POST http://skycastle.cho0h5.org:8001/room/temperature 성공: {'success': True}
+2024-12-08 15:01:22 - INFO - POST http://skycastle.cho0h5.org:8001/room/illuminance 성공: {'success': True}
+2024-12-08 15:01:22 - INFO - Received from Server - light: 861.23
+2024-12-08 15:01:22 - INFO - Received from Server - temperature: 26.1
+2024-12-08 15:01:23 - INFO - Received from Server - servo: 90
+2024-12-08 15:01:24 - INFO - Received from Server - servo: 90
+2024-12-08 15:01:24 - INFO - Received from Server - servo: 90
+2024-12-08 15:01:25 - INFO - Received from Server - servo: 90
+2024-12-08 15:01:26 - INFO - Received from Arduino: Temperature:24.58,Lux:853.43
+2024-12-08 15:01:26 - INFO - POST http://skycastle.cho0h5.org:8001/room/temperature 성공: {'success': True}
+2024-12-08 15:01:27 - INFO - POST http://skycastle.cho0h5.org:8001/room/illuminance 성공: {'success': True}
+2024-12-08 15:01:27 - INFO - Received from Server - light: 853.43
+2024-12-08 15:01:27 - INFO - Received from Server - temperature: 24.58
+2024-12-08 15:01:27 - INFO - Received from Server - servo: 90
+2024-12-08 15:01:29 - INFO - Received from Server - servo: 90
+2024-12-08 15:01:30 - INFO - Received from Server - servo: 90
+2024-12-08 15:01:30 - INFO - Received from Arduino: Temperature:24.44,Lux:854.67
+2024-12-08 15:01:31 - INFO - POST http://skycastle.cho0h5.org:8001/room/temperature 성공: {'success': True}
+2024-12-08 15:01:33 - INFO - POST http://skycastle.cho0h5.org:8001/room/illuminance 성공: {'success': True}
+2024-12-08 15:01:33 - INFO - Received from Server - light: 854.67
+2024-12-08 15:01:33 - INFO - Received from Server - temperature: 24.44
+2024-12-08 15:01:33 - INFO - Received from Server - servo: 90
+2024-12-08 15:01:34 - INFO - Received from Server - servo: 90
+2024-12-08 15:01:40 - INFO - Received from Server - servo: 90
+2024-12-08 15:01:41 - INFO - Received from Arduino: Temperature:23.17,Lux:848.53
+2024-12-08 15:01:41 - INFO - POST http://skycastle.cho0h5.org:8001/room/temperature 성공: {'success': True}
+2024-12-08 15:01:41 - INFO - POST http://skycastle.cho0h5.org:8001/room/illuminance 성공: {'success': True}
+2024-12-08 15:01:41 - INFO - Received from Server - light: 848.53
+2024-12-08 15:01:42 - INFO - Received from Server - temperature: 23.17
+2024-12-08 15:01:42 - INFO - Received from Server - servo: 90
+2024-12-08 15:01:42 - INFO - Received from Arduino: Temperature:23.51,Lux:860.10
+2024-12-08 15:01:43 - INFO - POST http://skycastle.cho0h5.org:8001/room/temperature 성공: {'success': True}
+2024-12-08 15:01:43 - INFO - POST http://skycastle.cho0h5.org:8001/room/illuminance 성공: {'success': True}
+2024-12-08 15:01:43 - INFO - Received from Server - light: 860.1
+2024-12-08 15:01:43 - INFO - Received from Server - temperature: 23.51
+2024-12-08 15:01:44 - INFO - Received from Server - servo: 90
+2024-12-08 15:01:44 - INFO - Received from Server - servo: 90
+2024-12-08 15:01:45 - INFO - Received from Server - servo: 90
+2024-12-08 15:01:45 - INFO - Received from Arduino: Temperature:24.63,Lux:832.97
+2024-12-08 15:01:46 - INFO - POST http://skycastle.cho0h5.org:8001/room/temperature 성공: {'success': True}
+2024-12-08 15:01:46 - INFO - POST http://skycastle.cho0h5.org:8001/room/illuminance 성공: {'success': True}
+2024-12-08 15:01:46 - INFO - Received from Server - light: 832.97
+2024-12-08 15:01:46 - INFO - Received from Server - temperature: 24.63
+2024-12-08 15:01:46 - INFO - Received from Server - servo: 90
+2024-12-08 15:01:47 - INFO - Received from Server - servo: 90
+2024-12-08 15:01:48 - INFO - Received from Server - servo: 90
+2024-12-08 15:01:49 - INFO - Received from Server - servo: 90
+2024-12-08 15:01:49 - INFO - Received from Server - servo: 90
+2024-12-08 15:01:50 - INFO - Received from Server - servo: 90
+2024-12-08 15:01:51 - INFO - Received from Arduino: Temperature:25.12,Lux:854.87
+2024-12-08 15:01:51 - INFO - POST http://skycastle.cho0h5.org:8001/room/temperature 성공: {'success': True}
+2024-12-08 15:01:51 - INFO - POST http://skycastle.cho0h5.org:8001/room/illuminance 성공: {'success': True}
+2024-12-08 15:01:51 - INFO - Received from Server - light: 854.87
+2024-12-08 15:01:52 - INFO - Received from Server - temperature: 25.12
+2024-12-08 15:01:52 - INFO - Received from Server - servo: 90
+2024-12-08 15:01:53 - INFO - Received from Server - servo: 90
+2024-12-08 15:01:53 - INFO - Received from Server - servo: 90
+2024-12-08 15:01:54 - INFO - Received from Server - servo: 90
+2024-12-08 15:01:55 - INFO - Received from Server - servo: 90
+2024-12-08 15:01:55 - INFO - Received from Arduino: Temperature:21.02,Lux:862.17
+2024-12-08 15:01:56 - INFO - POST http://skycastle.cho0h5.org:8001/room/temperature 성공: {'success': True}
+2024-12-08 15:01:56 - INFO - POST http://skycastle.cho0h5.org:8001/room/illuminance 성공: {'success': True}
+2024-12-08 15:01:56 - INFO - Received from Server - light: 862.17
+2024-12-08 15:01:56 - INFO - Received from Server - temperature: 21.02
+2024-12-08 15:01:56 - INFO - Received from Server - servo: 90
+2024-12-08 15:01:57 - INFO - Received from Server - servo: 90
+2024-12-08 15:01:58 - INFO - Received from Server - servo: 90
+2024-12-08 15:01:59 - INFO - Received from Server - servo: 90
+2024-12-08 15:01:59 - INFO - Received from Server - servo: 90
+2024-12-08 15:02:00 - INFO - Received from Server - servo: 90
+2024-12-08 15:02:00 - INFO - Received from Arduino: Temperature:22.04,Lux:852.87
+2024-12-08 15:02:01 - INFO - POST http://skycastle.cho0h5.org:8001/room/temperature 성공: {'success': True}
+2024-12-08 15:02:01 - INFO - POST http://skycastle.cho0h5.org:8001/room/illuminance 성공: {'success': True}
+2024-12-08 15:02:01 - INFO - Received from Server - light: 852.87
+2024-12-08 15:02:01 - INFO - Received from Server - temperature: 22.04
+2024-12-08 15:02:01 - INFO - Received from Server - servo: 90
+2024-12-08 15:02:02 - INFO - Received from Server - servo: 90
+2024-12-08 15:02:03 - INFO - Received from Server - servo: 90
+2024-12-08 15:02:04 - INFO - Received from Server - servo: 90
+2024-12-08 15:02:05 - INFO - Received from Server - servo: 90
+2024-12-08 15:02:05 - INFO - Received from Arduino: Temperature:24.00,Lux:854.57
+2024-12-08 15:02:05 - INFO - POST http://skycastle.cho0h5.org:8001/room/temperature 성공: {'success': True}
+2024-12-08 15:02:06 - INFO - POST http://skycastle.cho0h5.org:8001/room/illuminance 성공: {'success': True}
+2024-12-08 15:02:06 - INFO - Received from Server - light: 854.57
+2024-12-08 15:02:06 - INFO - Received from Server - temperature: 24.0
+2024-12-08 15:02:06 - INFO - Received from Server - servo: 90
+2024-12-08 15:02:07 - INFO - Received from Server - servo: 90
+2024-12-08 15:02:08 - INFO - Received from Server - servo: 90
+2024-12-08 15:02:09 - INFO - Received from Server - servo: 90
+2024-12-08 15:02:09 - INFO - Received from Server - servo: 90
+2024-12-08 15:02:10 - INFO - Received from Server - servo: 90
+2024-12-08 15:02:11 - INFO - Received from Arduino: Temperature:21.65,Lux:863.97
+2024-12-08 15:02:11 - INFO - POST http://skycastle.cho0h5.org:8001/room/temperature 성공: {'success': True}
+2024-12-08 15:02:13 - INFO - POST http://skycastle.cho0h5.org:8001/room/illuminance 성공: {'success': True}
+2024-12-08 15:02:13 - INFO - Received from Server - light: 863.97
+2024-12-08 15:02:13 - INFO - Received from Server - temperature: 21.65
+2024-12-08 15:02:13 - INFO - Received from Server - servo: 90
+2024-12-08 15:02:14 - INFO - Received from Server - servo: 90
+2024-12-08 15:02:15 - INFO - Received from Server - servo: 90
+2024-12-08 15:02:16 - INFO - Received from Arduino: Temperature:20.67,Lux:854.60
+2024-12-08 15:02:16 - INFO - POST http://skycastle.cho0h5.org:8001/room/temperature 성공: {'success': True}
+2024-12-08 15:02:16 - INFO - POST http://skycastle.cho0h5.org:8001/room/illuminance 성공: {'success': True}
+2024-12-08 15:02:17 - INFO - Received from Server - light: 854.6
+2024-12-08 15:02:17 - INFO - Received from Server - temperature: 20.67
+2024-12-08 15:02:17 - INFO - Received from Server - servo: 90
+2024-12-08 15:02:18 - INFO - Received from Server - servo: 90
+2024-12-08 15:02:19 - INFO - Received from Server - servo: 90
+2024-12-08 15:02:20 - INFO - Received from Server - servo: 90
+2024-12-08 15:02:20 - INFO - Received from Arduino: Temperature:25.42,Lux:858.90
+2024-12-08 15:02:20 - INFO - POST http://skycastle.cho0h5.org:8001/room/temperature 성공: {'success': True}
+2024-12-08 15:02:21 - INFO - POST http://skycastle.cho0h5.org:8001/room/illuminance 성공: {'success': True}
+2024-12-08 15:02:21 - INFO - Received from Server - light: 858.9
+2024-12-08 15:02:21 - INFO - Received from Server - temperature: 25.42
+2024-12-08 15:02:21 - INFO - Received from Server - servo: 90
+2024-12-08 15:02:22 - INFO - Received from Server - servo: 90
+2024-12-08 15:02:23 - INFO - Received from Server - servo: 90
+2024-12-08 15:02:24 - INFO - Received from Server - servo: 90
+2024-12-08 15:02:25 - INFO - Received from Server - servo: 90
+2024-12-08 15:02:25 - INFO - Received from Arduino: Temperature:25.12,Lux:862.53
+2024-12-08 15:02:25 - INFO - POST http://skycastle.cho0h5.org:8001/room/temperature 성공: {'success': True}
+2024-12-08 15:02:26 - INFO - POST http://skycastle.cho0h5.org:8001/room/illuminance 성공: {'success': True}
+2024-12-08 15:02:26 - INFO - Received from Server - light: 862.53
+2024-12-08 15:02:26 - INFO - Received from Server - temperature: 25.12
+2024-12-08 15:02:26 - INFO - Received from Server - servo: 90
+2024-12-08 15:02:27 - INFO - Received from Server - servo: 90
+2024-12-08 15:02:28 - INFO - Received from Server - servo: 90
+2024-12-08 15:02:28 - INFO - Received from Server - servo: 90
+2024-12-08 15:02:29 - INFO - Received from Server - servo: 90
+2024-12-08 15:02:30 - INFO - Received from Server - servo: 90
+2024-12-08 15:02:31 - INFO - Received from Arduino: Temperature:25.76,Lux:852.43
+2024-12-08 15:02:31 - INFO - POST http://skycastle.cho0h5.org:8001/room/temperature 성공: {'success': True}
+2024-12-08 15:02:31 - INFO - POST http://skycastle.cho0h5.org:8001/room/illuminance 성공: {'success': True}
+2024-12-08 15:02:31 - INFO - Received from Server - light: 852.43
+2024-12-08 15:02:31 - INFO - Received from Server - temperature: 25.76
+2024-12-08 15:02:32 - INFO - Received from Server - servo: 90
+2024-12-08 15:02:33 - INFO - Received from Server - servo: 90
+2024-12-08 15:02:33 - INFO - Received from Server - servo: 90
+2024-12-08 15:02:34 - INFO - Received from Server - servo: 90
+2024-12-08 15:02:35 - INFO - Received from Server - servo: 90
+2024-12-08 15:02:35 - INFO - Received from Arduino: Temperature:26.88,Lux:862.90
+2024-12-08 15:02:36 - INFO - POST http://skycastle.cho0h5.org:8001/room/temperature 성공: {'success': True}
+2024-12-08 15:02:36 - INFO - POST http://skycastle.cho0h5.org:8001/room/illuminance 성공: {'success': True}
+2024-12-08 15:02:36 - INFO - Received from Server - light: 862.9
+2024-12-08 15:02:36 - INFO - Received from Server - temperature: 26.88
+2024-12-08 15:02:37 - INFO - Received from Server - servo: 90
+2024-12-08 15:02:37 - INFO - Received from Server - servo: 90
+2024-12-08 15:02:38 - INFO - Received from Server - servo: 90
+2024-12-08 15:02:39 - INFO - Received from Server - servo: 90
+2024-12-08 15:02:39 - INFO - Received from Server - servo: 90
+2024-12-08 15:02:40 - INFO - Received from Server - servo: 90
+2024-12-08 15:02:40 - INFO - Received from Arduino: Temperature:24.39,Lux:856.37
+2024-12-08 15:02:41 - INFO - POST http://skycastle.cho0h5.org:8001/room/temperature 성공: {'success': True}
+2024-12-08 15:02:41 - INFO - POST http://skycastle.cho0h5.org:8001/room/illuminance 성공: {'success': True}
+2024-12-08 15:02:41 - INFO - Received from Server - light: 856.37
+2024-12-08 15:02:41 - INFO - Received from Server - temperature: 24.39
+2024-12-08 15:02:42 - INFO - Received from Server - servo: 90
+2024-12-08 15:02:45 - ERROR - GET 요청 오류: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2024-12-08 15:02:45 - INFO - Received from Arduino: Temperature:23.56,Lux:856.13
+2024-12-08 15:02:46 - ERROR - POST 요청 오류: HTTPConnectionPool(host='skycastle.cho0h5.org', port=8001): Max retries exceeded with url: /room/temperature (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f97e6d690>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2024-12-08 15:02:46 - ERROR - POST 요청 오류: HTTPConnectionPool(host='skycastle.cho0h5.org', port=8001): Max retries exceeded with url: /room/illuminance (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f98ecfb50>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2024-12-08 15:02:46 - ERROR - GET 요청 오류: HTTPConnectionPool(host='skycastle.cho0h5.org', port=8001): Max retries exceeded with url: /room/illuminance (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f98effd10>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2024-12-08 15:02:46 - ERROR - GET 요청 오류: HTTPConnectionPool(host='skycastle.cho0h5.org', port=8001): Max retries exceeded with url: /room/temperature (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f97e7c150>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2024-12-08 15:02:46 - ERROR - GET 요청 오류: HTTPConnectionPool(host='skycastle.cho0h5.org', port=8001): Max retries exceeded with url: /room/servo (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f97e7e050>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2024-12-08 15:02:46 - ERROR - GET 요청 오류: HTTPConnectionPool(host='skycastle.cho0h5.org', port=8001): Max retries exceeded with url: /room/servo (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f97e84090>: Failed to establish a new connection: [Errno 111] Connection refused'))
