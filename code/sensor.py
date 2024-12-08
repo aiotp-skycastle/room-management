@@ -144,7 +144,6 @@ try:
                 previous_angle = desired_angle  # 각도 업데이트
 
 
-        # logging.info(f"time4: {current_time}")
         # 서보 모터 제어 주기
         time.sleep(0.5)
 

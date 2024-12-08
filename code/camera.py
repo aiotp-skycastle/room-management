@@ -54,8 +54,8 @@ def generate_hls():
         "-preset", "ultrafast",
         "-an",
         "-f", "hls",
-        "-hls_time", "3",
-        "-hls_list_size", "4",
+        "-hls_time", "4",
+        "-hls_list_size", "3",
         "-hls_flags", "delete_segments+split_by_time",
         "-hls_start_number_source", "epoch",  # 타임스탬프 기반 시작 번호
         os.path.join(HLS_DIR, "index.m3u8")
