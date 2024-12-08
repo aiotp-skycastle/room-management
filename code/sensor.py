@@ -85,6 +85,7 @@ def get_sensor_data(url):
     try:
         # logging.info(f"timesponse_data")
         response = requests.get(url, timeout=5)
+        response.raise_for_status() 
         # logging.info(response)
         response_data = response.json()
         # logging.info(f"timem: {response_data}")
@@ -94,10 +95,12 @@ def get_sensor_data(url):
             logging.warning(f"GET {url} 실패: success가 false입니다.")
             return None  # success가 false일 경우 None 반환
     except requests.exceptions.Timeout:
-        logging.error(f"요청이 타임아웃되었습니다: {e}")
+        logging.error("요청이 타임아웃되었습니다.")
     except requests.RequestException as e:
         logging.error(f"GET 요청 오류: {e}")
-        return None  # 요청 실패 시 None 반환
+    except ValueError:
+        logging.error("JSON 디코딩 오류")
+    return None  # 실패 시 None 반환
 
 try:
     last_sensor_time = time.time()  # 온도와 조도 센서의 마지막 전송 시간
@@ -131,39 +134,6 @@ try:
                 logging.info(f"Received from Server - temperature: {server_temperature}")
                 # 에어컨에 전달 (추가 구현 필요)
         
-        # current_time = time.time()
-        # # 1. 온도와 조도 데이터는 5초마다 서버로 전송
-        # if current_time - last_sensor_time >= 5 and ser:
-        #     if ser.in_waiting > 0:
-        #         data = ser.readline().decode('utf-8').strip()
-        #         if data:
-        #             logging.info(f"Received from Arduino: {data}")
-        #             try:
-        #                 parts = data.split(',')
-        #                 temperature = float(parts[0].split(':')[1])
-        #                 lux = float(parts[1].split(':')[1])
-
-        #                 # 서버에 온도와 조도 데이터 POST
-        #                 send_sensor_data(TEMP_POST_URL, temperature)
-        #                 send_sensor_data(LIGHT_POST_URL, lux)
-        #             except (ValueError, IndexError) as e:
-        #                 logging.error(f"Data parsing error: {e}")
-
-        #     # 서버에서 조도 값 GET
-        #     server_light = get_sensor_data(LIGHT_GET_URL)
-        #     if server_light is not None:  # success가 true일 때만 아두이노로 전송
-        #         logging.info(f"Received from Server - light: {server_light}")
-        #         if ser:
-        #             ser.write(f"Lux:{server_light}\n".encode())  # 아두이노로 조도 값 전송
-
-        #     # 서버에서 온도 값 GET
-        #     server_temperature = get_sensor_data(TEMP_GET_URL)
-        #     if server_temperature is not None:
-        #         logging.info(f"Received from Server - temperature: {server_temperature}")
-        #         # 에어컨에 전달 (추가 구현 필요)
-
-        #     last_sensor_time = current_time  # 마지막 전송 시간 업데이트
-
         # 2. 서보 모터는 0.5초마다 서버로부터 각도 값을 가져와 제어
         desired_angle = get_sensor_data(SERVO_URL)
         if desired_angle is not None:

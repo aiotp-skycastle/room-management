@@ -6,6 +6,9 @@ import shutil
 import hashlib
 import socket
 import logging
+import threading
+
+from datetime import datetime
 
 
 requests.packages.urllib3.util.connection.allowed_gai_family = lambda: socket.AF_INET
@@ -35,8 +38,12 @@ def get_file_hash(file_path):
     with open(file_path, 'rb') as f:
         return hashlib.md5(f.read()).hexdigest()
 
+
+ffmpeg_process = None
+
 # ffmpeg 명령어 실행 함수
 def generate_hls():
+    global ffmpeg_process
     ffmpeg_command = [
         "ffmpeg",
         "-f", "v4l2",
@@ -54,8 +61,18 @@ def generate_hls():
         os.path.join(HLS_DIR, "index.m3u8")
     ]
     try:
-        subprocess.Popen(ffmpeg_command, stdout=subprocess.PIPE, stderr=subprocess.PIPE)
+        ffmpeg_process = subprocess.Popen(ffmpeg_command, stdout=subprocess.PIPE, stderr=subprocess.PIPE, text=True)
         logging.info("ffmpeg started successfully.")
+        
+        # stderr 로그를 실시간으로 기록
+        def log_ffmpeg_output():
+            for line in ffmpeg_process.stderr:
+                line = line.strip()
+                if "Error" in line or "Failed" in line:
+                    logging.error(f"ffmpeg log: {line}")
+        
+        threading.Thread(target=log_ffmpeg_output, daemon=True).start()
+        
     except Exception as e:
         logging.error(f"Error starting ffmpeg: {e}")
 
@@ -66,28 +83,37 @@ def upload_file(file_path, file_hashes):
         current_hash = get_file_hash(file_path)
         
         # .m3u8 파일이거나 파일 내용이 변경된 경우에만 업로드
-        if file_path not in file_hashes or file_hashes[file_path] != current_hash:
+        if file_path not in file_hashes or file_hashes[file_path] != current_hash or (filename.endswith('.m3u8') and file_hashes[file_path] != current_hash):
             with open(file_path, 'rb') as f:
                 files = {'file': (filename, f)}
+                start_time = datetime.now()
                 response = requests.post(CAMERA_URL, files=files)
+                end_time = datetime.now()
+                duration = (end_time - start_time).total_seconds()
                 if response.status_code in [200, 201]:
-                    logging.info(f"Successfully uploaded: {file_path}")
+                    logging.info(f"Successfully uploaded: {file_path} (Duration: {duration:.2f} seconds)")
                     file_hashes[file_path] = current_hash
                 else:
                     logging.error(f"Failed to upload: {file_path}, Status code: {response.status_code}, Response: {response.text}")
-        elif filename.endswith('.m3u8'):
-             with open(file_path, 'rb') as f:
-                files = {'file': (filename, f)}
-                response = requests.post(CAMERA_URL, files=files)
-                if response.status_code in [200, 201]:
-                    logging.info(f"Successfully uploaded: {file_path}")
-                    file_hashes[file_path] = current_hash
-                else:
-                    logging.error(f"Failed to upload: {file_path}, Status code: {response.status_code}, Response: {response.text}")
+        # elif filename.endswith('.m3u8') and file_hashes[file_path] != current_hash:
+        #      with open(file_path, 'rb') as f:
+        #         files = {'file': (filename, f)}
+        #         start_time = datetime.now()
+        #         response = requests.post(CAMERA_URL, files=files)
+        #         end_time = datetime.now()
+        #         duration = (end_time - start_time).total_seconds()
+        #         if response.status_code in [200, 201]:
+        #             logging.info(f"Successfully uploaded: {file_path} (Duration: {duration:.2f} seconds)")
+        #             file_hashes[file_path] = current_hash
+        #         else:
+        #             logging.error(f"Failed to upload: {file_path}, Status code: {response.status_code}, Response: {response.text}")
         # else:
         #     logging.error(f"File not changed, skipping upload: {file_path}")
     except Exception as e:
         logging.error(f"Error uploading {file_path}: {e}")
+   
+def check_device():
+    return os.path.exists("/dev/video0")
         
 # 파일 전송 루프    
 if __name__ == "__main__":
@@ -102,6 +128,17 @@ if __name__ == "__main__":
 
     # HLS 파일 전송 루프
     while True:
+        if not check_device():
+            logging.error("/dev/video0 is not available. Restarting ffmpeg...")
+            if ffmpeg_process:
+                ffmpeg_process.terminate()
+            time.sleep(1)
+            generate_hls()
+            continue
+        
+        if ffmpeg_process and ffmpeg_process.poll() is not None:  # 프로세스 종료 확인
+            logging.error("ffmpeg process terminated unexpectedly. Restarting...")
+            generate_hls()  # 프로세스 재시작
         files = sorted(os.listdir(HLS_DIR))
         for file in files:
             file_path = os.path.join(HLS_DIR, file)
